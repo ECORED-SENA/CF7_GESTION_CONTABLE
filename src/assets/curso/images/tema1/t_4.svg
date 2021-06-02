@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 573 201.18" style="enable-background:new 0 0 573 201.18;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F6F6F6;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#12263F;}
+	.st3{font-family:'Roboto-Bold';}
+	.st4{font-size:13.4545px;}
+	.st5{font-family:'Roboto-Regular';}
+	.st6{font-size:11.9596px;}
+	.st7{fill:none;stroke:#AFAFAF;stroke-linecap:round;}
+	.st8{fill:#D9A171;}
+	.st9{font-size:17.9394px;}
+</style>
+<g transform="translate(9165 7718.676)">
+	<rect x="-9078.5" y="-7647.98" class="st0" width="400" height="52.32"/>
+	<rect x="-9078.5" y="-7595.66" class="st1" width="400" height="52.32"/>
+	<text transform="matrix(0.9339 0 0 1 -9063.1426 -7617.3379)" class="st2 st3 st4">Activo corto plazo</text>
+	<text transform="matrix(0.9339 0 0 1 -9063.1426 -7564.2676)" class="st2 st3 st4">Activo largo plazo</text>
+	<text transform="matrix(0.9339 0 0 1 -8918.6396 -7622.5703)" class="st2 st5 st6">Clientes</text>
+	<text transform="matrix(0.9339 0 0 1 -8918.6396 -7575.4795)" class="st2 st5 st6">Clientes a </text>
+	<text transform="matrix(0.9339 0 0 1 -8918.6396 -7559.7822)" class="st2 st5 st6">largo plazo</text>
+	<text transform="matrix(0.9339 0 0 1 -8839.7568 -7617.3379)" class="st2 st5 st6">563.189,29</text>
+	<text transform="matrix(0.9339 0 0 1 -8755.9873 -7565.0146)" class="st2 st5 st6">563.189,29</text>
+	<line class="st7" x1="-8940.98" y1="-7647.98" x2="-8940.98" y2="-7543.34"/>
+	<line class="st7" x1="-8853.72" y1="-7647.98" x2="-8853.72" y2="-7543.34"/>
+	<line class="st7" x1="-8767.85" y1="-7647.98" x2="-8767.85" y2="-7543.34"/>
+	<path class="st8" d="M-9078.5-7693.34h399.95v45.35h-399.95V-7693.34z"/>
+	<text transform="matrix(0.9339 0 0 1 -9060.5312 -7665.9238)" class="st1 st3 st9">Clasificación</text>
+	<text transform="matrix(0.9339 0 0 1 -8932.3066 -7664.4287)" class="st1 st3 st9">Cuentas</text>
+	<text transform="matrix(0.9339 0 0 1 -8831.7842 -7664.4287)" class="st1 st3 st9">Debe</text>
+	<text transform="matrix(0.9339 0 0 1 -8751.5449 -7664.4287)" class="st1 st3 st9">Haber</text>
+</g>
+</svg>
