@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 573 245.4" style="enable-background:new 0 0 573 245.4;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F6F6F6;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#12263F;}
+	.st3{font-family:'Roboto-Bold';}
+	.st4{font-size:11.0407px;}
+	.st5{font-family:'Roboto-Regular';}
+	.st6{font-size:9.814px;}
+	.st7{fill:none;stroke:#AFAFAF;stroke-linecap:round;}
+	.st8{fill:#D9A171;}
+	.st9{font-size:14.721px;}
+</style>
+<g id="Grupo_54945" transform="translate(-180 -10326)">
+	<rect id="Rectángulo_5420" x="266.5" y="10410.5" class="st0" width="400" height="70.6"/>
+	<rect id="Rectángulo_5421" x="266.5" y="10480.5" class="st1" width="400" height="42.8"/>
+	<text transform="matrix(1.1381 0 0 1 281.8574 10507.7061)" class="st2 st3 st4">Bancos</text>
+	<text transform="matrix(1.1381 0 0 1 281.8574 10435.6396)" class="st2 st3 st4">Valores </text>
+	<text transform="matrix(1.1381 0 0 1 281.8574 10452.2012)" class="st2 st3 st4">representativos de </text>
+	<text transform="matrix(1.1381 0 0 1 281.8574 10468.7617)" class="st2 st3 st4">deuda a largo plazo</text>
+	<text transform="matrix(1.1381 0 0 1 435.4111 10435.6396)" class="st2 st5 st6">365.000,00</text>
+	<text transform="matrix(1.1381 0 0 1 567.373 10511.5205)" class="st2 st5 st6">365.000,00</text>
+	<line id="Línea_160" class="st7" x1="404" y1="10410.5" x2="404" y2="10523.3"/>
+	<line id="Línea_162" class="st7" x1="531" y1="10410.5" x2="531" y2="10523.3"/>
+	<path id="Trazado_99540" class="st8" d="M266.5,10373.3h400v37.2h-400V10373.3z"/>
+	<text transform="matrix(1.1381 0 0 1 301.3867 10395.7705)" class="st1 st3 st9">CUENTA</text>
+	<text transform="matrix(1.1381 0 0 1 430.5273 10397.0957)" class="st1 st3 st9">DÉBITOS</text>
+	<text transform="matrix(1.1381 0 0 1 556.9053 10396.9971)" class="st1 st3 st9">CRÉDITOS</text>
+</g>
+</svg>

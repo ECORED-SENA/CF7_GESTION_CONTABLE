@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 573 301.1" style="enable-background:new 0 0 573 301.1;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F6F6F6;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#12263F;}
+	.st3{font-family:'Roboto-Bold';}
+	.st4{font-size:12.5737px;}
+	.st5{font-family:'Roboto-Regular';}
+	.st6{font-size:11.1766px;}
+	.st7{fill:none;stroke:#AFAFAF;stroke-linecap:round;}
+	.st8{fill:#D9A171;}
+	.st9{font-size:16.765px;}
+</style>
+<g id="Grupo_54954" transform="translate(-520 -1303.151)">
+	<rect id="Rectángulo_5425" x="591.5" y="1390.8" class="st0" width="430" height="79.7"/>
+	<rect id="Rectángulo_5427" x="591.5" y="1470.6" class="st1" width="430" height="85.2"/>
+	<text transform="matrix(1.0743 0 0 1 608.0098 1499.2574)" class="st2 st3 st4">Valores </text>
+	<text transform="matrix(1.0743 0 0 1 608.0098 1518.1168)" class="st2 st3 st4">representativos de </text>
+	<text transform="matrix(1.0743 0 0 1 608.0098 1536.9781)" class="st2 st3 st4">deudas a largo plazo</text>
+	<text transform="matrix(1.0743 0 0 1 608.0098 1419.4889)" class="st2 st3 st4">Valores </text>
+	<text transform="matrix(1.0743 0 0 1 608.0098 1438.3502)" class="st2 st3 st4">representativos de </text>
+	<text transform="matrix(1.0743 0 0 1 608.0098 1457.2086)" class="st2 st3 st4">deudas a corto plazo</text>
+	<text transform="matrix(1.0743 0 0 1 773.0801 1433.7994)" class="st2 st5 st6">390.441,89</text>
+	<text transform="matrix(1.0743 0 0 1 914.9395 1510.3893)" class="st2 st5 st6">390.441,89</text>
+	<line id="Línea_167" class="st7" x1="739.3" y1="1390.8" x2="739.3" y2="1555.7"/>
+	<line id="Línea_168" class="st7" x1="875.9" y1="1369.9" x2="875.9" y2="1558.5"/>
+	<path id="Trazado_99543" class="st8" d="M591.5,1348.5h429.9v42.4H591.5V1348.5z"/>
+	<text transform="matrix(1.0743 0 0 1 629.0039 1374.0846)" class="st1 st3 st9">CUENTA</text>
+	<text transform="matrix(1.0743 0 0 1 767.8301 1375.5934)" class="st1 st3 st9">DÉBITOS</text>
+	<text transform="matrix(1.0743 0 0 1 903.6865 1374.0846)" class="st1 st3 st9">CRÉDITOS</text>
+</g>
+</svg>

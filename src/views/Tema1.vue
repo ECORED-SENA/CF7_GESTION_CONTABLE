@@ -33,7 +33,7 @@
               .h4 Patrimonio:
               p Un instrumento de patrimonio es cualquier contrato que ponga de manifiesto una participación residual en los activos de una entidad, después de deducir todos sus pasivos. (Norma Internacional de Contabilidad, s.f. p.2).
     
-      #t_1_2.titulo-segundo
+      #t_1_1.titulo-segundo
         .h4.mt-5 1.1  Política Contable
 
       p Son los principios, bases, acuerdos reglas y procedimientos específicos adoptados por la entidad en la elaboración y presentación de los estados financieros.
@@ -114,7 +114,7 @@
       p.mt-5 El crédito constituye para el vendedor un activo financiero, pues es un derecho contractual.
       p Como es una transacción a largo plazo año, se debe reconocer el valor del dinero en el tiempo a la tasa del 5% efectiva anual, lo que implica el cálculo del valor presente del valor de la venta neta (491.100) para reconocer al final del año 1 y 2 el ajuste por concepto de los gastos financieros así:
       
-    SlyderC(:datos="datosSlyderC")
+    SlyderC(:datos="datosSlyder")
      
     .h5.mt-5.mb-4 Conceptos
 
@@ -197,6 +197,188 @@
               th MONTOS
               td 120.000,00
 
+    p.mt-5.mb-5 Tabla de amortización: para determinar los costos financieros a ajustar en cada periodo
+        .tabla-a.color-acento-contenido.mb-5
+          table
+            thead
+              tr
+                th PERIODOS
+                th EMONTO INICIA
+                th INTERESES
+                th MONTO FINAL
+            tbody
+              tr
+                td 1
+                td 120.000.00
+                td 2.828.05
+                td 122.828.05
+              tr
+                td 2
+                td 122.28.05
+                td 2894.70
+                td 125.722.75
+    
+    #t_1_2.titulo-segundo
+        .h4.mb-4.mt-5.mb-4 1.4 Pasivos Contingentes
+    p Es una obligación posible porque depende de que en el futuro ocurra algo que está fuera del alcance de la empresa para que sea reconocido el compromiso, por lo que los pasivos contingentes no se reconocen, pero si se revelan.
+      
+    .row.justify-content-center.align-items-center.mt-5
+          .col-lg-6
+              img.img-a.my-3(src="@/assets/curso/images/tema1/img_5.svg" alt="", style="width:500px; display:block; margin:auto 0;").img-fluid
+          .col-lg-6
+              .cajon.color-secundario.p-4.mb-4
+                .h5 Ejemplo
+                p Una organización espera el resultado de una demanda interpuesta por competencia desleal, los abogados estiman que la empresa tiene una probabilidad alta de perder, el veredicto lo darán los jueces dentro de dos años y se estima el valor de la indemnización en $3.000.000 de pesos.
+              p.mt-4 El hecho económico implica reconocer la provisión por valor de tres millones de pesos, pero como se estima para dentro de dos años su reconocimiento el día de hoy se debe medir a su valor presente utilizando una tasa de descuento de mercado.
+
+    #t_1_2.titulo-segundo
+        .h4.mb-4.mt-5.mb-4 1.5 Diferencia entre pasivo financiero e instrumento de patrimonio
+    p El emisor de un instrumento financiero lo clasificará en el momento de su reconocimiento como un pasivo financiero, un activo financiero o un instrumento de patrimonio de conformidad con el acuerdo contractual que protocoliza el instrumento. Una forma de distinguir un pasivo financiero de un instrumento de patrimonio es que exista una obligación contractual que recae sobre una cualquiera de las partes de entregar activos o intercambiar pasivos y activos de manera desfavorable para el emisor.
+
+    .row.mt-4
+      .col-lg-6
+        p Por ejemplo, si se trata de una Acción preferencial, esta será reconocida como un pasivo financiero si el emisor está obligado a reembolsar por una cantidad acordada.
+        br
+        p En el caso de un instrumento con opción de venta, es decir que el tenedor debe devolverlo al emisor a cambio de efectivo u otro activo se reconoce como un pasivo financiero.
+    #t_1_2.titulo-segundo
+        .h4.mb-4.mt-5.mb-4 1.6 Instrumentos Financieros Pasivos y Activos
+    p Para el caso de los instrumentos financieros pasivos y activos aplica la Norma Internacional de Información Financiera (NIIF) 9.
+  
+
+    .row.justify-content-center.align-items-center.mt-5
+        .col
+          h6.mb-2 Clases:
+          .col-sm  
+            
+                ul.lista-ul--color
+                  li 
+                    i.fas.fa-check
+                    | Bonos, certificados de depósito a término (CDT),
+                  li 
+                    i.fas.fa-check
+                    | Aceptaciones bancarias
+
+                  li
+                    i.fas.fa-check
+                    | Pagarés,
+                  li 
+                    i.fas.fa-check
+                    | Préstamos,
+                  li 
+                    i.fas.fa-check
+                    | Cuentas por cobrar
+
+          p.mt-3.mb-3 Instrumentos financieros de cobertura, derivados.
+
+
+          .col-sm  
+            
+                ul.lista-ul--color
+                  li 
+                    i.fas.fa-check
+                    | Opciones
+                  li 
+                    i.fas.fa-check
+                    | Forwards
+                  li
+                    i.fas.fa-check
+                    | Futuros
+                  
+        .col
+          img.img-a.my-3(src="@/assets/curso/images/tema1/img_6.svg" alt="", style="width:300px; display:block; margin:auto 0;").img-fluid
+
+    p.mt-5.mb-4 Los instrumentos de cobertura son derivados, es decir, activos cuya evolución depende de la que sigan otros (conocidos como subyacentes). Su popularidad se apoya, entre otros factores, en el hecho de que los futuros y muchas opciones se negocien en mercados organizados lo que permite que estos productos estén al alcance de pequeños inversores.
+
+    .row.justify-content-center.align-items-center.mt-5
+      .col-10
+        .cajon.color-secundario.p-4.mb-4
+          .h5 Ejemplo
+          p La sociedad Contable SAS realiza el 1/1/AÑO 1 una suscripción de bonos no cotizados cuyas condiciones son las siguientes:
+    
+    .row.justify-content-center.align-items-center.mt-4
+      .col-8
+        .tabla-a.color-acento-contenido.mb-5
+          table
+            thead
+              tr
+                th Suscripción
+                th 52
+                th bonos
+            tbody
+              tr
+                td Valor emisión
+                td 7.000
+                td Pesos por bono
+              tr
+                td Valor reembolso
+                td 8.000
+                td Pesos por bono
+    p.mt-3 Se requiere contabilizar las operaciones derivadas.
+
+    p.mt-3.mb-4 1-cálculo del interés efectivo
+    .row.justify-content-center.align-items-center.mt-4
+      .col-7
+        .tabla-a.color-acento-contenido.mb-5
+          table
+            thead
+              tr
+                th PERIODO
+                th MONTOS
+            tbody
+              tr
+                td 0
+                td -363000
+              tr
+                td AÑO 1
+                td 10920
+          
+      .col-auto
+        img.img-a.my-3(src="@/assets/curso/images/tema1/img_7.svg" alt="", style="width:400px; display:block; margin:auto 0;").img-fluid
+
+    p.mt-3 Tabla costo amortizado
+
+    .row.justify-content-center.align-items-center.mt-5
+      .col-12
+        .tabla-a.color-acento-contenido.mb-2
+          table
+            thead
+              tr
+                th AÑOS
+                th SALDO INICIAL
+                th INTERÉS EFECTIVO
+                th INTERÉS EXPLÍCITO
+                th INTERÉS IMPLÍCITO
+                th SALDO
+            tbody
+              tr
+                td <b>AÑO 1</b>
+                td 365.000,00
+                td 36.361,89
+                td 10.920,00
+                td 25.441,89
+                td 390.442
+              tr
+                td <b>AÑO 2</b>
+                td 390.441,89
+                td 38.896,45
+                td 10.920,00
+                td 27.976,45
+                td 418.418
+    
+    SlyderC(:datos="datosSlyderl")
+
+    br
+    br
+    br
+    br
+    br
+    br
+    br
+    br
+    br
+    br
+
+
     Muestras
   
 </template>
@@ -210,7 +392,7 @@ export default {
   },
   data: () => ({
     // variables de vue
-    datosSlyderC: [
+    datosSlyder: [
       {
         titulo:
           'Al fin del año 1 reconocimiento posterior del componente financiero',
@@ -237,6 +419,56 @@ export default {
         titulo: 'Reconocimiento por cobro de crédito.',
         texto: '',
         imagen: require('@/assets/curso/images/tema1/t_4.svg'),
+
+        //leyendaImagen: 'Leyenda de la imagen',
+      },
+    ],
+    datosSlyderl: [
+      {
+        titulo: 'Reconocimiento inicial',
+        texto: '',
+        imagen: require('@/assets/curso/images/tema1/t_5.svg'),
+        // leyendaImagen: 'Leyenda de la imagen',
+      },
+      {
+        titulo: 'AÑO 1. Cobro del interés explícito',
+        texto: '',
+        imagen: require('@/assets/curso/images/tema1/t_6.svg'),
+
+        // leyendaImagen: 'Leyenda de la imagen',
+      },
+      {
+        titulo: 'AÑO 1. Devengo del interés implícito',
+        texto: '',
+        imagen: require('@/assets/curso/images/tema1/t_7.svg'),
+
+        //leyendaImagen: 'Leyenda de la imagen',
+      },
+      {
+        titulo: 'AÑO 1. Reclasificación de los títulos a corto plazo.',
+        texto: '',
+        imagen: require('@/assets/curso/images/tema1/t_8.svg'),
+
+        //leyendaImagen: 'Leyenda de la imagen',
+      },
+      {
+        titulo: 'AÑO 2. Cobro del interés explícito',
+        texto: '',
+        imagen: require('@/assets/curso/images/tema1/t_9.svg'),
+
+        // leyendaImagen: 'Leyenda de la imagen',
+      },
+      {
+        titulo: 'AÑO 2. Devengo del interés implícito.',
+        texto: '',
+        imagen: require('@/assets/curso/images/tema1/t_10.svg'),
+
+        //leyendaImagen: 'Leyenda de la imagen',
+      },
+      {
+        titulo: 'AÑO 2 Reembolso de los títulos',
+        texto: '',
+        imagen: require('@/assets/curso/images/tema1/t_11.svg'),
 
         //leyendaImagen: 'Leyenda de la imagen',
       },
