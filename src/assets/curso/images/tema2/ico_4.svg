@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="603" height="278" viewBox="0 0 603 278">
+  <g id="Grupo_54983" data-name="Grupo 54983" transform="translate(-181 -4066)">
+    <path id="Trazado_102711" data-name="Trazado 102711" d="M0,0H603V278H0Z" transform="translate(181 4066)" fill="#d9a171" opacity="0.25"/>
+    <g id="Grupo_54978" data-name="Grupo 54978" transform="translate(-31 -9)">
+      <text id="Capital_Suscrito" data-name="Capital Suscrito" transform="translate(284 4259)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">Capital Suscrito</tspan></text>
+      <text id="Capital_autorizado" data-name="Capital autorizado" transform="translate(284 4152)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Capital autorizado</tspan></text>
+      <text id="Valor_por_acción" data-name="Valor por acción" transform="translate(284 4189)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Valor por acción</tspan></text>
+      <text id="Valor_total" data-name="Valor total" transform="translate(284 4240)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">Valor total</tspan></text>
+      <text id="_300.000.000_" data-name="300.000.000 " transform="translate(483 4240)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">300.000.000 </tspan></text>
+      <text id="_50_" data-name="50%" transform="translate(546 4274)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">50%</tspan></text>
+      <text id="_120.000" data-name="120.000" transform="translate(518 4152)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">120.000</tspan></text>
+      <text id="_2.500_00_" data-name="2.500,00 " transform="translate(511 4187)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">2.500,00 </tspan></text>
+      <line id="Línea_194" data-name="Línea 194" x1="188" transform="translate(388 4207)" fill="none" stroke="#727997" stroke-width="2"/>
+      <line id="Línea_195" data-name="Línea 195" x1="188" transform="translate(388 4294)" fill="none" stroke="#727997" stroke-width="2"/>
+      <text id="acciones" transform="translate(596 4135)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">acciones</tspan></text>
+    </g>
+  </g>
+</svg>

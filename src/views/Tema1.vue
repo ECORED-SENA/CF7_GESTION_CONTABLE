@@ -164,7 +164,7 @@
 
     hr.mt-5.mb-5
 
-    #t_1_2.titulo-segundo
+    #t_1_3.titulo-segundo
         .h4.mb-4.mt-5 1.3 Obligaciones con terceros
     
     p Todos los desembolsos requeridos para obtener un crédito con una entidad financiera como: estudios de créditos, seguros, entre otros, se deben reconocer en el préstamo. A continuación, encuentra ejemplos que permiten acercarse a un ejercicio real y cotidiano.
@@ -218,7 +218,7 @@
                 td 2894.70
                 td 125.722.75
     
-    #t_1_2.titulo-segundo
+    #t_1_4.titulo-segundo
         .h4.mb-4.mt-5.mb-4 1.4 Pasivos Contingentes
     p Es una obligación posible porque depende de que en el futuro ocurra algo que está fuera del alcance de la empresa para que sea reconocido el compromiso, por lo que los pasivos contingentes no se reconocen, pero si se revelan.
       
@@ -231,7 +231,7 @@
                 p Una organización espera el resultado de una demanda interpuesta por competencia desleal, los abogados estiman que la empresa tiene una probabilidad alta de perder, el veredicto lo darán los jueces dentro de dos años y se estima el valor de la indemnización en $3.000.000 de pesos.
               p.mt-4 El hecho económico implica reconocer la provisión por valor de tres millones de pesos, pero como se estima para dentro de dos años su reconocimiento el día de hoy se debe medir a su valor presente utilizando una tasa de descuento de mercado.
 
-    #t_1_2.titulo-segundo
+    #t_1_5.titulo-segundo
         .h4.mb-4.mt-5.mb-4 1.5 Diferencia entre pasivo financiero e instrumento de patrimonio
     p El emisor de un instrumento financiero lo clasificará en el momento de su reconocimiento como un pasivo financiero, un activo financiero o un instrumento de patrimonio de conformidad con el acuerdo contractual que protocoliza el instrumento. Una forma de distinguir un pasivo financiero de un instrumento de patrimonio es que exista una obligación contractual que recae sobre una cualquiera de las partes de entregar activos o intercambiar pasivos y activos de manera desfavorable para el emisor.
 
@@ -240,7 +240,7 @@
         p Por ejemplo, si se trata de una Acción preferencial, esta será reconocida como un pasivo financiero si el emisor está obligado a reembolsar por una cantidad acordada.
         br
         p En el caso de un instrumento con opción de venta, es decir que el tenedor debe devolverlo al emisor a cambio de efectivo u otro activo se reconoce como un pasivo financiero.
-    #t_1_2.titulo-segundo
+    #t_1_6.titulo-segundo
         .h4.mb-4.mt-5.mb-4 1.6 Instrumentos Financieros Pasivos y Activos
     p Para el caso de los instrumentos financieros pasivos y activos aplica la Norma Internacional de Información Financiera (NIIF) 9.
   
@@ -367,19 +367,6 @@
     
     SlyderC(:datos="datosSlyderl")
 
-    br
-    br
-    br
-    br
-    br
-    br
-    br
-    br
-    br
-    br
-
-
-    Muestras
   
 </template>
 
