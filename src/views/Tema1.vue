@@ -301,7 +301,7 @@
           p La sociedad Contable SAS realiza el 1/1/AÑO 1 una suscripción de bonos no cotizados cuyas condiciones son las siguientes:
     
     .row.justify-content-center.align-items-center.mt-4
-      .col-8
+      .col-10
         .tabla-a.color-acento-contenido.mb-5
           table
             thead
@@ -458,7 +458,7 @@
     h5.mt-5  Reconocimiento inicial 
 
     .row.mt-5
-      .col-8
+      .col-10
         .tabla-a.color-acento-contenido
           table
             thead
