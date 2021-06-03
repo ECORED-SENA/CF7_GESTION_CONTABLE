@@ -6,28 +6,27 @@
 	.st0{fill:#F6F6F6;}
 	.st1{fill:#FFFFFF;}
 	.st2{fill:#12263F;}
-	.st3{font-family:'Roboto-Bold';}
-	.st4{font-size:11.0407px;}
-	.st5{font-family:'Roboto-Regular';}
-	.st6{font-size:9.814px;}
-	.st7{fill:none;stroke:#AFAFAF;stroke-linecap:round;}
-	.st8{fill:#D9A171;}
-	.st9{font-size:14.721px;}
+	.st3{font-family:'ArialMT';}
+	.st4{font-size:12.5128px;}
+	.st5{font-size:11.1225px;}
+	.st6{fill:none;stroke:#AFAFAF;stroke-linecap:round;}
+	.st7{fill:#D9A171;}
+	.st8{font-size:16.6838px;}
 </style>
 <g id="Grupo_54959" transform="translate(-180 -11144.683)">
-	<rect id="Rectángulo_5429" x="266.5" y="11229.2" class="st0" width="400" height="38"/>
-	<rect id="Rectángulo_5430" x="266.5" y="11267.2" class="st1" width="400" height="74.8"/>
-	<text transform="matrix(1.1381 0 0 1 281.8574 11292.3516)" class="st2 st3 st4">Ingresos de valores </text>
-	<text transform="matrix(1.1381 0 0 1 281.8574 11308.9131)" class="st2 st3 st4">representativos de </text>
-	<text transform="matrix(1.1381 0 0 1 281.8574 11325.4736)" class="st2 st3 st4">deuda</text>
-	<text transform="matrix(1.1381 0 0 1 281.8574 11254.3232)" class="st2 st3 st4">Bancos</text>
-	<text transform="matrix(1.1381 0 0 1 435.4111 11254.3232)" class="st2 st5 st6">10.920,00</text>
-	<text transform="matrix(1.1381 0 0 1 567.373 11311.8018)" class="st2 st5 st6">10.920,00</text>
-	<line id="Línea_170" class="st7" x1="404" y1="11229.2" x2="404" y2="11342"/>
-	<line id="Línea_169" class="st7" x1="531" y1="11210.8" x2="531" y2="11323.6"/>
-	<path id="Trazado_99544" class="st8" d="M266.5,11192h400v37.2h-400V11192z"/>
-	<text transform="matrix(1.1381 0 0 1 301.3867 11214.4531)" class="st1 st3 st9">CUENTA</text>
-	<text transform="matrix(1.1381 0 0 1 430.5273 11215.7783)" class="st1 st3 st9">DÉBITOS</text>
-	<text transform="matrix(1.1381 0 0 1 556.9053 11214.4531)" class="st1 st3 st9">CRÉDITOS</text>
+	<rect id="Rectángulo_5429" x="266.5" y="11224.2" class="st0" width="400" height="43.1"/>
+	<rect id="Rectángulo_5430" x="266.5" y="11267.2" class="st1" width="400" height="84.8"/>
+	<text transform="matrix(1.0042 0 0 1 281.8574 11295.7314)" class="st2 st3 st4">Ingresos de valores </text>
+	<text transform="matrix(1.0042 0 0 1 281.8574 11314.501)" class="st2 st3 st4">representativos de </text>
+	<text transform="matrix(1.0042 0 0 1 281.8574 11333.2695)" class="st2 st3 st4">deuda</text>
+	<text transform="matrix(1.0042 0 0 1 281.8574 11252.6328)" class="st2 st3 st4">Bancos</text>
+	<text transform="matrix(1.0042 0 0 1 435.4111 11252.6328)" class="st2 st3 st5">10.920,00</text>
+	<text transform="matrix(1.0042 0 0 1 567.373 11317.7754)" class="st2 st3 st5">10.920,00</text>
+	<line id="Línea_170" class="st6" x1="404" y1="11224.2" x2="404" y2="11352"/>
+	<line id="Línea_169" class="st6" x1="531" y1="11203.3" x2="531" y2="11331.1"/>
+	<path id="Trazado_99544" class="st7" d="M266.5,11182h400v42.2h-400V11182z"/>
+	<text transform="matrix(1.0042 0 0 1 301.3867 11207.4463)" class="st1 st3 st8">CUENTA</text>
+	<text transform="matrix(1.0042 0 0 1 430.5273 11208.9482)" class="st1 st3 st8">DÉBITOS</text>
+	<text transform="matrix(1.0042 0 0 1 556.9053 11207.4463)" class="st1 st3 st8">CRÉDITOS</text>
 </g>
 </svg>

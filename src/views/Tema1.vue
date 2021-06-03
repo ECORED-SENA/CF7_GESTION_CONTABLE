@@ -8,13 +8,14 @@
       .h3 Instrumentos financieros: Activos, pasivos e instrumentos de patrimonio.
 
     p.mt-4.mb-4 A continuación, se relacionan algunos conceptos que se deben tener en cuenta en el reconocimiento y medición de instrumentos financieros:
+    
     .row
       .col-lg-12
         .tarjeta-Avatar-b.mb-5
-          img(src='@/assets/curso/images/tema1/ico_1.svg' alt='AvatarTop').img-float 
+          img(src='@/assets/curso/images/tema1/ico_1.svg' alt='AvatarTop')
           .tarjeta.acento-contenido
             .p-4
-              .h4 Activo financiero:
+              .h4.mt-3 Activo financiero:
               p Los activos financieros se clasifican de acuerdo modelo de negocio del suscriptor en tres categorías: a su costo amortizado, a valor razonable con cambios en el patrimonio otro (resultado integral) o a valor razonable con cambios en pérdidas y ganancias dependiendo de  las características de los flujos de efectivo descritos en el documento que protocoliza el instrumento financiero por ejemplo el cobro de los rendimientos generados por el activo o tener la intención de vender el activo. (Norma internacional de información financiera, 2016, p.9)
   
       .col-lg-12
@@ -22,7 +23,7 @@
           img(src='@/assets/curso/images/tema1/ico_2.svg' alt="", style="width:40px; display:block; margin:auto 0;").img-float 
           .tarjeta.acento-contenido
             .p-4
-              .h4 Pasivo Financiero:
+              .h4.mt-5 Pasivo Financiero:
               p Generalmente los pasivos financieros se miden a costo amortizado, excepto aquellos pasivos financieros que se mantienen para negociar, como por ejemplo los derivados, que se valoran a valor razonable con cambios en resultados.
     
       .col-lg-12
@@ -30,7 +31,7 @@
           img(src='@/assets/curso/images/tema1/ico_3.svg' alt="", style="width:40px; display:block; margin:auto 0;").img-float 
           .tarjeta.acento-contenido
             .p-4
-              .h4 Patrimonio:
+              .h4.mt-5 Patrimonio:
               p Un instrumento de patrimonio es cualquier contrato que ponga de manifiesto una participación residual en los activos de una entidad, después de deducir todos sus pasivos. (Norma Internacional de Contabilidad, s.f. p.2).
     
       #t_1_1.titulo-segundo
@@ -38,10 +39,10 @@
 
       p Son los principios, bases, acuerdos reglas y procedimientos específicos adoptados por la entidad en la elaboración y presentación de los estados financieros.
       br
-      p Una política contable debe contener:
+      p.mb-5 Una política contable debe contener:
 
-          .row.justify-content-center.align-items-center.mt-5
-            .col-sm 
+          .row.justify-content-center.align-items-center
+            .col-12.col-md-8.col-lg-6.col-xl-6
               ul.lista-ul--color
                 li 
                   i.fas.fa-check
@@ -59,8 +60,8 @@
               p Norma Internacional de Información financiera NIIF 9 define cómo se deben reconocer y medir los instrumentos financieros.
               br
               p La normativa que se debe tener en cuenta para la aplicación de Instrumentos Financieros es la siguiente:
-            .col-auto 
-                img.img-a.my-3(src="@/assets/curso/images/tema1/img_2.svg" alt="", style="width:400px; display:inline; margin:auto 8rem;").img-fluid
+            .col-12.col-md-8.col-lg-6.col-xl-6
+                img.img-a.my-3(src="@/assets/curso/images/tema1/img_2.svg" alt="", style="width:400px; display:block; margin:auto 0;").img-fluid
             p Figura 1
             h6 Normativa para la aplicación de instrumentos financieros
           .row.justify-content-center.align-items-center
@@ -70,7 +71,7 @@
       p.mt-5 Una entidad optará entre aplicar dependiendo del grupo al que pertenece:
 
       .row.justify-content-center.align-items-center.mt-5
-        .col-sm
+        .col-12.col-md-8.col-lg-6.col-xl-6
             ol.lista-ol--cuadro
               li 
                 .lista-ol--cuadro__vineta
@@ -80,11 +81,10 @@
                 .lista-ol--cuadro__vineta
                   span b
                 | Las disposiciones sobre reconocimiento y medición de la NIIF 9 Instrumentos financieros si pertenece al grupo número uno.
-      
-        .col-auto 
-            img.img-a.my-3(src="@/assets/curso/images/tema1/img_1.svg" alt="", style="width:300px; display:inline; margin:auto 8rem;").img-fluid
-      .col-6
-        p Cuando se aplique un cambio de una política contable se hará de forma retroactiva, como si la nueva política contable se hubiese aplicado siempre. Cuando sea impracticable determinar los efectos en cada periodo específico de un cambio en una política contable sobre la información comparativa para uno o más periodos anteriores para los que se presente información, la entidad aplicará la nueva política contable a los importes en libros de los activos y pasivos al principio del primer periodo para el que sea practicable la aplicación retroactiva, el cual podría ser el periodo actual.
+            
+            p.mt-5 Cuando se aplique un cambio de una política contable se hará de forma retroactiva, como si la nueva política contable se hubiese aplicado siempre. Cuando sea impracticable determinar los efectos en cada periodo específico de un cambio en una política contable sobre la información comparativa para uno o más periodos anteriores para los que se presente información, la entidad aplicará la nueva política contable a los importes en libros de los activos y pasivos al principio del primer periodo para el que sea practicable la aplicación retroactiva, el cual podría ser el periodo actual.
+        .col-12.col-md-8.col-lg-6.col-xl-6 
+            img.img-a.my-3(src="@/assets/curso/images/tema1/img_1.svg" alt="", style="width:400px; display:block; margin:auto 3rem;").img-fluid
       
       #t_1_2.titulo-segundo
         .h4.mt-5 1.2. Instrumentos financieros
@@ -97,10 +97,11 @@
 
       .row.justify-content-center.align-items-center.mt-5
         .col-lg-6
-          .cajon.color-secundario.p-4.mb-4
+          .cajon.color-secundario.p-4.mb-4.mt-4
             .h5 Ejemplo
             p El 17/11/año 1 la sociedad Contable SAS vendió a crédito 5.000 unidades del producto ZV a $ 100,50 por unidad, se ha concedido sobre la factura un descuento de $ 11.400, El pago se realizará dentro de 2 años y el descuento es del 5%.
-        .col-lg-6
+        .col-lg-6.mb-2 
+          p <b>Solución:</b>
           .tabla-b.color-acento-contenido.mb-5
             .tabla-b__header
               .h6.mb-0.text-white Factura
@@ -178,26 +179,30 @@
           img.img-jumbotron-padding(src='@/assets/curso/images/tema1/img_4.svg' alt="", style="width:340px; display:block; margin:auto 3rem;").img-float
 
     .row.justify-content-center.align-items-center.mt-5
-        .col-lg-6
+        .col-lg-4
           .cajon.color-secundario.p-4.mb-4
             .h5 Ejemplo 2:
             p Una empresa, pacta con una entidad financiera una obligación de $120.000, se pacta que, al finalizar 6 años, la empresa entrega a la entidad financiera $138.000 al finalizar los seis años.
         
           
-        .col-lg-6
+        .col-lg-8
           .tabla-b.color-acento-contenido.mb-5
             p.mt-3.mb-3 Determinó el interés efectivo incluida en la negociación utilizando la TIR.
-            .tabla-b__header
-              .h6.mb-0.text-white Factura
-          table
-            tr
-              th PERIODO
-              td 1
-            tr
-              th MONTOS
-              td 120.000,00
+            .tabla-a.color-acento-contenido.mb-5
+              table
+                thead
+                  tr
+                    th PERIODO
+                    th MONTOS  
+                tbody
+                  tr
+                    td 
+                    td 120.000.00
+                  tr
+                    td 1
+                    td -       
 
-    p.mt-5.mb-5 Tabla de amortización: para determinar los costos financieros a ajustar en cada periodo
+    p.mb-5 Tabla de amortización: para determinar los costos financieros a ajustar en cada periodo
         .tabla-a.color-acento-contenido.mb-5
           table
             thead
@@ -339,7 +344,7 @@
 
     .row.justify-content-center.align-items-center.mt-5
       .col-12
-        .tabla-a.color-acento-contenido.mb-2
+        .tabla-a.color-acento-contenido
           table
             thead
               tr
@@ -367,7 +372,109 @@
     
     SlyderC(:datos="datosSlyderl")
 
-  
+    .row.justify-content-center
+      .col-10
+        hr
+      
+        .row.justify-content-center.align-items-center
+          .col-auto
+            figure
+              img.me-5(src='@/assets/curso/images/tema1/ico_6.svg' alt="", style="width:100px; display:block; margin:auto 0;").img-float     
+          .col
+            h6.mb-2 Reconocimiento::
+            br
+            p.mb-2 La entidad reconocerá un instrumento financiero en sus informes financieros cuando se convierta en parte del contrato o negocio jurídico conforme a las disposiciones de este.
+        hr.mt-5.mb-4
+        .row.justify-content-center.align-items-center
+          .col-auto
+            figure
+              img.me-5(src='@/assets/curso/images/tema1/ico_7.svg' alt="", style="width:100px; display:block; margin:auto 0;").img-float      
+          .col
+            h6.mb-2 Medición Inicial:
+            br
+            p Los activos y los pasivos financieros se valoran inicialmente por su valor razonable que es el precio del hecho económico salvo evidencia en contrario.
+        hr.mt-5.mb-4
+        .row.justify-content-center.align-items-center
+          .col-auto
+            figure
+              img.me-5(src='@/assets/curso/images/tema1/ico_8.svg' alt="", style="width:100px; display:block; margin:auto 0;").img-float     
+          .col
+            h6.mb-2 Medición Posterior:
+            br
+            p Es la forma de reconocer en los estados financieros de manera posterior, el importe del instrumento con el reconocimiento de los ajustes correspondientes dependiendo de la forma como es reconocido y medido el título.
+            br
+            p La medición se efectúa de acuerdo con el modelo de negocio del suscriptor. A valor razonable con cambios en el resultado del ejercicio, a costo amortizado con el interés efectivo y a valor razonable con cambios en el patrimonio de la sociedad
+        hr.mt-5.mb-4
+        .row.justify-content-center.align-items-center
+          .col-auto
+            figure
+              img.me-5(src='@/assets/curso/images/tema1/ico_9.svg' alt="", style="width:100px; display:block; margin:auto 0;").img-float     
+          .col
+            h6.mb-2 Presentación:
+            br
+            p El emisor del título lo presentará clasificándolo en sus estados financieros totalmente o en la parte correspondiente, como un pasivo financiero, un activo financiero o un instrumento de patrimonio, de conformidad con las definiciones y características del hecho económico.
+        hr.mt-5.mb-4
+
+    .row.justify-content-center.align-items-center.mt-5
+      .col-10
+        .cajon.color-secundario.p-4.mb-4
+          .h5 Ejemplo
+          p.mb-3 La sociedad Contable SAS consultores adquiere un préstamo para compra de una propiedad inmobiliaria, por un valor de $128.000.000, le descuentan $400.000 para gastos de estudio del crédito. La tasa pactada es del 18% EA, con pago a 5 cuotas anuales iguales.
+    p Calculamos el valor de la cuota utilizando la herramienta pago en funciones financieras
+    |=PAGO
+    |=40468926,49
+    br
+    p <b>TABLA DE AMORTIZACIÓN CONTRACTUAL:</b> para el reconocimiento de los abonos a capital e intereses incluidos en cada cuota por pagar.
+
+    .row.justify-content-center.align-items-center.mt-5
+      .col-12
+        .tabla-a.color-acento-contenido
+          table
+            thead
+              tr
+                th AÑOS
+                th SALDO INICIAL
+                th CUOTA
+                th ABONO A INTERESES
+                th ABONO A CAPITAL
+                th SALDO FINAL
+            tbody
+              tr
+                td <b>AÑO 1</b>
+                td 128.000.000
+                td $ 40.468.926
+                td 22.400.000
+                td 18.068.926
+                td 109.931.074
+              tr
+                td <b>AÑO 2</b>
+                td 109.931.074
+                td $ 40.468.926
+                td 19.237.938
+                td 21.230.989
+                td 88.700.085
+
+    h5.mt-5  Reconocimiento inicial 
+
+    .row.mt-5
+      .col-8
+        .tabla-a.color-acento-contenido
+          table
+            thead
+              tr
+                th CUENTA
+                th DÉBITO
+                th CRÉDITO
+            tbody
+              tr
+                td <b>Obligaciones financieras</b>
+                td 
+                td 128.000.000,00
+              tr
+                td <b>Costo amortizado</b>
+                td 127.600.000,00
+                td Pesos por bono
+    
 </template>
 
 <script>
