@@ -1,8 +1,8 @@
-# **sena-base-2021 v3.1.0**
+# **Reconocimiento y medición de instrumentos financieros**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED-BASE-2021](https://ecored-sena.github.io/ECORED-BASE-2021)
+[https://ecored-sena.github.io/CF7_GESTION_CONTABLE/](https://ecored-sena.github.io/CF7_GESTION_CONTABLE/)
 
 #
 
