@@ -70,9 +70,9 @@
     br
     p También compra opciones de venta que le dan derecho a vender el paquete de acciones por $130.000.000, el precio pagado por la opción es de $1.300.000.
     br
-    p A 31 de diciembre del año 0 el valor razonable del paquete de acciones es de $125.000.000 y el valor razonable de la opción es de $1.600.000.
+    p.my-0 A 31 de diciembre del año 0 el valor razonable del paquete de acciones es de $125.000.000 y el valor razonable de la opción es de $1.600.000.
 
-    SlyderC(:datos="datosSlyderd")
+    SlyderC.mt-0(:datos="datosSlyderd")
 
     #t_2_2.titulo-segundo
       .h4 2.2 Aportes de Capital
@@ -100,10 +100,10 @@
       
     .row.justify-content-center.align-items-center.mt-5
         .col-lg-7
-          .tabla-a.color-acento-contenido.mb-5
+          .tabla.color-acento-contenido.mb-5
             table
               thead
-                tr
+                tr.th-1.text-center
                   th CUENTA
                   th DÉBITOS
                   th CRÉDITOS
@@ -120,10 +120,10 @@
           .tabla-b.color-acento-contenido.mb-5
             p.mt-3.mb-3 Determinó el interés efectivo incluida en la negociación utilizando la TIR.
             
-            .tabla-a.color-acento-contenido.mb-5
+            .tabla.mb-5
               table
                 thead
-                  tr
+                  tr.th-1.text-center
                     th CUENTA
                     th DÉBITOS
                     th CRÉDITOS
@@ -142,12 +142,65 @@
                     td 150.000.000
       
         p Detalle de las cuentas: 
+    
+    
+    .row.justify-content-center.align-items-center.mb-5.mt-5
+      .col-lg-4
+        .jumbotron-cafe.p-4
+          .row
+            .col-lg-4
+              p.mb-2 Capital autorizado       
+              p.mb-4 Valor por acción         
+              hr.border-2.line
+              p.mb-2 Valor total            
+              p.mb-2 Capital Suscrito              
+            .col-lg-8
+              p 120.000 acciones
+              P 2.500,00 
+              p 300.000.000
+              P 50%
+
+      .col-lg-6
+        .jumbotron-cafe.p-4
+          p.mb-2 Capital autorizado       150.000.000
+          p.mb-4 Valor por acción                70%
+          p                    .......................
+          p.mb-2 Valor total              105.000.000
+          p.mb-2 Capital Suscrito          45.000.000 
+          p                    .......................
 
     .row.justify-content-center.align-items-center.mb-5.mt-5
+      .col-lg-4
+        .jumbotron-cafe.p-4
+          p Aprendiendo S.A. 
+          p Estados de Situación Financiera Inicial  
+          p.mb-2 A 1/1/17
+          p.mb-2 Activos
+          p.mb-4 Activo Corriente
+
+          p.mb-2 Efectivo y sus equivalentes...........$105.000.000
+
+          p.mb-2 Total, activos...................................$105.000.000
+
+          strong.mb-2 Pasivos
+          p.mb-2 Total, Pasivos.....................................................0
+
+          p Patrimonio
+
+          p.mb-2 Capital social
+
+          p.mb-2 Capital autorizado........................$ 300.000.000
+
+          p.mb-2 Capital por suscribir.....................$ (150.000.000)
+
+          p.mb-2 Capital suscrito por cobrar............$ (45.000.000)
+
+          p.mb-2 Total, Patrimonio............................$ 105.000.000
+
+          p.mb-2 Total, Pasivo y Patrimonio.............$ 105.000.000
+
       .col-lg-6
-        img.img(src='@/assets/curso/images/tema2/ico_6.svg' alt="", style="width:500px; display:block; margin:auto 0;").img-float
-      .col-lg-6
-        img.img(src='@/assets/curso/images/tema2/img_12.svg' alt="", style="width:400px; display:block; margin:auto 0;").img-float
+        img.img-a(src='@/assets/curso/images/tema2/img_12.svg' alt="")
 
 
     #t_2_3.titulo-segundo
@@ -310,30 +363,30 @@ export default {
     // variables de vue
     datosSlyderd: [
       {
-        titulo: 'Reconocimiento inicial, compra del paquete de acciones',
-        texto: '',
+        titulo: '',
+        texto: 'Reconocimiento inicial, compra del paquete de acciones',
         imagen: require('@/assets/curso/images/tema2/t_1.svg'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
-        titulo: 'Reconocimiento inicial, compra del paquete de acciones',
-        texto: '',
+        titulo: '',
+        texto: 'Reconocimiento inicial, compra del paquete de acciones',
         imagen: require('@/assets/curso/images/tema2/t_2.svg'),
 
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
-        titulo: 'Reconocimiento posterior a 31 de diciembre.',
+        titulo: '',
         texto:
-          'Por la contabilización de la partida cubierta a valor razonable con cambios en resultados.',
+          'Reconocimiento posterior a 31 de diciembre. Por la contabilización de la partida cubierta a valor razonable con cambios en resultados.',
         imagen: require('@/assets/curso/images/tema2/t_3.svg'),
 
         //leyendaImagen: 'Leyenda de la imagen',
       },
       {
-        titulo: 'Reconocimiento posterior a 31 de diciembre.',
+        titulo: '',
         texto:
-          'Por la contabilización del instrumento de cobertura a su valor razonable, con cambios en los resultados del ejercicio.',
+          'Reconocimiento posterior a 31 de diciembre. Por la contabilización del instrumento de cobertura a su valor razonable, con cambios en los resultados del ejercicio.',
         imagen: require('@/assets/curso/images/tema2/t_4.svg'),
 
         //leyendaImagen: 'Leyenda de la imagen',

@@ -15,23 +15,23 @@
           img(src='@/assets/curso/images/tema1/ico_1.svg' alt='AvatarTop')
           .tarjeta.acento-contenido
             .p-4
-              .h4.mt-3 Activo financiero:
+              .h5.mt-3 Activo financiero:
               p Los activos financieros se clasifican de acuerdo modelo de negocio del suscriptor en tres categorías: a su costo amortizado, a valor razonable con cambios en el patrimonio otro (resultado integral) o a valor razonable con cambios en pérdidas y ganancias dependiendo de  las características de los flujos de efectivo descritos en el documento que protocoliza el instrumento financiero por ejemplo el cobro de los rendimientos generados por el activo o tener la intención de vender el activo. (Norma internacional de información financiera, 2016, p.9)
   
       .col-lg-12
         .tarjeta-Avatar-b.mb-5
-          img(src='@/assets/curso/images/tema1/ico_2.svg' alt="", style="width:40px; display:block; margin:auto 0;").img-float 
+          img(src='@/assets/curso/images/tema1/ico_2.svg' alt="", style="width:40px; display:block; margin:auto 0;")
           .tarjeta.acento-contenido
             .p-4
-              .h4.mt-5 Pasivo Financiero:
+              .h5.mt-5 Pasivo Financiero:
               p Generalmente los pasivos financieros se miden a costo amortizado, excepto aquellos pasivos financieros que se mantienen para negociar, como por ejemplo los derivados, que se valoran a valor razonable con cambios en resultados.
     
       .col-lg-12
         .tarjeta-Avatar-b.mb-5
-          img(src='@/assets/curso/images/tema1/ico_3.svg' alt="", style="width:40px; display:block; margin:auto 0;").img-float 
+          img(src='@/assets/curso/images/tema1/ico_3.svg' alt="", style="width:40px; display:block; margin:auto 0;") 
           .tarjeta.acento-contenido
             .p-4
-              .h4.mt-5 Patrimonio:
+              .h5.mt-5 Patrimonio:
               p Un instrumento de patrimonio es cualquier contrato que ponga de manifiesto una participación residual en los activos de una entidad, después de deducir todos sus pasivos. (Norma Internacional de Contabilidad, s.f. p.2).
     
       #t_1_1.titulo-segundo
@@ -39,7 +39,7 @@
 
       p Son los principios, bases, acuerdos reglas y procedimientos específicos adoptados por la entidad en la elaboración y presentación de los estados financieros.
       br
-      p.mb-5 Una política contable debe contener:
+      p Una política contable debe contener:
 
           .row.justify-content-center.align-items-center
             .col-12.col-md-8.col-lg-6.col-xl-6
@@ -61,16 +61,16 @@
               br
               p La normativa que se debe tener en cuenta para la aplicación de Instrumentos Financieros es la siguiente:
             .col-12.col-md-8.col-lg-6.col-xl-6
-                img.img-a.my-3(src="@/assets/curso/images/tema1/img_2.svg" alt="", style="width:400px; display:block; margin:auto 0;").img-fluid
-            p Figura 1
-            h6 Normativa para la aplicación de instrumentos financieros
+                img.img-a.my-5(src="@/assets/curso/images/tema1/img_2.svg" alt="", style="width:400px; display:block; margin:auto 0;")
+           
+          h6.mb-5.text-center Normativa para la aplicación de instrumentos financieros
           .row.justify-content-center.align-items-center
             .col-auto
-                img.img-a.my-3(src="@/assets/curso/images/tema1/img_3.svg" alt="", style="width:600px; display:block; margin:auto 0;").img-fluid
+                img.img-a.my-3(src="@/assets/curso/images/tema1/img_3.svg" alt="", style="width:600px; display:block; margin:auto 0;")
 
       p.mt-5 Una entidad optará entre aplicar dependiendo del grupo al que pertenece:
 
-      .row.justify-content-center.align-items-center.mt-5
+      .row.justify-content-center.align-items-center
         .col-12.col-md-8.col-lg-6.col-xl-6
             ol.lista-ol--cuadro
               li 
@@ -84,7 +84,7 @@
             
             p.mt-5 Cuando se aplique un cambio de una política contable se hará de forma retroactiva, como si la nueva política contable se hubiese aplicado siempre. Cuando sea impracticable determinar los efectos en cada periodo específico de un cambio en una política contable sobre la información comparativa para uno o más periodos anteriores para los que se presente información, la entidad aplicará la nueva política contable a los importes en libros de los activos y pasivos al principio del primer periodo para el que sea practicable la aplicación retroactiva, el cual podría ser el periodo actual.
         .col-12.col-md-8.col-lg-6.col-xl-6 
-            img.img-a.my-3(src="@/assets/curso/images/tema1/img_1.svg" alt="", style="width:400px; display:block; margin:auto 3rem;").img-fluid
+            img.img-a.my-3(src="@/assets/curso/images/tema1/img_1.svg" alt="", style="width:400px; display:block; margin:auto 3rem;")
       
       #t_1_2.titulo-segundo
         .h4.mt-5 1.2. Instrumentos financieros
@@ -130,7 +130,7 @@
     p Valor Razonable: es la intermediación efectiva que se hace a través de la oferta y demanda de forma libre, dicho de otra forma, es la interacción de un comprador y un vendedor, que se obligan y comprometen a transar una cantidad de bien determinando un precio y unas condiciones específicas en un mercado libre.
 
 
-    .h4.mt-5.mb-4 Reconocimiento y Medición
+    .h4.mt-5.mb-5 Reconocimiento y Medición
 
     ol.lista-ol--cuadro
       li 
@@ -146,7 +146,7 @@
     .jumbotron-4.mt-5
         .row.justify-content-center.align-items-center
           .col-auto
-              img.img-jumbotron-padding(src='@/assets/curso/images/tema1/img_9.svg' alt="", style="width:240px; display:block; margin:auto 3rem;").img-float
+              img.img-jumbotron-padding(src='@/assets/curso/images/tema1/img_9.svg' alt="", style="width:240px; display:block; margin:auto 3rem;")
           .col-sm 
               ul.lista-ul--color
                   li 
@@ -176,7 +176,7 @@
             .h5 Ejemplo 1:
             p La empresa Contable SAS, adquiere un préstamo para desarrollar un proyecto de expansión, por $200.000.000 con una tasa de interés sobre el préstamo pactado en un 2,5%El interés pactado, 2,5% es el costo financiero que debe asumir por el préstamo recibido.
         .col-auto
-          img.img-jumbotron-padding(src='@/assets/curso/images/tema1/img_4.svg' alt="", style="width:340px; display:block; margin:auto 3rem;").img-float
+          img.img-jumbotron-padding(src='@/assets/curso/images/tema1/img_4.svg' alt="", style="width:340px; display:block; margin:auto 3rem;")
 
     .row.justify-content-center.align-items-center.mt-5
         .col-lg-4
@@ -191,7 +191,7 @@
             .tabla-a.color-acento-contenido.mb-5
               table
                 thead
-                  tr
+                  tr.th-1.text-center
                     th PERIODO
                     th MONTOS  
                 tbody
@@ -206,7 +206,7 @@
         .tabla-a.color-acento-contenido.mb-5
           table
             thead
-              tr
+              tr.th-1.text-center
                 th PERIODOS
                 th EMONTO INICIA
                 th INTERESES
@@ -229,7 +229,7 @@
       
     .row.justify-content-center.align-items-center.mt-5
           .col-lg-6
-              img.img-a.my-3(src="@/assets/curso/images/tema1/img_5.svg" alt="", style="width:500px; display:block; margin:auto 0;").img-fluid
+              img.img-a.my-3(src="@/assets/curso/images/tema1/img_5.svg" alt="", style="width:500px; display:block; margin:auto 0;")
           .col-lg-6
               .cajon.color-secundario.p-4.mb-4
                 .h5 Ejemplo
@@ -290,7 +290,7 @@
                     | Futuros
                   
         .col
-          img.img-a.my-3(src="@/assets/curso/images/tema1/img_6.svg" alt="", style="width:300px; display:block; margin:auto 0;").img-fluid
+          img.img-a.my-3(src="@/assets/curso/images/tema1/img_6.svg" alt="", style="width:300px; display:block; margin:auto 0;")
 
     p.mt-5.mb-4 Los instrumentos de cobertura son derivados, es decir, activos cuya evolución depende de la que sigan otros (conocidos como subyacentes). Su popularidad se apoya, entre otros factores, en el hecho de que los futuros y muchas opciones se negocien en mercados organizados lo que permite que estos productos estén al alcance de pequeños inversores.
 
@@ -305,7 +305,7 @@
         .tabla-a.color-acento-contenido.mb-5
           table
             thead
-              tr
+              tr.th-1.text-center
                 th Suscripción
                 th 52
                 th bonos
@@ -326,7 +326,7 @@
         .tabla-a.color-acento-contenido.mb-5
           table
             thead
-              tr
+              tr.th-1.text-center
                 th PERIODO
                 th MONTOS
             tbody
@@ -338,7 +338,7 @@
                 td 10920
           
       .col-auto
-        img.img-a.my-3(src="@/assets/curso/images/tema1/img_7.svg" alt="", style="width:400px; display:block; margin:auto 0;").img-fluid
+        img.img-a.my-3(src="@/assets/curso/images/tema1/img_7.svg" alt="", style="width:400px; display:block; margin:auto 0;")
 
     p.mt-3 Tabla costo amortizado
 
@@ -347,7 +347,7 @@
         .tabla-a.color-acento-contenido
           table
             thead
-              tr
+              tr.th-1.text-center
                 th AÑOS
                 th SALDO INICIAL
                 th INTERÉS EFECTIVO
@@ -379,7 +379,7 @@
         .row.justify-content-center.align-items-center
           .col-auto
             figure
-              img.me-5(src='@/assets/curso/images/tema1/ico_6.svg' alt="", style="width:100px; display:block; margin:auto 0;").img-float     
+              img.me-5(src='@/assets/curso/images/tema1/ico_6.svg' alt="", style="width:100px; display:block; margin:auto 0;")    
           .col
             h6.mb-2 Reconocimiento::
             br
@@ -388,7 +388,7 @@
         .row.justify-content-center.align-items-center
           .col-auto
             figure
-              img.me-5(src='@/assets/curso/images/tema1/ico_7.svg' alt="", style="width:100px; display:block; margin:auto 0;").img-float      
+              img.me-5(src='@/assets/curso/images/tema1/ico_7.svg' alt="", style="width:100px; display:block; margin:auto 0;")      
           .col
             h6.mb-2 Medición Inicial:
             br
@@ -397,7 +397,7 @@
         .row.justify-content-center.align-items-center
           .col-auto
             figure
-              img.me-5(src='@/assets/curso/images/tema1/ico_8.svg' alt="", style="width:100px; display:block; margin:auto 0;").img-float     
+              img.me-5(src='@/assets/curso/images/tema1/ico_8.svg' alt="", style="width:100px; display:block; margin:auto 0;")    
           .col
             h6.mb-2 Medición Posterior:
             br
@@ -408,7 +408,7 @@
         .row.justify-content-center.align-items-center
           .col-auto
             figure
-              img.me-5(src='@/assets/curso/images/tema1/ico_9.svg' alt="", style="width:100px; display:block; margin:auto 0;").img-float     
+              img.me-5(src='@/assets/curso/images/tema1/ico_9.svg' alt="", style="width:100px; display:block; margin:auto 0;")     
           .col
             h6.mb-2 Presentación:
             br
@@ -422,6 +422,7 @@
           p.mb-3 La sociedad Contable SAS consultores adquiere un préstamo para compra de una propiedad inmobiliaria, por un valor de $128.000.000, le descuentan $400.000 para gastos de estudio del crédito. La tasa pactada es del 18% EA, con pago a 5 cuotas anuales iguales.
     p Calculamos el valor de la cuota utilizando la herramienta pago en funciones financieras
     |=PAGO
+    br
     |=40468926,49
     br
     p <b>TABLA DE AMORTIZACIÓN CONTRACTUAL:</b> para el reconocimiento de los abonos a capital e intereses incluidos en cada cuota por pagar.
@@ -431,7 +432,7 @@
         .tabla-a.color-acento-contenido
           table
             thead
-              tr
+              tr.th-1.text-center
                 th AÑOS
                 th SALDO INICIAL
                 th CUOTA
@@ -461,7 +462,7 @@
         .tabla-a.color-acento-contenido
           table
             thead
-              tr
+              tr.th-1.text-center
                 th CUENTA
                 th DÉBITO
                 th CRÉDITO
@@ -488,30 +489,30 @@ export default {
     // variables de vue
     datosSlyder: [
       {
-        titulo:
+        titulo: '',
+        texto:
           'Al fin del año 1 reconocimiento posterior del componente financiero',
-        texto: '',
         imagen: require('@/assets/curso/images/tema1/t_1.svg'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
-        titulo:
-          'Al final del año 2 reconocimiento posterior del componente financiero.',
-        texto: '',
+        titulo: '',
+        texto:
+          'Al final del año 2 reconocimiento posterior del componente financiero',
         imagen: require('@/assets/curso/images/tema1/t_2.svg'),
 
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
-        titulo: 'Por reclasificar el crédito del largo al corto plazo.',
-        texto: '',
+        titulo: '',
+        texto: 'Por reclasificar el crédito del largo al corto plazo',
         imagen: require('@/assets/curso/images/tema1/t_3.svg'),
 
         //leyendaImagen: 'Leyenda de la imagen',
       },
       {
-        titulo: 'Reconocimiento por cobro de crédito.',
-        texto: '',
+        titulo: '',
+        texto: 'Reconocimiento por cobro de crédito.',
         imagen: require('@/assets/curso/images/tema1/t_4.svg'),
 
         //leyendaImagen: 'Leyenda de la imagen',
@@ -519,49 +520,49 @@ export default {
     ],
     datosSlyderl: [
       {
-        titulo: 'Reconocimiento inicial',
-        texto: '',
+        titulo: '',
+        texto: 'Reconocimiento inicial',
         imagen: require('@/assets/curso/images/tema1/t_5.svg'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
-        titulo: 'AÑO 1. Cobro del interés explícito',
-        texto: '',
+        titulo: '',
+        texto: 'AÑO 1. Cobro del interés explícito',
         imagen: require('@/assets/curso/images/tema1/t_6.svg'),
 
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
-        titulo: 'AÑO 1. Devengo del interés implícito',
-        texto: '',
+        titulo: '',
+        texto: 'AÑO 1. Devengo del interés implícito',
         imagen: require('@/assets/curso/images/tema1/t_7.svg'),
 
         //leyendaImagen: 'Leyenda de la imagen',
       },
       {
-        titulo: 'AÑO 1. Reclasificación de los títulos a corto plazo.',
-        texto: '',
+        titulo: '',
+        texto: 'AÑO 1. Reclasificación de los títulos a corto plazo.',
         imagen: require('@/assets/curso/images/tema1/t_8.svg'),
 
         //leyendaImagen: 'Leyenda de la imagen',
       },
       {
-        titulo: 'AÑO 2. Cobro del interés explícito',
-        texto: '',
+        titulo: '',
+        texto: 'AÑO 2. Cobro del interés explícito',
         imagen: require('@/assets/curso/images/tema1/t_9.svg'),
 
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
-        titulo: 'AÑO 2. Devengo del interés implícito.',
-        texto: '',
+        titulo: '',
+        texto: 'AÑO 2. Devengo del interés implícito.',
         imagen: require('@/assets/curso/images/tema1/t_10.svg'),
 
         //leyendaImagen: 'Leyenda de la imagen',
       },
       {
-        titulo: 'AÑO 2 Reembolso de los títulos',
-        texto: '',
+        titulo: '',
+        texto: 'AÑO 2 Reembolso de los títulos',
         imagen: require('@/assets/curso/images/tema1/t_11.svg'),
 
         //leyendaImagen: 'Leyenda de la imagen',
