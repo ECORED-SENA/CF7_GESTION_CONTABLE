@@ -19,7 +19,7 @@
             img.img-a.my-3(src="@/assets/curso/images/tema2/img_9.svg" alt="", style="width:500px; display:block; margin:auto 0;")
 
     #t_2_1.titulo-segundo
-      .h4 2.1 Reconocimiento, medición, presentación, Revelación:
+        .h4 2.1 Reconocimiento, medición, presentación, Revelación:
 
     p.mt-5 En el presente ítem se aborda conceptos que determinan el reconocimiento de los instrumentos de patrimonio, a su vez presenta ejemplos que acompañan el proceso de aplicabilidad.
     
@@ -75,7 +75,7 @@
     SlyderC.mb-5.slyder-color(:datos="datosSlyderd")
 
     #t_2_2.titulo-segundo
-      .h4 2.2 Aportes de Capital
+        .h4 2.2 Aportes de Capital
     
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-6
@@ -227,14 +227,14 @@
 
 
     #t_2_3.titulo-segundo
-      .h4.mb-4 2.3 Ganancias Acumuladas:
+        .h4.mb-4 2.3 Ganancias Acumuladas:
     
     p Es el dinero guardado que no es entregado a los accionistas en forma de dividendos, estas ganancias se encuentran en el patrimonio como ganancias acumuladas en el estado de Situación Financiera.
     br
     p.mb-4 Este tiene como objetivo,  el estado de cambios en el patrimonio es un estado financiero que muestra los cambios en el mismo de un periodo con respecto a otro, y uno de los cambios más significativos tiene que ver precisamente con la política de dividendos que maneje la entidad, pues puede ocurrir que tenga como política no repartir el 100% de las utilidades del ejercicio, de tal manera que la parte no decretada para reparto queda acumulada para cuando los socios decidan distribuirla en los accionistas.
 
     #t_2_4.titulo-segundo
-      .h4.mb-4 2.4 Reservas
+        .h4.mb-4 2.4 Reservas
     p.mb-5 Están contempladas en el artículo 452,453 y 454 del Código del comercio, sección II reparto de utilidades.
 
     TabsC.color-acento-contenido.mb-5
@@ -299,7 +299,7 @@
 
 
     #t_2_5.titulo-segundo
-      .h4.mb-4 2.5 Otro Resultado Integral (ORI):   
+        .h4.mb-4 2.5 Otro Resultado Integral (ORI):   
     
     p.mt-5 Una entidad presentará su resultado integral total para un periodo: en un único estado del resultado integral, en cuyo caso el estado del resultado integral presentará todas las partidas de ingreso y gasto reconocidas en el periodo además de las partidas correspondientes a utilidades no realizadas, o en dos estados -un estado de resultados y un estado del resultado integral-, en cuyo caso el estado de resultados presentará todas las partidas de ingreso y gasto reconocidas en el periodo excepto las que estén reconocidas en el resultado integral total fuera del resultado.
     br
