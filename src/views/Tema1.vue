@@ -35,7 +35,7 @@
               p Un instrumento de patrimonio es cualquier contrato que ponga de manifiesto una participación residual en los activos de una entidad, después de deducir todos sus pasivos. (Norma Internacional de Contabilidad, s.f. p.2).
     
       #t_1_1.titulo-segundo
-        .h4.mt-5 1.1  Política Contable
+          .h4.mt-5 1.1  Política Contable
 
       p Son los principios, bases, acuerdos reglas y procedimientos específicos adoptados por la entidad en la elaboración y presentación de los estados financieros.
       br
@@ -89,7 +89,7 @@
         
       p Cuando se aplique un cambio de una política contable se hará de forma retroactiva, como si la nueva política contable se hubiese aplicado siempre. Cuando sea impracticable determinar los efectos en cada periodo específico de un cambio en una política contable sobre la información comparativa para uno o más periodos anteriores para los que se presente información, la entidad aplicará la nueva política contable a los importes en libros de los activos y pasivos al principio del primer periodo para el que sea practicable la aplicación retroactiva, el cual podría ser el periodo actual.
       #t_1_2.titulo-segundo
-        .h4.mt-5 1.2. Instrumentos financieros
+          .h4.mt-5 1.2. Instrumentos financieros
 
       p.mb-3 Para la ejecución de los instrumentos financieros es necesario conocer algunos elementos que son esenciales para el desarrollo e implementación de los mismos, estos elementos serán abordados a continuación.
       
