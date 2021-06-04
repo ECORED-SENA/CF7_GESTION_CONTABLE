@@ -56,21 +56,25 @@
                 li 
                   i.fas.fa-check
                   | Objetivo de la política contable.
-                
-              p Norma Internacional de Información financiera NIIF 9 define cómo se deben reconocer y medir los instrumentos financieros.
-              br
-              p La normativa que se debe tener en cuenta para la aplicación de Instrumentos Financieros es la siguiente:
-            .col-12.col-md-8.col-lg-6.col-xl-6
+
+              .cajon.color-secundario.p-4.mb-4.mt-4
+                .h5 Ejemplo
+                p Norma Internacional de Información financiera NIIF 9 define cómo se deben reconocer y medir los instrumentos financieros.   
+            
+              
+            .col-12.col-md-8.col-lg-6.col-xl-6.mb-4
                 img.img-a.my-5(src="@/assets/curso/images/tema1/img_2.svg" alt="", style="width:400px; display:block; margin:auto 0;")
-           
+          p.mb-3.text-center La normativa que se debe tener en cuenta para la aplicación de Instrumentos Financieros es la siguiente: 
           h6.mb-5.text-center Normativa para la aplicación de instrumentos financieros
-          .row.justify-content-center.align-items-center
+          .row.justify-content-center.align-items-center.mb-5
             .col-auto
                 img.img-a.my-3(src="@/assets/curso/images/tema1/img_3.svg" alt="", style="width:600px; display:block; margin:auto 0;")
 
-      p.mt-5 Una entidad optará entre aplicar dependiendo del grupo al que pertenece:
+      p.text-center.mb-3 Una entidad optará entre aplicar dependiendo del grupo al que pertenece:
 
-      .row.justify-content-center.align-items-center
+      .row.justify-content-center.align-items-center.mb-3
+        .col-12.col-md-8.col-lg-6.col-xl-6 
+            img.img-a.my-3(src="@/assets/curso/images/tema1/img_1.svg" alt="", style="width:300px; display:block; margin:auto 4rem;")
         .col-12.col-md-8.col-lg-6.col-xl-6
             ol.lista-ol--cuadro
               li 
@@ -82,16 +86,21 @@
                   span b
                 | Las disposiciones sobre reconocimiento y medición de la NIIF 9 Instrumentos financieros si pertenece al grupo número uno.
             
-            p.mt-5 Cuando se aplique un cambio de una política contable se hará de forma retroactiva, como si la nueva política contable se hubiese aplicado siempre. Cuando sea impracticable determinar los efectos en cada periodo específico de un cambio en una política contable sobre la información comparativa para uno o más periodos anteriores para los que se presente información, la entidad aplicará la nueva política contable a los importes en libros de los activos y pasivos al principio del primer periodo para el que sea practicable la aplicación retroactiva, el cual podría ser el periodo actual.
-        .col-12.col-md-8.col-lg-6.col-xl-6 
-            img.img-a.my-3(src="@/assets/curso/images/tema1/img_1.svg" alt="", style="width:400px; display:block; margin:auto 3rem;")
-      
+        
+      p Cuando se aplique un cambio de una política contable se hará de forma retroactiva, como si la nueva política contable se hubiese aplicado siempre. Cuando sea impracticable determinar los efectos en cada periodo específico de un cambio en una política contable sobre la información comparativa para uno o más periodos anteriores para los que se presente información, la entidad aplicará la nueva política contable a los importes en libros de los activos y pasivos al principio del primer periodo para el que sea practicable la aplicación retroactiva, el cual podría ser el periodo actual.
       #t_1_2.titulo-segundo
         .h4.mt-5 1.2. Instrumentos financieros
 
-      p Para la ejecución de los instrumentos financieros es necesario conocer algunos elementos que son esenciales para el desarrollo e implementación de los mismos, estos elementos serán abordados a continuación.
-
-      .h5.mt-5.mb-4 Activo financiero
+      p.mb-3 Para la ejecución de los instrumentos financieros es necesario conocer algunos elementos que son esenciales para el desarrollo e implementación de los mismos, estos elementos serán abordados a continuación.
+      
+      .row.align-items-center.mb-3
+        .col-12
+            ol.lista-ol--cuadro
+              li 
+                .lista-ol--cuadro__vineta
+                  span a
+                h6 Activo financiero
+      
 
       p Un activo financiero es cualquier activo que posea la forma de efectivo, instrumento de patrimonio neto de otra entidad o que represente un derecho contractual o un contrato que pueda ser liquidado utilizando instrumentos de patrimonio propio de la entidad, los activos financieros deben ser medidos al costo amortizado, pero si son mantenidos para negociar se miden a valor razonable con cambios en el resultado del ejercicio.
 
@@ -112,10 +121,10 @@
             tr
               th Descuento
               td 11.400
-      p.mt-5 El crédito constituye para el vendedor un activo financiero, pues es un derecho contractual.
-      p Como es una transacción a largo plazo año, se debe reconocer el valor del dinero en el tiempo a la tasa del 5% efectiva anual, lo que implica el cálculo del valor presente del valor de la venta neta (491.100) para reconocer al final del año 1 y 2 el ajuste por concepto de los gastos financieros así:
+      p.mt-4 El crédito constituye para el vendedor un activo financiero, pues es un derecho contractual.
+      p.mb-3  Como es una transacción a largo plazo año, se debe reconocer el valor del dinero en el tiempo a la tasa del 5% efectiva anual, lo que implica el cálculo del valor presente del valor de la venta neta (491.100) para reconocer al final del año 1 y 2 el ajuste por concepto de los gastos financieros así:
       
-    SlyderC(:datos="datosSlyder")
+    SlyderC.slyder-color(:datos="datosSlyder")
      
     .h5.mt-5.mb-4 Conceptos
 
@@ -123,7 +132,14 @@
     br
     p.mb-5 Método de la tasa de Interés Efectiva: es un método para calcular el costo amortizado de un pasivo, calculando la tasa de descuento para igualar los flujos de efectivo, en el periodo cero o periodo de medición, es decir es la tasa que se le aplicará al instrumento financiero para calcular los intereses. Tomado de: Actualícese (2017, 17 de mayo).
     hr.mt-5.mb-5
-    .h4.mt-5.mb-4 Pasivos Financiero
+    
+    .row.align-items-center.mb-3
+        .col-12
+            ol.lista-ol--cuadro
+              li 
+                .lista-ol--cuadro__vineta
+                  span a
+                h6 Pasivos Financiero
 
     p Es cualquier pasivo que represente una obligación contractual de entregar dinero u otro activo financiero a otra entidad o de intercambiar activos financieros o pasivos financieros con otra entidad o un contrato que sea liquidado utilizando los instrumentos de patrimonio propio de la entidad, debe ser medido al costo amortizado utilizando la técnica del interés efectivo sin embargo si es para negociar incluidos los instrumentos derivados se mide a valor razonable con cambios en el estado de resultados. (Instrumentos financieros NIC 32 s.f p.9)
     br
@@ -131,16 +147,14 @@
 
 
     .h4.mt-5.mb-5 Reconocimiento y Medición
-
-    ol.lista-ol--cuadro
+    ul.lista-ul--color
       li 
-        .lista-ol--cuadro__vineta
-          span a
-        p <b>Medición Inicial:</b> Se genera en el momento en que se realiza el hecho económico incluidos los costos indirectos de constitución del título.
+        i.fas.fa-check
+        P <b>Medición Inicial:</b> Se genera en el momento en que se realiza el hecho económico incluidos los costos indirectos de constitución del título.
       li 
-        .lista-ol--cuadro__vineta
-          span b
+        i.fas.fa-check
         p <b>Medición Posterior:</b> Se genera en los momentos futuros al reconocimiento inicial y comprende los ajustes propios del instrumento, dependiendo del modelo de negocio que implicó su reconocimiento como para negociar o para la venta, por ejemplo, de tal manera que cuando se presente la información financiera los instrumentos estén valorados correctamente.
+       
     p.mt-3 Según la normatividad los instrumentos financieros que se pueden medir a costo amortizado son todos aquellos en los que se desea mantener el activo para cobrar sus flujos de efectivo contractuales como, por ejemplo:
 
     .jumbotron-4.mt-5
@@ -241,7 +255,7 @@
     p El emisor de un instrumento financiero lo clasificará en el momento de su reconocimiento como un pasivo financiero, un activo financiero o un instrumento de patrimonio de conformidad con el acuerdo contractual que protocoliza el instrumento. Una forma de distinguir un pasivo financiero de un instrumento de patrimonio es que exista una obligación contractual que recae sobre una cualquiera de las partes de entregar activos o intercambiar pasivos y activos de manera desfavorable para el emisor.
 
     .row.mt-4
-      .col-lg-6
+      .col-lg-12
         p Por ejemplo, si se trata de una Acción preferencial, esta será reconocida como un pasivo financiero si el emisor está obligado a reembolsar por una cantidad acordada.
         br
         p En el caso de un instrumento con opción de venta, es decir que el tenedor debe devolverlo al emisor a cambio de efectivo u otro activo se reconoce como un pasivo financiero.
@@ -321,56 +335,8 @@
     p.mt-3 Se requiere contabilizar las operaciones derivadas.
 
     p.mt-3.mb-4 1-cálculo del interés efectivo
-    .row.justify-content-center.align-items-center.mt-4
-      .col-7
-        .tabla-a.color-acento-contenido.mb-5
-          table
-            thead
-              tr.th-1.text-center
-                th PERIODO
-                th MONTOS
-            tbody
-              tr
-                td 0
-                td -363000
-              tr
-                td AÑO 1
-                td 10920
-          
-      .col-auto
-        img.img-a.my-3(src="@/assets/curso/images/tema1/img_7.svg" alt="", style="width:400px; display:block; margin:auto 0;")
-
-    p.mt-3 Tabla costo amortizado
-
-    .row.justify-content-center.align-items-center.mt-5
-      .col-12
-        .tabla-a.color-acento-contenido
-          table
-            thead
-              tr.th-1.text-center
-                th AÑOS
-                th SALDO INICIAL
-                th INTERÉS EFECTIVO
-                th INTERÉS EXPLÍCITO
-                th INTERÉS IMPLÍCITO
-                th SALDO
-            tbody
-              tr
-                td <b>AÑO 1</b>
-                td 365.000,00
-                td 36.361,89
-                td 10.920,00
-                td 25.441,89
-                td 390.442
-              tr
-                td <b>AÑO 2</b>
-                td 390.441,89
-                td 38.896,45
-                td 10.920,00
-                td 27.976,45
-                td 418.418
     
-    SlyderC(:datos="datosSlyderl")
+    SlyderC.slyder-color.mb-5(:datos="datosSlyderl")
 
     .row.justify-content-center
       .col-10
@@ -425,9 +391,10 @@
     br
     |=40468926,49
     br
-    p <b>TABLA DE AMORTIZACIÓN CONTRACTUAL:</b> para el reconocimiento de los abonos a capital e intereses incluidos en cada cuota por pagar.
+    br
+    p.mb-3 <b>TABLA DE AMORTIZACIÓN CONTRACTUAL:</b> para el reconocimiento de los abonos a capital e intereses incluidos en cada cuota por pagar.
 
-    .row.justify-content-center.align-items-center.mt-5
+    .row.justify-content-center.align-items-center.mb-4
       .col-12
         .tabla-a.color-acento-contenido
           table
@@ -455,9 +422,9 @@
                 td 21.230.989
                 td 88.700.085
 
-    h5.mt-5  Reconocimiento inicial 
+    h5.mb-4 Reconocimiento inicial 
 
-    .row.mt-5
+    .row
       .col-10
         .tabla-a.color-acento-contenido
           table
@@ -475,6 +442,7 @@
                 td <b>Costo amortizado</b>
                 td 127.600.000,00
                 td Pesos por bono
+
     
 </template>
 
@@ -519,6 +487,18 @@ export default {
       },
     ],
     datosSlyderl: [
+      {
+        titulo: '',
+        texto: 'AÑO 1. Suscripción',
+        imagen: require('@/assets/curso/images/tema1/t_13.svg'),
+        // leyendaImagen: 'Leyenda de la imagen',
+      },
+      {
+        titulo: '',
+        texto: 'Tabla costo amortizado',
+        imagen: require('@/assets/curso/images/tema1/t_12.svg'),
+        // leyendaImagen: 'Leyenda de la imagen',
+      },
       {
         titulo: '',
         texto: 'Reconocimiento inicial',

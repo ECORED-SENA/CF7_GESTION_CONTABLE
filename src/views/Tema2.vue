@@ -70,9 +70,9 @@
     br
     p También compra opciones de venta que le dan derecho a vender el paquete de acciones por $130.000.000, el precio pagado por la opción es de $1.300.000.
     br
-    p.my-0 A 31 de diciembre del año 0 el valor razonable del paquete de acciones es de $125.000.000 y el valor razonable de la opción es de $1.600.000.
+    p.mb-4 A 31 de diciembre del año 0 el valor razonable del paquete de acciones es de $125.000.000 y el valor razonable de la opción es de $1.600.000.
 
-    SlyderC.mt-0(:datos="datosSlyderd")
+    SlyderC.mt-0.slyder-color(:datos="datosSlyderd")
 
     #t_2_2.titulo-segundo
       .h4 2.2 Aportes de Capital
@@ -120,7 +120,7 @@
           .tabla-b.color-acento-contenido.mb-5
             p.mt-3.mb-3 Determinó el interés efectivo incluida en la negociación utilizando la TIR.
             
-            .tabla.mb-5
+            .tabla.mb-4
               table
                 thead
                   tr.th-1.text-center
@@ -141,37 +141,60 @@
                     td 
                     td 150.000.000
       
-        p Detalle de las cuentas: 
+        p.mb-5 Detalle de las cuentas: 
     
     
-    .row.justify-content-center.align-items-center.mb-5.mt-5
-      .col-lg-4
+    .row.justify-content-center.align-items-center.mb-5
+      .col-12.col-md-8.col-lg-6.col-xl-6
         .jumbotron-cafe.p-4
           .row
-            .col-lg-4
+            .col-12.col-md-8.col-lg-6.col-xl-6
               p.mb-2 Capital autorizado       
-              p.mb-4 Valor por acción         
-              hr.border-2.line
+              p.mb-3 Valor por acción
+              br         
+              img(src='@/assets/curso/images/tema2/line.svg' alt="", style="width:100px; display:block; margin:auto 18rem;")
+              br
               p.mb-2 Valor total            
-              p.mb-2 Capital Suscrito              
-            .col-lg-8
+              p.mb-2 Capital Suscrito
+              img(src='@/assets/curso/images/tema2/line.svg' alt="", style="width:100px; display:block; margin:auto 18rem;")
+              br              
+            .col-12.col-md-8.col-lg-6.col-xl-6
               p 120.000 acciones
+              br
+              
               P 2.500,00 
+              br
+              br
               p 300.000.000
               P 50%
-
-      .col-lg-6
+              
+      .col-12.col-md-8.col-lg-6.col-xl-6
         .jumbotron-cafe.p-4
-          p.mb-2 Capital autorizado       150.000.000
-          p.mb-4 Valor por acción                70%
-          p                    .......................
-          p.mb-2 Valor total              105.000.000
-          p.mb-2 Capital Suscrito          45.000.000 
-          p                    .......................
+          .row
+            .col-12.col-md-8.col-lg-6.col-xl-6
+              p.mb-2 Total suscrito      
+              p.mb-3 Pagado 
+              Before       
+              img(src='@/assets/curso/images/tema2/line.svg' alt="", style="width:100px; display:block; margin:auto 18rem;")
+              br
+              p.mb-2 Total capital pagado 
+              br           
+              p.mb-2 Capital Por pagar 
+              img(src='@/assets/curso/images/tema2/line.svg' alt="", style="width:100px; display:block; margin:auto 18rem;")
+              br           
+            .col-12.col-md-8.col-lg-6.col-xl-6
+              p 150.000.000
+              P 70%
+              br     
+              br        
+              p 105.000.000
+              br  
+              P 45.000.000 
+              
 
-    .row.justify-content-center.align-items-center.mb-5.mt-5
-      .col-lg-4
-        .jumbotron-cafe.p-4
+    .row.justify-content-center.align-items-center.mb-5
+      .col-12.col-md-8.col-lg-6.col-xl-6
+        .jumbotron-cafe.p-5
           p Aprendiendo S.A. 
           p Estados de Situación Financiera Inicial  
           p.mb-2 A 1/1/17
@@ -199,8 +222,8 @@
 
           p.mb-2 Total, Pasivo y Patrimonio.............$ 105.000.000
 
-      .col-lg-6
-        img.img-a(src='@/assets/curso/images/tema2/img_12.svg' alt="")
+      .col-lg-6.p-5
+        img.img-a(src='@/assets/curso/images/tema2/img_12.svg' alt="", style="width:400px; display:block; margin:auto 0;")
 
 
     #t_2_3.titulo-segundo
@@ -298,20 +321,39 @@
                   li
                     i.fas.fa-check
                     | Cambios en los importes recuperables de activos revalorizados con cambios en el patrimonio.
-    .row.justify-content-center.align-items-center.mb-5.mt-5
-      .col-lg-6
-        h6 Ejemplo: Presentación ORI
-        img.img(src='@/assets/curso/images/tema2/ico_7.svg' alt="", style="width:400px; display:block; margin:auto 0;")
-      .col-lg-6
-        h6 Otro resultado Integral
-        img.img(src='@/assets/curso/images/tema2/ico_8.svg' alt="", style="width:600px; display:block; margin:auto 0;")      
+    
+    .row.justify-content-center.align-items-center.mb-3
+      .col-12.col-md-8.col-lg-6.col-xl-6
+        .jumbotron-white.p-5
+          .row
+            .col-12.col-md-8.col-lg-6.col-xl-6
+            h6.mb-4 Ejemplo: Presentación ORI
+            p.mb-2 Ingresos ordinario...................... 500
+            p.mb-2 Ingresos ordinario...................... 200
+            p.mb-2 Ingresos ordinario...................... 300
+            p.mb-2 Ingresos ordinario...................... 100
+            p.mb-2 Ingresos ordinario...................... 200
+            p.mb-2 Ingresos ordinario...................... 70
+            p.mb-2 Ingresos ordinario...................... 130
+      .col-12.col-md-8.col-lg-6.col-xl-6
+        .jumbotron-white.p-5
+          .row
+            .col-12.col-md-8.col-lg-6.col-xl-6
+            h6.mb-4 Otro resultado Integral
+            p.mb-2 Variación valor razonable...........................100
+            p.mb-2 Conversión moneda extranjera..................150
+            p.mb-2 Cálculo actuarial...........................................50
+            p.mb-2 Valor razonable instrumentos financieros..45
+            p.mb-2 Total ORI..................................................... 345
+            p.mb-2 Resultado integral total..............................475
+           
 
-    p.mt-5 Para ampliar la información sobre la normatividad aplicable a instrumentos financieros, los invito a revisar los siguientes enlaces:
+    p.mb-3 Para ampliar la información sobre la normatividad aplicable a instrumentos financieros, los invito a revisar los siguientes enlaces:
 
-    p.mt-3 También denominada notas internas, utilizadas para enmendar errores o realizar ajustes contables. Se utiliza en aquellas operaciones que carecen de un soporte específico.
+    p.mb-3 También denominada notas internas, utilizadas para enmendar errores o realizar ajustes contables. Se utiliza en aquellas operaciones que carecen de un soporte específico.
 
     
-    .row.justify-content-center.align-items-center.mt-5
+    .row.justify-content-center.align-items-center
       .col
         p.mt-3 Consulte en la página Consejo Técnico de la Contaduría Pública, la Norma Internacional de Información financiera NIIF 7. 
 
