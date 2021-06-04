@@ -72,7 +72,7 @@
     br
     p.mb-4 A 31 de diciembre del año 0 el valor razonable del paquete de acciones es de $125.000.000 y el valor razonable de la opción es de $1.600.000.
 
-    SlyderC.mt-0.slyder-color(:datos="datosSlyderd")
+    SlyderC.mb-5.slyder-color(:datos="datosSlyderd")
 
     #t_2_2.titulo-segundo
       .h4 2.2 Aportes de Capital
