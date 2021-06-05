@@ -13,7 +13,7 @@
       .col-lg-12
         .tarjeta-Avatar-b.mb-5
           img(src='@/assets/curso/images/tema1/ico_1.svg' alt='AvatarTop')
-          .tarjeta.acento-contenido
+          .tarjeta.color-jumbotron
             .p-4
               .h5.mt-3 Activo financiero:
               p Los activos financieros se clasifican de acuerdo modelo de negocio del suscriptor en tres categorías: a su costo amortizado, a valor razonable con cambios en el patrimonio otro (resultado integral) o a valor razonable con cambios en pérdidas y ganancias dependiendo de  las características de los flujos de efectivo descritos en el documento que protocoliza el instrumento financiero por ejemplo el cobro de los rendimientos generados por el activo o tener la intención de vender el activo. (Norma internacional de información financiera, 2016, p.9)
@@ -21,7 +21,7 @@
       .col-lg-12
         .tarjeta-Avatar-b.mb-5
           img(src='@/assets/curso/images/tema1/ico_2.svg' alt="", style="width:40px; display:block; margin:auto 0;")
-          .tarjeta.acento-contenido
+          .tarjeta.color-jumbotron
             .p-4
               .h5.mt-5 Pasivo Financiero:
               p Generalmente los pasivos financieros se miden a costo amortizado, excepto aquellos pasivos financieros que se mantienen para negociar, como por ejemplo los derivados, que se valoran a valor razonable con cambios en resultados.
@@ -29,7 +29,7 @@
       .col-lg-12
         .tarjeta-Avatar-b.mb-5
           img(src='@/assets/curso/images/tema1/ico_3.svg' alt="", style="width:40px; display:block; margin:auto 0;") 
-          .tarjeta.acento-contenido
+          .tarjeta.color-jumbotron
             .p-4
               .h5.mt-5 Patrimonio:
               p Un instrumento de patrimonio es cualquier contrato que ponga de manifiesto una participación residual en los activos de una entidad, después de deducir todos sus pasivos. (Norma Internacional de Contabilidad, s.f. p.2).
@@ -74,7 +74,7 @@
 
       .row.justify-content-center.align-items-center.mb-3
         .col-12.col-md-8.col-lg-6.col-xl-6 
-            img.img-a.my-3(src="@/assets/curso/images/tema1/img_1.svg" alt="", style="width:300px; display:block; margin:auto 4rem;")
+            img.img-a.my-3(src="@/assets/curso/images/tema1/img_1.svg" alt="", style="width:300px; display:block; margin: 0 auto;")
         .col-12.col-md-8.col-lg-6.col-xl-6
             ol.lista-ol--cuadro
               li 
@@ -91,7 +91,7 @@
       #t_1_2.titulo-segundo
           .h4.mt-5 1.2. Instrumentos financieros
 
-      p.mb-3 Para la ejecución de los instrumentos financieros es necesario conocer algunos elementos que son esenciales para el desarrollo e implementación de los mismos, estos elementos serán abordados a continuación.
+      p.mb-5 Para la ejecución de los instrumentos financieros es necesario conocer algunos elementos que son esenciales para el desarrollo e implementación de los mismos, estos elementos serán abordados a continuación.
       
       .row.align-items-center.mb-3
         .col-12
