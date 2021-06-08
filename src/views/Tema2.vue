@@ -96,7 +96,7 @@
       .col-lg-6
         img.img-jumbotron-padding(src='@/assets/curso/images/tema2/img_11.svg' alt="", style="width:500px; display:block; margin:auto 0;")
       
-      p.mt-5 Reconocimiento Inicial
+      h4.titulo-cuarto  Reconocimiento Inicial
 
       
     .row.justify-content-center.align-items-center.mt-5
@@ -119,7 +119,6 @@
                   td 300.000.000
         .col-lg-8
           .tabla-b.color-acento-contenido.mb-5
-            p.mt-3.mb-3 Determinó el interés efectivo incluida en la negociación utilizando la TIR.
             
             .tabla.mb-4
               table
@@ -142,7 +141,7 @@
                     td 
                     td 150.000.000
       
-        p.mb-5 Detalle de las cuentas: 
+        h4.titulo-cuarto  Detalle de las cuentas: 
     
     
     .row.justify-content-center.align-items-center.mb-5
@@ -364,25 +363,25 @@
             .anexo__icono
               img(src="@/assets/template/icono-link.svg")
             .anexo__texto
-              p Enlace web. Consejo Técnico de la Contaduría Pública, 2010, P, A256.
+              p Consejo Técnico de la Contaduría Pública, 2010, P, A256.
           p.mt-3.mb-4 Consulte en la página del Consejo Técnico de la Contaduría Pública la Norma Internacional de Información financiera
           a.anexo.mb-4.mb-lg-0(href="https://www.ctcp.gov.co/proyectos/contabilidad-e-informacion-financiera/documentos-discusion-publica/enmienda-a-la-niif-9-instrumentos/doc-ctcp-xl8w9-141. " target="_blank")
             .anexo__icono
               img(src="@/assets/template/icono-link.svg")
             .anexo__texto
-              p Enlace web. Consejo Técnico de la Contaduría Pública, 2019 Página 5
+              p Consejo Técnico de la Contaduría Pública, 2019 Página 5
           p.mt-3.mb-4 Consulte en la página Consejo Técnico de la Contaduría Pública, el tema instrumentos del patrimonio, página12 y siguientes
           a.anexo.mb-4.mb-lg-0(href="http://www.ctcp.gov.co/publicaciones-ctcp/orientaciones-tecnicas/1472852072-9672" target="_blank")
             .anexo__icono
               img(src="@/assets/template/icono-link.svg")
             .anexo__texto
-              p Enlace web. Consejo Técnico de la Contaduría Pública, 2015, P., 2.
+              p Consejo Técnico de la Contaduría Pública, 2015, P., 2.
           p.mt-3.mb-4 Consulte en la página Consejo Técnico de la Contaduría Pública, el tema Otro Resultado Integral ORI, página 8 y siguientes.
           a.anexo.mb-4.mb-lg-0(href="http://www.ctcp.gov.co/publicaciones-ctcp/orientaciones-tecnicas/1472851475-1578" target="_blank")
             .anexo__icono
               img(src="@/assets/template/icono-link.svg")
             .anexo__texto
-              p Enlace web. Consejo Técnico de la Contaduría Pública, 2014, P.8.
+              p Consejo Técnico de la Contaduría Pública, 2014, P.8.
         .col-auto 
             img.img-a.my-3(src="@/assets/curso/images/tema2/img_14.svg" alt="", style="width:450px; display:inline-block; margin:auto 0").img-fluid
 
