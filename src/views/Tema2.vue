@@ -2,24 +2,25 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    
     .titulo-principal
-      .h3 Instrumentos financieros: Activos, pasivos e instrumentos de patrimonio.
+      .titulo-principal__numero
+        .h3 2
+      .h3 Instrumentos financieros: Activos, pasivos e instrumentos de patrimonio
 
-        .row.justify-content-center.align-items-center.mt-5
-          .col-lg-6
-            p Un instrumento de patrimonio es un negocio respaldado por un contrato que pone de manifiesto una participación residual en los activos de una entidad después de deducir todos los pasivos. 
-            br
-            p Algunos ejemplos de instrumentos de patrimonio, son las acciones ordinarias, ciertos tipos de acciones preferentes, así como, las opciones u otro tipo de derechos o bonos para la suscripción o compra de acciones ordinarias de la empresa.
-            br
-            p continuación, se relaciona un ejemplo específico de ello :
-            br
-            p Una obligación (contrato) que será cancelado por la entidad entregando o recibiendo una cantidad acordada de sus instrumentos de patrimonio propio a cambio de un importe fijo en efectivo o cualquier otro activo financiero será un instrumento de patrimonio.
-          .col-lg-6
-            img.img-a.my-3(src="@/assets/curso/images/tema2/img_9.svg" alt="", style="width:500px; display:block; margin:auto 0;")
+    .row.justify-content-center.align-items-center.mt-5
+      .col-lg-6
+        p Un instrumento de patrimonio es un negocio respaldado por un contrato que pone de manifiesto una participación residual en los activos de una entidad después de deducir todos los pasivos. 
+        br
+        p Algunos ejemplos de instrumentos de patrimonio, son las acciones ordinarias, ciertos tipos de acciones preferentes, así como, las opciones u otro tipo de derechos o bonos para la suscripción o compra de acciones ordinarias de la empresa.
+        br
+        p continuación, se relaciona un ejemplo específico de ello :
+        br
+        p.mb-5 Una obligación (contrato) que será cancelado por la entidad entregando o recibiendo una cantidad acordada de sus instrumentos de patrimonio propio a cambio de un importe fijo en efectivo o cualquier otro activo financiero será un instrumento de patrimonio.
+      .col-lg-6
+        img.img-a.my-3(src="@/assets/curso/images/tema2/img_9.svg" alt="", style="width:500px; display:block; margin:auto 0;")
 
     #t_2_1.titulo-segundo
-        .h4 2.1 Reconocimiento, medición, presentación, Revelación:
+        .h4 2.1 Reconocimiento, medición, presentación, revelación:
 
     p.mt-5 En el presente ítem se aborda conceptos que determinan el reconocimiento de los instrumentos de patrimonio, a su vez presenta ejemplos que acompañan el proceso de aplicabilidad.
     
@@ -72,7 +73,7 @@
     br
     p.mb-4 A 31 de diciembre del año 0 el valor razonable del paquete de acciones es de $125.000.000 y el valor razonable de la opción es de $1.600.000.
 
-    SlyderC.mb-5.slyder-color(:datos="datosSlyderd")
+    SlyderC.mb-5.slyder-C_content(:datos="datosSlyderd")
 
     #t_2_2.titulo-segundo
         .h4 2.2 Aportes de Capital
@@ -85,7 +86,7 @@
               p <b>Autorizado:</b> es el valor máximo de capitalización de una sociedad
             li 
               i.fas.fa-check
-              p <b>Suscrito:</b> Es la parte del capital autorizado, el cual los accionistas se comprometen a pagar, como si fuera una venta a plazos, sin superar el año, artículo 387 del Código del Comercio, para el caso de las Sociedades Simplificadas por acciones S.A.S, el plazo es de dos años acorde a la ley 1258 de 2008 artículo 387
+              p <b>Suscrito:</b> es la parte del capital autorizado, el cual los accionistas se comprometen a pagar, como si fuera una venta a plazos, sin superar el año, artículo 387 del Código del Comercio, para el caso de las Sociedades Simplificadas por acciones S.A.S, el plazo es de dos años acorde a la ley 1258 de 2008 artículo 387
             li 
               i.fas.fa-check
               p <b>Pagado:</b> Es la parte del capital suscrito que los accionistas han cancelado y que efectivamente se encuentran en poder de la sociedad.
@@ -303,7 +304,7 @@
     
     p.mt-5 Una entidad presentará su resultado integral total para un periodo: en un único estado del resultado integral, en cuyo caso el estado del resultado integral presentará todas las partidas de ingreso y gasto reconocidas en el periodo además de las partidas correspondientes a utilidades no realizadas, o en dos estados -un estado de resultados y un estado del resultado integral-, en cuyo caso el estado de resultados presentará todas las partidas de ingreso y gasto reconocidas en el periodo excepto las que estén reconocidas en el resultado integral total fuera del resultado.
     br
-    p.mb-4 Se reconocen como otro resultado integral Y forman parte del resultado integral total, cuando se producen:
+    p.mb-4 Se reconocen como otro resultado integral y forman parte del resultado integral total, cuando se producen:
 
     .row.justify-content-center.align-items-center.mt-5
         .col
@@ -405,30 +406,30 @@ export default {
     // variables de vue
     datosSlyderd: [
       {
-        titulo: '',
-        texto: 'Reconocimiento inicial, compra del paquete de acciones',
+        titulo: 'Reconocimiento inicial, compra del paquete de acciones',
+        texto: '',
         imagen: require('@/assets/curso/images/tema2/t_1.svg'),
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
-        titulo: '',
-        texto: 'Reconocimiento inicial, compra del paquete de acciones',
+        titulo: 'Reconocimiento inicial, compra del paquete de acciones',
+        texto: '',
         imagen: require('@/assets/curso/images/tema2/t_2.svg'),
 
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
-        titulo: '',
-        texto:
-          'Reconocimiento posterior a 31 de diciembre. Por la contabilización de la partida cubierta a valor razonable con cambios en resultados.',
+        titulo:
+          'Reconocimiento posterior a 31 de diciembre. Por la contabilización de la partida cubierta a valor razonable con cambios en resultados',
+        texto: '',
         imagen: require('@/assets/curso/images/tema2/t_3.svg'),
 
         //leyendaImagen: 'Leyenda de la imagen',
       },
       {
-        titulo: '',
-        texto:
-          'Reconocimiento posterior a 31 de diciembre. Por la contabilización del instrumento de cobertura a su valor razonable, con cambios en los resultados del ejercicio.',
+        titulo:
+          'Reconocimiento posterior a 31 de diciembre. Por la contabilización del instrumento de cobertura a su valor razonable, con cambios en los resultados del ejercicio',
+        texto: '',
         imagen: require('@/assets/curso/images/tema2/t_4.svg'),
 
         //leyendaImagen: 'Leyenda de la imagen',
