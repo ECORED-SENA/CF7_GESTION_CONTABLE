@@ -5,7 +5,7 @@
     .titulo-principal
       .titulo-principal__numero
         .h3 2
-      .h3 Instrumentos financieros: Activos, pasivos e instrumentos de patrimonio
+      .h3 Instrumentos financieros: activos, pasivos e instrumentos de patrimonio
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-6
@@ -20,11 +20,11 @@
         img.img-a.my-3(src="@/assets/curso/images/tema2/img_9.svg" alt="", style="width:500px; display:block; margin:auto 0;")
 
     #t_2_1.titulo-segundo
-        .h4 2.1 Reconocimiento, medición, presentación, revelación:
+        .h4 2.1 Reconocimiento, medición, presentación, revelación
 
     p.mt-5 En el presente ítem se aborda conceptos que determinan el reconocimiento de los instrumentos de patrimonio, a su vez presenta ejemplos que acompañan el proceso de aplicabilidad.
     
-    .h5.mt-5.mb-4 Reconocimiento:
+    .h5.mt-5.mb-4 Reconocimiento
 
     p Una entidad reconocerá la emisión de acciones o de otros instrumentos de patrimonio cuando emita esos instrumentos y otra parte esté obligada a proporcionar efectivo u otros recursos a la entidad a cambio de éstos. (Pasivos y patrimonio 2009, s.f).
     
@@ -54,12 +54,12 @@
           .col
             p En la medida en que los instrumentos de patrimonio hayan sido suscritos, pero no emitidos y la entidad no haya todavía recibido el efectivo o los otros recursos, la entidad no reconocerá un incremento en el patrimonio.
         hr.mt-5.mb-4
-    .h5.mt-5.mb-4 Medición:
+    .h5.mt-5.mb-4 Medición
 
     p Con los nuevos marcos normativos es improbable que el patrimonio contable multiplicado por el porcentaje de participación represente una estimación fiable del valor razonable de una inversión en instrumento de patrimonio sin cotización pública.
     p En periodos posteriores al reconocimiento inicial, y solo para algunos casos, por ejemplo, en inversiones patrimoniales de baja o ninguna bursatilidad, el valor determinado a partir de una remedición a valor razonable de todos los activos y pasivos de la entidad (patrimonio) podría representar una estimación fiable.
 
-    .row.justify-content-center.align-items-center.mt-5
+    .row.justify-content-center.align-items-center.mt-5.mb-3
         .col-lg-6
           .cajon.color-secundario.p-4.mb-4
             .h5 Ejemplo:
@@ -67,17 +67,15 @@
         .col-lg-6
           img.img-jumbotron-padding(src='@/assets/curso/images/tema2/img_13.svg' alt="", style="width:500px; display:block; margin:auto 0;")
 
-    p.mt-3 La sociedad Contable SAS, compra el primero de julio del año 0 un paquete de acciones del Banco de Bogotá, por valor de $130.000.000 y las clasifica como activos disponibles para la venta.
-    br
     p También compra opciones de venta que le dan derecho a vender el paquete de acciones por $130.000.000, el precio pagado por la opción es de $1.300.000.
     br
     p.mb-4 A 31 de diciembre del año 0 el valor razonable del paquete de acciones es de $125.000.000 y el valor razonable de la opción es de $1.600.000.
 
     SlyderC.mb-5.slyder-C_content(:datos="datosSlyderd")
-
     #t_2_2.titulo-segundo
-        .h4 2.2 Aportes de Capital
-    
+        .h4.mb-4 2.2 Aportes de capital
+  
+    p.mb-3 Los aportes iniciales de los socios corresponden al capital y está representado en acciones, libremente negociables en las bolsas de valores. 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-6
           ul.lista-ul--color
@@ -92,7 +90,8 @@
               p <b>Pagado:</b> Es la parte del capital suscrito que los accionistas han cancelado y que efectivamente se encuentran en poder de la sociedad.
           .cajon.color-secundario.p-4.mt-5.mb-4
             .h5 Ejemplo:
-            p La sociedad Contable SAS, compra el primero de julio del año 0 un paquete de acciones del Banco de Bogotá, por valor de $130.000.000 y las clasifica como activos disponibles para la venta.
+            p.mb-3 La sociedad Contable SAS, compra el primero de julio del año 0 un paquete de acciones del Banco de Bogotá, por valor de $130.000.000 y las clasifica como activos disponibles para la venta.
+            p En 2017 se constituyó la empresa Aprendiendo S.A., con un capital autorizado de 120.000 acciones con un valor por acción de $2.500, los accionistas suscribieron el 50% de las acciones autorizadas y pagaron el 70% de la suscripción.
       .col-lg-6
         img.img-jumbotron-padding(src='@/assets/curso/images/tema2/img_11.svg' alt="", style="width:500px; display:block; margin:auto 0;")
       
@@ -191,7 +190,7 @@
               br  
               P 45.000.000 
               
-
+    h4.mb-3 Presentación:
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-md-8.col-lg-6.col-xl-6
         .jumbotron-cafe.p-5
@@ -241,36 +240,48 @@
         .py-3.py-md-4(titulo="Art. 452")
           .row
             .col-12
-              .h6.mb-3  Reserva Legal.
-              p Una entidad presentará su resultado integral total para un periodo: en un único estado del resultado integral, en cuyo caso el estado del resultado integral presentará todas las partidas de ingreso y gasto reconocidas en el periodo además de las partidas correspondientes a utilidades no realizadas, o en dos estados -un estado de resultados y un estado del resultado integral-, en cuyo caso el estado de resultados presentará todas las partidas de ingreso y gasto reconocidas en el periodo excepto las que estén reconocidas en el resultado integral total fuera del resultado.
-              br
-              p Se reconocen como otro resultado integral Y forman parte del resultado integral total, cuando se producen:                
+              .h6.mb-3  Reserva Legal
+              p Art. 452. Reserva Legal. Las sociedades anónimas constituirán una reserva legal que ascenderá por lo menos al cincuenta por ciento del capital suscrito, formada con el diez por ciento de las utilidades líquidas de cada ejercicio. Cuando esta reserva llegue al cincuenta por ciento mencionado, la sociedad no tendrá obligación de continuar llevando a esta cuenta el diez por ciento de las utilidades líquidas. Pero si disminuye, volverá a apropiarse el mismo diez por ciento de tales utilidades hasta cuando la reserva llegue nuevamente al límite fijado. Conc.: 110 numº 8o, 154, 271 numº 4o, 272 num. 5º, 350, 371, 454, 456, 476. (Legis. 2020).
+                             
         .py-3.py-md-4(titulo="Art. 453")
           .row
             .col-12
-              .h6.mb-3  Reservas estatutarias y ocasionales. 
-              p Las reservas estatutarias serán obligatorias mientras no se supriman mediante una reforma del contrato social, o mientras no alcancen el monto previsto para las mismas. Las reservas ocasionales que ordene la asamblea sólo serán obligatorias para el ejercicio en el cual se hagan y la misma asamblea podrá cambiar su destinación o distribuirlas cuando resulten innecesarias. (leyes estatutarias 2020).                      
+              .h6.mb-3  Reservas estatutarias y ocasionales 
+              p Art. 453. Reservas estatutarias y ocasionales. Las reservas estatutarias serán obligatorias mientras no se supriman mediante una reforma del contrato social, o mientras no alcancen el monto previsto para las mismas. Las reservas ocasionales que ordene la asamblea sólo serán obligatorias para el ejercicio en el cual se hagan y la misma asamblea podrá cambiar su destinación o distribuirlas cuando resulten innecesarias. (leyes estatutarias 2020).                     
         .py-3.py-md-4(titulo="Art. 454")
           .row     
             .col-12
-              .h6.mb-3  Incremento en el porcentaje de distribución de utilidades.
-              p Si la suma de las reservas legal, estatutaria y ocasional excediere del ciento por ciento (100%) del capital suscrito, el porcentaje obligatorio de utilidades líquidas que deberá repartir la sociedad conforme al artículo 155, se elevará al setenta por ciento. (Código Comercio Colombiano. 1971)
+              .h6.mb-3  Incremento en el porcentaje de distribución de utilidades
+              p Art. 454. _ Incremento en el porcentaje de distribución de utilidades. Si la suma de las reservas legal, estatutaria y ocasional excediere del ciento por ciento (100%) del capital suscrito, el porcentaje obligatorio de utilidades líquidas que deberá repartir la sociedad conforme al artículo 155, se elevará al setenta por ciento. (Código Comercio Colombiano. 1971)
               br
               p La reserva legal es un ahorro que las empresas por mandato legal en Colombia están obligadas a utilizar con el fin de proteger el capital y preservar las empresas en el futuro evitando disolverse o liquidarse por la disminución de su patrimonio. Las sociedades limitadas, las anónimas, en comandita por acciones y las extranjeras. Deben hacer uso de la figura reserva legal. En el primer año, no se efectúan reservas; es decir, no aplica el 10% sobre las utilidades.
+              br
+              p Según el del Código del comercio, sección II reparto de utilidades artículo 456, las reservas se utilizan para
+
         .py-3.py-md-4(titulo="Art. Art. 456")
           .row     
             .col-12
               p.mb-2 Según el del Código del comercio, sección II reparto de utilidades artículo 456, las reservas se utilizan para:
-              .h6.mb-3  Manejo de pérdidas. 
-              p Las pérdidas se enjugarán con las reservas que hayan sido destinadas especialmente para ese propósito y, en su defecto, con la reserva legal. Las reservas cuya finalidad fuere la de absorber determinadas pérdidas no se podrán emplear para cubrir otras distintas, salvo que así lo decida la asamblea. Si la reserva legal fuere insuficiente para enjugar el déficit de capital, se aplicarán a este fin los beneficios sociales de los ejercicios siguientes.
+              .h6.mb-3  Manejo de pérdidas
+              p Art. 456. Manejo de pérdidas. Las pérdidas se enjugarán con las reservas que hayan sido destinadas especialmente para ese propósito y, en su defecto, con la reserva legal. Las reservas cuya finalidad fuere la de absorber determinadas pérdidas no se podrán emplear para cubrir otras distintas, salvo que así lo decida la asamblea. Si la reserva legal fuere insuficiente para enjugar el déficit de capital, se aplicarán a este fin los beneficios sociales de los ejercicios siguientes.
+              br
+              p La reserva legal para las sociedades de responsabilidad limitada aplicará el 10 % de reservas frente a sus utilidades acorde al libro segundo, responsabilidad limitada del Código del Comercio:
+
+        .py-3.py-md-4(titulo="Art. 371")
+          .row     
+            .col-12
+              p Art. 371. Reserva Legal, balances y reparto de utilidades. La sociedad formará una reserva legal, con sujeción a las reglas establecidas para la anónima. Estas mismas reglas se observarán en cuanto a los balances de fin de ejercicio y al reparto de utilidades. (Código Comercio Colombiano. 2020b).
+              br  
+              p En las sociedades extranjeras aplicará el 10% de reserva legal, como es aplicada en las sociedades anónimas sin importar el tamaño de empresa. 
+
         .py-3.py-md-4(titulo="Art. 476")
           .row     
             .col-md-6.mb-4.mb-md-0
               p.mb-2 Acorde al Libro Segundo De las Sociedades Extranjeras, Artículo 476 Código Comercio Colombiano:
           .row.justify-content-center.align-items-center.mb-5.mt-5
             .col-4 
-              .h6.mb-3.img-jumbotron-padding Reservas y vigilancia. 
-              p.img-jumbotron-padding Las sociedades extranjeras con negocios permanentes en Colombia constituirán las reservas y provisiones que la ley exige a las anónimas nacionales y cumplirán los demás requisitos establecidos para su control y vigilancia.
+              .h6.mb-3.img-jumbotron-padding Reservas y vigilancia
+              p.img-jumbotron-padding Art. 476. _ Reservas y vigilancia. Las sociedades extranjeras con negocios permanentes en Colombia constituirán las reservas y provisiones que la ley exige a las anónimas nacionales y cumplirán los demás requisitos establecidos para su control y vigilancia. 
             .col-8   
               .tabla-c.mb-5
                 table
@@ -299,7 +310,7 @@
 
 
     #t_2_5.titulo-segundo
-        .h4.mb-4 2.5 Otro Resultado Integral (ORI):   
+        .h4.mb-4 2.5 Otro resultado integral (ORI):   
     
     p.mt-5 Una entidad presentará su resultado integral total para un periodo: en un único estado del resultado integral, en cuyo caso el estado del resultado integral presentará todas las partidas de ingreso y gasto reconocidas en el periodo además de las partidas correspondientes a utilidades no realizadas, o en dos estados -un estado de resultados y un estado del resultado integral-, en cuyo caso el estado de resultados presentará todas las partidas de ingreso y gasto reconocidas en el periodo excepto las que estén reconocidas en el resultado integral total fuera del resultado.
     br
@@ -333,7 +344,7 @@
             p.mb-2 Ingresos ordinario...................... 300
             p.mb-2 Ingresos ordinario...................... 100
             p.mb-2 Ingresos ordinario...................... 200
-            p.mb-2 Ingresos ordinario...................... 70
+            p.mb-2 Ingresos ordinario........................ 70
             p.mb-2 Ingresos ordinario...................... 130
       .col-12.col-md-8.col-lg-6.col-xl-6
         .jumbotron-white.p-5
@@ -359,7 +370,7 @@
 
       .row.mt-5
         .col-lg-6
-          a.anexo.mb-4.mb-lg-0(href="http://www.aplicaciones-mcit.gov.co/adjuntos/niif/12_ES_BV2012_IFRS07_PARTª20A.pdf " target="_blank")
+          a.anexo.mb-4.mb-lg-0(href="http://www.aplicaciones-mcit.gov.co/adjuntos/niif/12_ES_BV2012_IFRS07_PARTª20A.pdf" target="_blank")
             .anexo__icono
               img(src="@/assets/template/icono-link.svg")
             .anexo__texto
@@ -411,7 +422,7 @@ export default {
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
-        titulo: 'Reconocimiento inicial, compra del paquete de acciones',
+        titulo: 'Reconocimiento inicial, compra de las opciones',
         texto: '',
         imagen: require('@/assets/curso/images/tema2/t_2.svg'),
 

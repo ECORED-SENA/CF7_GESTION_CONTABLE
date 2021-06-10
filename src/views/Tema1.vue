@@ -5,7 +5,7 @@
     .titulo-principal
       .titulo-principal__numero
         .h3 1
-      .h3 Instrumentos financieros: activos, pasivos e instrumentos de patrimonio.
+      .h3 Instrumentos financieros: activos, pasivos e instrumentos de patrimonio
 
     p.mt-4.mb-4 A continuación, se relacionan algunos conceptos que se deben tener en cuenta en el reconocimiento y medición de instrumentos financieros:
     
@@ -24,7 +24,7 @@
           .tarjeta.color-jumbotron
             .p-4
               .h5.mt-5 Pasivo Financiero:
-              p generalmente los pasivos financieros se miden a costo amortizado, excepto aquellos pasivos financieros que se mantienen para negociar, como por ejemplo los derivados, que se valoran a valor razonable con cambios en resultados.
+              p Generalmente los pasivos financieros se miden a costo amortizado, excepto aquellos pasivos financieros que se mantienen para negociar, como por ejemplo los derivados, que se valoran a valor razonable con cambios en resultados.
     
       .col-lg-12
         .tarjeta-Avatar-b.mb-5
@@ -35,7 +35,7 @@
               p un instrumento de patrimonio es cualquier contrato que ponga de manifiesto una participación residual en los activos de una entidad, después de deducir todos sus pasivos. (Norma Internacional de Contabilidad, s.f. p.2).
     
       #t_1_1.titulo-segundo
-          .h4.mt-5 1.1  Política Contable
+          .h4.mt-5 1.1  Política contable
 
       p Son los principios, bases, acuerdos, reglas y procedimientos específicos adoptados por la entidad en la elaboración y presentación de los estados financieros.
       br
@@ -49,16 +49,13 @@
                   | Nombre de la política contable
                 li 
                   i.fas.fa-check
-                  | Debe establecer los criterios de reconocimiento del hecho económico, medición inicial, medición posterior 
-                li 
-                  i.fas.fa-check
-                  | y las revelaciones requeridas.
+                  | Debe establecer los criterios de reconocimiento del hecho económico, medición inicial, medición posterior y las revelaciones requeridas.
                 li 
                   i.fas.fa-check
                   | Objetivo de la política contable.
 
               .cajon.color-secundario.p-4.mb-4.mt-4
-                .h5 Ejemplo
+                
                 p Norma Internacional de Información financiera NIIF 9 define cómo se deben reconocer y medir los instrumentos financieros.   
             
               
@@ -140,9 +137,9 @@
      
     .h5.mt-5.mb-4 Conceptos
 
-    p.mt-5 Costo amortizado: es el importe al que inicialmente fue valorado un pasivo financiero, menos los pagos de principal que se hubieran producido, menos los intereses correspondientes al período calculados con la técnica del tipo de interés efectivo. (Super contable Sage, s.f p.9)
+    p.mt-5 <b>Costo amortizado:</b> es el <b>importe al que inicialmente fue valorado un pasivo financiero,</b> menos los <b>pagos</b> de principal que se hubieran producido, <b>menos los intereses correspondientes al período calculados</b> con la técnica del tipo de interés efectivo. (Super contable Sage, s.f p.9)
     br
-    p.mb-5 Método de la tasa de Interés Efectiva: es un método para calcular el costo amortizado de un pasivo, calculando la tasa de descuento para igualar los flujos de efectivo, en el periodo cero o periodo de medición, es decir es la tasa que se le aplicará al instrumento financiero para calcular los intereses. Tomado de: Actualícese (2017, 17 de mayo).
+    p.mb-5 <b>Método de la tasa de Interés Efectiva:</b> es un método para calcular el costo amortizado de un pasivo, calculando la tasa de descuento para igualar los flujos de efectivo, en el periodo cero o periodo de medición, es decir es la tasa que se le aplicará al instrumento financiero para calcular los intereses. Tomado de: Actualícese (2017, 17 de mayo).
     hr.mt-5.mb-5
     
     .row.align-items-center.mb-3
@@ -150,15 +147,21 @@
             ol.lista-ol--cuadro
               li 
                 .lista-ol--cuadro__vineta
-                  span a
-                h6 Pasivos Financiero
+                  span b
+                h6 Pasivo financiero
 
     p Es cualquier pasivo que represente una obligación contractual de entregar dinero u otro activo financiero a otra entidad o de intercambiar activos financieros o pasivos financieros con otra entidad o un contrato que sea liquidado utilizando los instrumentos de patrimonio propio de la entidad, debe ser medido al costo amortizado utilizando la técnica del interés efectivo sin embargo, si es para negociar incluidos los instrumentos derivados se mide a valor razonable con cambios en el estado de resultados. (Instrumentos financieros NIC 32 s.f p.9)
     br
-    p Valor Razonable: es la intermediación efectiva que se hace a través de la oferta y demanda de forma libre, dicho de otra forma, es la interacción de un comprador y un vendedor, que se obligan y comprometen a transar una cantidad de bien determinando un precio y unas condiciones específicas en un mercado libre.
+    p.mb-3 <b>Valor Razonable:</b> es la intermediación efectiva que se hace a través de la oferta y demanda de forma libre, dicho de otra forma, es la interacción de un comprador y un vendedor, que se obligan y comprometen a transar una cantidad de bien determinando un precio y unas condiciones específicas en un mercado libre.
 
 
-    .h4.mt-5.mb-5 Reconocimiento y Medición
+    .row.align-items-center.mb-3
+        .col-12
+            ol.lista-ol--cuadro
+              li 
+                .lista-ol--cuadro__vineta
+                  span c
+                h6  Reconocimiento y Medición
     ul.lista-ul--color
       li 
         i.fas.fa-check
@@ -185,7 +188,13 @@
                     i.fas.fa-check
                     | Valor razonable todos aquellos que se adquieren con la intención de ser negociados.
 
-    .h4.mt-5.mb-4 Revelación
+    .row.align-items-center.mb-3
+        .col-12
+            ol.lista-ol--cuadro
+              li 
+                .lista-ol--cuadro__vineta
+                  span d
+                h6  Revelación
 
     p.mt-5 Se debe revelar en las notas a estados financieros la naturaleza de los pasivos financieros, garantías, vencimientos, saldos pendientes de pago y cambios significativos. (NIIF 7)
 
@@ -229,13 +238,13 @@
                     td -  
                   tr
                     td.text-center  2
-                    td 120.000.00
+                    td -
                   tr
                     td.text-center  3
                     td -  
                   tr
                     td.text-center  4
-                    td 120.000.00
+                    td -
                   tr
                     td.text-center  5
                     td -   
@@ -288,13 +297,15 @@
                 td 138.000,00
 
     #t_1_4.titulo-segundo
-        .h4.mb-4.mt-5.mb-4 1.4 Pasivos Contingentes
+        .h4.mb-4.mt-5.mb-4 1.4 Pasivos contingentes
     p Es una obligación posible porque depende de que en el futuro ocurra algo que está fuera del alcance de la empresa para que sea reconocido el compromiso, por lo que los pasivos contingentes no se reconocen, pero si se revelan.
       
     .row.justify-content-center.align-items-center.mt-5
           .col-lg-6
               img.img-a.my-3(src="@/assets/curso/images/tema1/img_5.svg" alt="", style="width:500px; display:block; margin:auto 0;")
           .col-lg-6
+              h6.mb-3 Provisiones:
+              p.mb-3 Son obligaciones en las cuales no hay certeza en cuanto al monto ni en cuanto a la fecha para su cancelación. 
               .cajon.color-secundario.p-4.mb-4
                 .h5 Ejemplo
                 p Una organización espera el resultado de una demanda interpuesta por competencia desleal, los abogados estiman que la empresa tiene una probabilidad alta de perder, el veredicto lo darán los jueces dentro de dos años y se estima el valor de la indemnización en $3.000.000 de pesos.
@@ -310,7 +321,7 @@
         br
         p En el caso de un instrumento con opción de venta, es decir que el tenedor debe devolverlo al emisor a cambio de efectivo u otro activo se reconoce como un pasivo financiero.
     #t_1_6.titulo-segundo
-        .h4.mb-4.mt-5.mb-4 1.6 Instrumentos Financieros Pasivos y Activos
+        .h4.mb-4.mt-5.mb-4 1.6 Instrumentos financieros pasivos y activos
     p Para el caso de los instrumentos financieros pasivos y activos aplica la Norma Internacional de Información Financiera (NIIF) 9.
   
 
@@ -322,7 +333,7 @@
                 ul.lista-ul--color
                   li 
                     i.fas.fa-check
-                    | Bonos, certificados de depósito a término (CDT),
+                    | Bonos, certificados de depósito a término (CDT)
                   li 
                     i.fas.fa-check
                     | Aceptaciones bancarias
@@ -332,12 +343,12 @@
                     | Pagarés,
                   li 
                     i.fas.fa-check
-                    | Préstamos,
+                    | Préstamos
                   li 
                     i.fas.fa-check
                     | Cuentas por cobrar
 
-          p.mt-3.mb-3 Instrumentos financieros de cobertura, derivados.
+          p.mt-3.mb-3 <b>Instrumentos financieros de cobertura, derivados:</b>
 
 
           .col-sm  
@@ -372,7 +383,7 @@
               tr.th-1.text-center
                 th Suscripción
                 th 52
-                th bonos
+                th Bonos
             tbody
               tr
                 td Valor emisión
@@ -396,11 +407,15 @@
                 td EA
 
 
-    p.mt-3 Se requiere contabilizar las operaciones derivadas.
+    p.mb-3 Se requiere:
+    p.mb-3 contabilizar las operaciones derivadas.
 
-    p.mt-3.mb-4 1-cálculo del interés efectivo
-    
     SlyderC.slyder-C_content.mb-5(:datos="datosSlyderl")
+    
+    #t_1_7.titulo-segundo
+        .h4.mb-4.mt-5.mb-4 1.7 Reconocimiento, medición, presentación, revelación:
+
+    p.mb-3 En el presente ítem se aborda conceptos que determinan el reconocimiento de los instrumentos de patrimonio, a su vez presenta ejemplos que acompañan el proceso de aplicabilidad.
 
     .row.justify-content-center
       .col-10
@@ -411,7 +426,7 @@
             figure
               img.me-5(src='@/assets/curso/images/tema1/ico_6.svg' alt="", style="width:100px; display:block; margin:auto 0;")    
           .col
-            h6.mb-2 Reconocimiento::
+            h6.mb-2 Reconocimiento:
             br
             p.mb-2 La entidad reconocerá un instrumento financiero en sus informes financieros cuando se convierta en parte del contrato o negocio jurídico conforme a las disposiciones de este.
         hr.mt-5.mb-4
@@ -420,7 +435,7 @@
             figure
               img.me-5(src='@/assets/curso/images/tema1/ico_7.svg' alt="", style="width:100px; display:block; margin:auto 0;")      
           .col
-            h6.mb-2 Medición Inicial:
+            h6.mb-2 Medición Inicial
             br
             p Los activos y los pasivos financieros se valoran inicialmente por su valor razonable que es el precio del hecho económico salvo evidencia en contrario.
         hr.mt-5.mb-4
@@ -429,7 +444,7 @@
             figure
               img.me-5(src='@/assets/curso/images/tema1/ico_8.svg' alt="", style="width:100px; display:block; margin:auto 0;")    
           .col
-            h6.mb-2 Medición Posterior:
+            h6.mb-2 Medición Posterior
             br
             p Es la forma de reconocer en los estados financieros de manera posterior, el importe del instrumento con el reconocimiento de los ajustes correspondientes dependiendo de la forma como es reconocido y medido el título.
             br
@@ -440,7 +455,7 @@
             figure
               img.me-5(src='@/assets/curso/images/tema1/ico_9.svg' alt="", style="width:100px; display:block; margin:auto 0;")     
           .col
-            h6.mb-2 Presentación:
+            h6.mb-2 Presentación
             br
             p El emisor del título lo presentará clasificándolo en sus estados financieros totalmente o en la parte correspondiente, como un pasivo financiero, un activo financiero o un instrumento de patrimonio, de conformidad con las definiciones y características del hecho económico.
         hr.mt-5.mb-4
@@ -488,7 +503,7 @@
               tr
                 td.text-center <b>3</b>
                 td 88.700.085
-                td $$ 40.468.926
+                td $ 40.468.926
                 td 15.522.515
                 td 24.946.412
                 td 63.753.673
@@ -527,9 +542,9 @@
               tr
                 td <b>Costo amortizado</b>
                 td 400.000,00
-                td Pesos por bono
+                td 
               tr
-                td <b>efectivoo</b>
+                td <b>Efectivo</b>
                 td 127.600.000,00
                 td 
 
@@ -579,7 +594,7 @@ export default {
     ],
     datosSlyderl: [
       {
-        titulo: 'AÑO 1. Suscripción',
+        titulo: 'Cálculo del interés efectivo',
         texto: '',
         imagen: require('@/assets/curso/images/tema1/t_5.svg'),
         // leyendaImagen: 'Leyenda de la imagen',
@@ -591,7 +606,7 @@ export default {
         // leyendaImagen: 'Leyenda de la imagen',
       },
       {
-        titulo: 'Reconocimiento inicial',
+        titulo: 'AÑO 1. Suscripción',
         texto: '',
         imagen: require('@/assets/curso/images/tema1/t_7.svg'),
         // leyendaImagen: 'Leyenda de la imagen',

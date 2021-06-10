@@ -25,7 +25,7 @@ export default {
         icono: 'far fa-file-alt',
         numero: '1',
         titulo:
-          'Instrumentos financieros: Activos, pasivos e instrumentos de patrimonio.',
+          'Instrumentos financieros: activos, pasivos e instrumentos de patrimonio.',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -49,7 +49,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.4',
-            titulo: 'Pasivos Contingentes',
+            titulo: 'Pasivos contingentes',
             hash: 'texto_destacado',
           },
           {
@@ -62,7 +62,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.6',
-            titulo: 'Instrumentos Financieros Pasivos y Activos',
+            titulo: 'Instrumentos financieros pasivos y activos',
             hash: 'tablas',
           },
           {
@@ -84,13 +84,13 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '2.1',
-            titulo: 'Reconocimiento, medición, presentación, Revelación:',
+            titulo: 'Reconocimiento, medición, presentación, revelación:',
             hash: 't_2_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.2',
-            titulo: 'Aportes de Capital',
+            titulo: 'Aportes de capital',
             hash: 't_2_2',
           },
           {
@@ -108,7 +108,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '2.5',
-            titulo: 'Otro Resultado Integral (ORI)',
+            titulo: 'Otro resultado integral (ORI)',
             hash: 't_2_5',
           },
         ],
