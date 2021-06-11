@@ -146,6 +146,7 @@ export default {
     liderEquipo: {
       nombre: 'Maria Camila Garcia Santamaria',
       cargo: 'Líder del equipo',
+      regional: 'Dirección General',
     },
     contenidoInstruccional: [
       {
@@ -158,13 +159,11 @@ export default {
         nombre: 'Fernando Ibáñez Quiñonez',
         cargo: 'Instructor',
         centro: 'Centros de Servicios Financieros.',
-        regional: 'Regional Distrito Capital',
       },
       {
         nombre: 'Maryuri Agudelo Franco',
         cargo: 'Diseñadora Instruccional',
         centro: 'Centro de Diseño y Metrología',
-        regional: 'Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [
@@ -178,11 +177,11 @@ export default {
         nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Integración de recursos y pruebas',
         centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
+        regional: 'Regional Tolima',
       },
       {
         nombre: ['Luis Arévalo'],
-        cargo: 'Diseño web y Producción Audiovisual',
+        cargo: 'Diseño web',
         centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
       },
@@ -192,11 +191,17 @@ export default {
         centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
       },
+      {
+        nombre: 'Yuli Marcela Gómez Tarazona',
+        cargo: 'Validación de diseño y contenido',
+        centro: 'Centro de Comercio y Servicios',
+        regional: 'Regional Tolima',
+      },
     ],
     gestoresRepositorio: [
       {
-        nombre: 'Brayan Stiven Pinto Diaz',
-        cargo: ['Desarrollo front-end', 'Validación de recursos'],
+        nombre: 'Milady Tatiana Villamil Castellanos',
+        cargo: ['Validación y vinculación en plataforma LMS'],
         centro: 'Centro de comercio y servicios',
         regional: 'Regional Tolima',
       },
