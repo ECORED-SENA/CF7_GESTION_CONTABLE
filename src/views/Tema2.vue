@@ -89,9 +89,8 @@
               i.fas.fa-check
               p <b>Pagado:</b> Es la parte del capital suscrito que los accionistas han cancelado y que efectivamente se encuentran en poder de la sociedad.
           .cajon.color-secundario.p-4.mt-5.mb-4
-            .h5 Ejemplo:
-            p.mb-3 La sociedad Contable SAS, compra el primero de julio del año 0 un paquete de acciones del Banco de Bogotá, por valor de $130.000.000 y las clasifica como activos disponibles para la venta.
-            p En 2017 se constituyó la empresa Aprendiendo S.A., con un capital autorizado de 120.000 acciones con un valor por acción de $2.500, los accionistas suscribieron el 50% de las acciones autorizadas y pagaron el 70% de la suscripción.
+            .h5 Ejemplo: 
+            p.mb-3 En 2017 se constituyó la empresa Aprendiendo S.A., con un capital autorizado de 120.000 acciones con un valor por acción de $2.500, los accionistas suscribieron el 50% de las acciones autorizadas y pagaron el 70% de la suscripción.
       .col-lg-6
         img.img-jumbotron-padding(src='@/assets/curso/images/tema2/img_11.svg' alt="", style="width:500px; display:block; margin:auto 0;")
       

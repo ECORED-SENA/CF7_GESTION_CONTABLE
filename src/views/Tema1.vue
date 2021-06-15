@@ -15,7 +15,7 @@
           img(src='@/assets/curso/images/tema1/ico_1.svg' alt='AvatarTop')
           .tarjeta.color-jumbotron
             .p-4
-              .h5.mt-3 Activo financiero:
+              .h5.mt-3 Activo financiero
               p Los activos financieros se clasifican de acuerdo al modelo de negocio del suscriptor en tres categorías: a su costo amortizado, a valor razonable con cambios en el patrimonio otro (resultado integral) o a valor razonable con cambios en pérdidas y ganancias dependiendo de  las características de los flujos de efectivo descritos en el documento que protocoliza el instrumento financiero por ejemplo el cobro de los rendimientos generados por el activo o tener la intención de vender el activo. (Norma internacional de información financiera, 2016, p.9)
   
       .col-lg-12
@@ -23,7 +23,7 @@
           img(src='@/assets/curso/images/tema1/ico_2.svg' alt="", style="width:40px; display:block; margin:auto 0;")
           .tarjeta.color-jumbotron
             .p-4
-              .h5.mt-5 Pasivo Financiero:
+              .h5.mt-5 Pasivo Financiero
               p Generalmente los pasivos financieros se miden a costo amortizado, excepto aquellos pasivos financieros que se mantienen para negociar, como por ejemplo los derivados, que se valoran a valor razonable con cambios en resultados.
     
       .col-lg-12
@@ -31,8 +31,8 @@
           img(src='@/assets/curso/images/tema1/ico_3.svg' alt="", style="width:40px; display:block; margin:auto 0;") 
           .tarjeta.color-jumbotron
             .p-4
-              .h5.mt-5 Patrimonio:
-              p un instrumento de patrimonio es cualquier contrato que ponga de manifiesto una participación residual en los activos de una entidad, después de deducir todos sus pasivos. (Norma Internacional de Contabilidad, s.f. p.2).
+              .h5.mt-5 Patrimonio
+              p Un instrumento de patrimonio es cualquier contrato que ponga de manifiesto una participación residual en los activos de una entidad, después de deducir todos sus pasivos. (Norma Internacional de Contabilidad, s.f. p.2).
     
       #t_1_1.titulo-segundo
           .h4.mt-5 1.1  Política contable
@@ -55,7 +55,7 @@
                   | Objetivo de la política contable.
 
               .cajon.color-secundario.p-4.mb-4.mt-4
-                
+                h6 Ejemplo:
                 p Norma Internacional de Información financiera NIIF 9 define cómo se deben reconocer y medir los instrumentos financieros.   
             
               
@@ -86,7 +86,7 @@
         
       p Cuando se aplique un cambio de una política contable se hará de forma retroactiva, como si la nueva política contable se hubiese aplicado siempre. Cuando sea impracticable determinar los efectos en cada periodo específico de un cambio en una política contable sobre la información comparativa para uno o más periodos anteriores para los que se presente información, la entidad aplicará la nueva política contable a los importes en libros de los activos y pasivos al principio del primer periodo para el que sea practicable la aplicación retroactiva, el cual podría ser el periodo actual.
       #t_1_2.titulo-segundo
-          .h4.mt-5 1.2. Instrumentos financieros
+          .h4.mt-5 1.2 Instrumentos financieros
 
       p.mb-5 Para la ejecución de los instrumentos financieros es necesario conocer algunos elementos que son esenciales para el desarrollo e implementación de los mismos, estos elementos serán abordados a continuación.
       
@@ -408,7 +408,7 @@
 
 
     p.mb-3 Se requiere:
-    p.mb-3 contabilizar las operaciones derivadas.
+    p.mb-3 Contabilizar las operaciones derivadas.
 
     SlyderC.slyder-C_content.mb-5(:datos="datosSlyderl")
     
@@ -426,7 +426,7 @@
             figure
               img.me-5(src='@/assets/curso/images/tema1/ico_6.svg' alt="", style="width:100px; display:block; margin:auto 0;")    
           .col
-            h6.mb-2 Reconocimiento:
+            h6.mb-2 Reconocimiento
             br
             p.mb-2 La entidad reconocerá un instrumento financiero en sus informes financieros cuando se convierta en parte del contrato o negocio jurídico conforme a las disposiciones de este.
         hr.mt-5.mb-4

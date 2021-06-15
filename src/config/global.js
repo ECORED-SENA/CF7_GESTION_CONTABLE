@@ -25,7 +25,7 @@ export default {
         icono: 'far fa-file-alt',
         numero: '1',
         titulo:
-          'Instrumentos financieros: activos, pasivos e instrumentos de patrimonio.',
+          'Instrumentos financieros: activos, pasivos e instrumentos de patrimonio',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -78,7 +78,7 @@ export default {
         icono: 'far fa-file-alt',
         numero: '2',
         titulo:
-          'Instrumentos financieros: Activos, pasivos e instrumentos de patrimonio.',
+          'Instrumentos financieros: Activos, pasivos e instrumentos de patrimonio',
         desarrolloContenidos: true,
         subMenu: [
           {
