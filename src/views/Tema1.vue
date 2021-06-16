@@ -55,7 +55,7 @@
                   | Objetivo de la política contable.
 
               .cajon.color-secundario.p-4.mb-4.mt-4
-                h6 Ejemplo:
+                h6 Ejemplo
                 p Norma Internacional de Información financiera NIIF 9 define cómo se deben reconocer y medir los instrumentos financieros.   
             
               
