@@ -332,31 +332,9 @@
                     i.fas.fa-check
                     | Cambios en los importes recuperables de activos revalorizados con cambios en el patrimonio.
     
-    .row.justify-content-center.align-items-center.mb-3
-      .col-12.col-md-8.col-lg-6.col-xl-6
-        .jumbotron-white.p-5
-          .row
-            .col-12.col-md-8.col-lg-6.col-xl-6
-            h6.mb-4 Ejemplo: Presentación ORI
-            p.mb-2 Ingresos ordinario...................... 500
-            p.mb-2 Ingresos ordinario...................... 200
-            p.mb-2 Ingresos ordinario...................... 300
-            p.mb-2 Ingresos ordinario...................... 100
-            p.mb-2 Ingresos ordinario...................... 200
-            p.mb-2 Ingresos ordinario........................ 70
-            p.mb-2 Ingresos ordinario...................... 130
-      .col-12.col-md-8.col-lg-6.col-xl-6
-        .jumbotron-white.p-5
-          .row
-            .col-12.col-md-8.col-lg-6.col-xl-6
-            h6.mb-4 Otro resultado Integral
-            p.mb-2 Variación valor razonable...........................100
-            p.mb-2 Conversión moneda extranjera..................150
-            p.mb-2 Cálculo actuarial...........................................50
-            p.mb-2 Valor razonable instrumentos financieros..45
-            p.mb-2 Total ORI..................................................... 345
-            p.mb-2 Resultado integral total..............................475
-           
+    .row.justify-content-center.align-items-center.mt-5.mb-5
+      .col-10
+          img.img-a(src='@/assets/curso/images/tema2/t_5.svg' alt="", style="width:800px; display:block; margin:auto 0;")          
 
     p.mb-3 Para ampliar la información sobre la normatividad aplicable a instrumentos financieros, los invito a revisar los siguientes enlaces:
 
@@ -369,31 +347,31 @@
 
       .row.mt-5
         .col-lg-6
-          a.anexo.mb-4.mb-lg-0(href="http://www.aplicaciones-mcit.gov.co/adjuntos/niif/12_ES_BV2012_IFRS07_PARTª20A.pdf" target="_blank")
+          a.anexo.mb-4.mb-lg-0(href="http://www.aplicaciones-mcit.gov.co/adjuntos/niif/12_ES_BV2012_IFRS07_PART%20A.pdf" target="_blank")
             .anexo__icono
               img(src="@/assets/template/icono-link.svg")
             .anexo__texto
               p Consejo Técnico de la Contaduría Pública, 2010, P, A256.
           p.mt-3.mb-4 Consulte en la página del Consejo Técnico de la Contaduría Pública la Norma Internacional de Información financiera
-          a.anexo.mb-4.mb-lg-0(href="https://www.ctcp.gov.co/proyectos/contabilidad-e-informacion-financiera/documentos-discusion-publica/enmienda-a-la-niif-9-instrumentos/doc-ctcp-xl8w9-141. " target="_blank")
+          a.anexo.mb-4.mb-lg-0(href=" https://www.ctcp.gov.co/publicaciones-ctcp/orientaciones-tecnicas/1472852072-9672 " target="_blank")
             .anexo__icono
               img(src="@/assets/template/icono-link.svg")
             .anexo__texto
               p Consejo Técnico de la Contaduría Pública, 2019 Página 5
           p.mt-3.mb-4 Consulte en la página Consejo Técnico de la Contaduría Pública, el tema instrumentos del patrimonio, página12 y siguientes
-          a.anexo.mb-4.mb-lg-0(href="http://www.ctcp.gov.co/publicaciones-ctcp/orientaciones-tecnicas/1472852072-9672" target="_blank")
+          a.anexo.mb-4.mb-lg-0(href="https://www.ctcp.gov.co/publicaciones-ctcp/orientaciones-tecnicas/1472851475-1578" target="_blank")
             .anexo__icono
               img(src="@/assets/template/icono-link.svg")
             .anexo__texto
               p Consejo Técnico de la Contaduría Pública, 2015, P., 2.
           p.mt-3.mb-4 Consulte en la página Consejo Técnico de la Contaduría Pública, el tema Otro Resultado Integral ORI, página 8 y siguientes.
-          a.anexo.mb-4.mb-lg-0(href="http://www.ctcp.gov.co/publicaciones-ctcp/orientaciones-tecnicas/1472851475-1578" target="_blank")
+          a.anexo.mb-4.mb-lg-0(href="https://www.ctcp.gov.co/" target="_blank")
             .anexo__icono
               img(src="@/assets/template/icono-link.svg")
             .anexo__texto
               p Consejo Técnico de la Contaduría Pública, 2014, P.8.
         .col-auto 
-            img.img-a.my-3(src="@/assets/curso/images/tema2/img_14.svg" alt="", style="width:450px; display:inline-block; margin:auto 0").img-fluid
+            img.img-a.my-3(src="@/assets/curso/images/tema2/img_14.svg" alt="", style="width:350px; display:inline-block; margin:auto 0").img-fluid
 
 
 
