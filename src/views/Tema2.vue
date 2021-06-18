@@ -369,7 +369,7 @@
             .anexo__icono
               img(src="@/assets/template/icono-link.svg")
             .anexo__texto
-              p Consejo Técnico de la Contaduría Pública, 2014, P.8.
+              p Consejo Técnico de la Contaduría Pública, 2014, P.8
         .col-auto 
             img.img-a.my-3(src="@/assets/curso/images/tema2/img_14.svg" alt="", style="width:350px; display:inline-block; margin:auto 0").img-fluid
 
