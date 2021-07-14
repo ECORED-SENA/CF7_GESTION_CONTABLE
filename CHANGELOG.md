@@ -2,6 +2,70 @@
 
 Estos son los cambios hechos en la ECORED-BASE-2021
 
+## 3.3.0 - 14-06-2021
+
+### Cambios
+
+- /package.json
+- /src/main.js
+- /src/app.vue
+- /src/views/Actividad.vue
+- /src/styles/_variables.sass
+- /src/components/Muestras.vue
+- /src/config/global.js
+- /src/assets/[multiples imagenes]
+
+### Agregado
+
+- Ultima version de Bootstrap 5.0.1
+- Separador en forma de componente de Vue 'Separador'
+- Directiva que permite que los componentes dinamicos interactuen con Vue
+- Titulo '.titulo-sexto'
+- Creditos
+- Creditos en inicio
+- Botones de accesibilidad
+
+### Arreglado
+
+- Jerarquias de titulos de la plantilla
+- Banner principal si no hay imagen de fondo va a quedar con el color en variables
+- Imagenes dentro de tarjetas con avatar
+- Los titulos ahora son elementos h
+- Unificacion de pie de imagen y pie de tabla
+- Mejor contraste en el encabezado de la tabla de material complementario
+- Tamano de titulo de .tabla-b
+
+## 3.2.0 - 02-06-2021
+
+### Cambios
+
+- /package.json => "ecored-base-pkg": "2.2.0"
+- /src/styles/_variables.sass
+- /src/components/Muestras.vue
+- /src/config/global.js
+
+### Agregado
+
+- Nuevas clases para titulos .titulo-tercero, .titulo-cuarto y .titulo-quinto
+- nuevo .espaciador
+- PasosA ahora soporta contenido dinámico
+- Indicadores de interaccion .indicador--click y .indicador--hover
+- Indicadores de interacción en todos los componentes interactivos
+- Imagen en .tarjeta-avatar ahora tiene tamaños dinámico a travez de $tarjeta-avatar-ancho-img
+
+### Arreglado
+
+- Mejora de responsive en ImagenInfografica
+- Cambio de textos en botones de la vista inicial
+- Cambio de espaciado en .titulo-principal y .titulo-segundo
+- Cambio de todos los tamaños de los headers (h1, h2, h3, h4, h5, h6)
+- Cambio de espaciado de p, ul y ol
+- Mejora de padding en componente AcordionA
+- Cambio de nombre de clase .tarjeta-Avatar-b por .tarjeta-avatar-b
+- Mejora de alineacion de las comillas en los componentes de texto destacado
+
+#
+
 ## 3.1.0 - 24-05-2021
 
 ### Cambios

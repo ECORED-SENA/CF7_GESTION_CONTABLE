@@ -2,16 +2,16 @@
 .curso-main-container.introduccion
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-  
+
     .titulo-principal
       .titulo-principal__numero
-        .h3
+        span
           i.fas.fa-info
-      .h3 Introducción
+      h1 introducción   
     
     .row.justify-content-center.align-items-center.mb-5
-        .col-auto
-            img(src="@/assets/curso/images/tema1/intro.svg" alt="", style="width:700px; display:inline-block; margin: 0 auto;")
+      .col-auto
+          img(src="@/assets/curso/images/tema1/intro.svg" alt="", style="width:700px; display:inline-block; margin: 0 auto;")
 
     p.mb-3 En el presente componente se abordan los temas: activos financieros, pasivos financieros, instrumentos de patrimonio y la normatividad vigente aplicable al presente tema. Los instrumentos financieros son contratos que dan lugar, simultáneamente, a un activo financiero en una entidad y a un pasivo financiero o a un instrumento de patrimonio en otra entidad, lo que permite concretar todos estos conceptos en el momento de reconocer, medir y revelar de manera correcta los diferentes títulos que se comercian a diario en el mercado de capitales y que forman parte del día a día de cualquier empresa en sus procesos de maximizar la rentabilidad de sus activos y de financiación de su negocio. 
 

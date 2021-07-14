@@ -278,52 +278,50 @@ export default {
   ],
   complementario: [
     {
-      texto: 'Apuntes de Contabilidad básica.',
-      tipo:
-        'Capítulo 1-Vilches, Troncoso, Ricardo. Apuntes de contabilidad básica, El Cid Editor, 2019. ProQuest Ebook Central',
+      texto:
+        'Apuntes de Contabilidad básica.Capítulo 1-Vilches, Troncoso, Ricardo. Apuntes de contabilidad básica, El Cid Editor, 2019. ProQuest Ebook Central',
+      tipo: 'Libro electrónico',
       link:
         'https://ebookcentral-proquest-com.bdigital.sena.edu.co/lib/senavirtualsp/detail.action?docID=3161303',
     },
     {
-      texto: 'Contabilidad 1',
-      tipo:
-        'Instrumentos Financieros-Guerrero Reyes, J. C. (2015). Contabilidad 1. Grupo Editorial Patria.',
+      texto:
+        'Contabilidad 1. Instrumentos Financieros-Guerrero Reyes, J. C. (2015). Contabilidad 1. Grupo Editorial Patria.',
+      tipo: 'Libro electrónico',
       link:
         'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/39482?page=16',
     },
     {
-      texto: 'Contabilidad general con enfoque NIIF',
-      tipo:
-        'Capítulo 4-Fierro Martínez, Á. M. (2016). Contabilidad general con enfoque NIIF para las pymes (5a. ed.). Ecoe Ediciones',
+      texto:
+        'Contabilidad general con enfoque NIIF. Capítulo 4-Fierro Martínez, Á. M. (2016). Contabilidad general con enfoque NIIF para las pymes (5a. ed.). Ecoe Ediciones',
+      tipo: 'Libro electrónico',
       link:
         'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/70437?page=11',
     },
     {
       texto:
-        'Herramientas financieras y valoración de activos y pasivos financieros bajo NIIF',
-      tipo:
-        'Instrumentos Financieros-Tello, L. B. (2019). Herramientas financieras y valoración de activos y pasivos financieros bajo NIIF. Editorial Universidad Icesi.',
+        'Herramientas financieras y valoración de activos y pasivos financieros bajo NIIF. Instrumentos Financieros-Tello, L. B. (2019). Herramientas financieras y valoración de activos y pasivos financieros bajo NIIF. Editorial Universidad Icesi.',
+      tipo: 'Libro electrónico',
       link:
         'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/130247?page=271',
     },
     {
       texto:
-        'La nueva Formación en NIIF en los programas de contabilidad y finanzas del CSF. Una aproximación desde el conocimiento de los aprendices.',
-      tipo:
-        'Artículo-Rincón Vargas, J. E., & Castillo Prada, K. N. (2018). La formación en NIIF en los programas de contabilidad y finanzas del CSF. Una aproximación desde el conocimiento de los aprendices. Revista Finnova: Investigación E Innovación Financiera Y Organizacional, 2(4). ',
+        'La nueva Formación en NIIF en los programas de contabilidad y finanzas del CSF. Una aproximación desde el conocimiento de los aprendices. Artículo-Rincón Vargas, J. E., & Castillo Prada, K. N. (2018). La formación en NIIF en los programas de contabilidad y finanzas del CSF. Una aproximación desde el conocimiento de los aprendices. Revista Finnova: Investigación E Innovación Financiera Y Organizacional, 2(4).',
+      tipo: 'Libro electrónico',
       link: 'https://doi.org/10.23850/24629758.1389',
     },
     {
-      texto: 'Prácticas de Contabilidad',
-      tipo:
-        'Capítulo 1-Aguilar, Lámbarry, Hanni Angélica. Prácticas de contabilidad, Grupo Editorial Patria, 2017. ProQuest Ebook Central, ',
+      texto:
+        'Prácticas de ContabilidadCapítulo 1-Aguilar, Lámbarry, Hanni Angélica. Prácticas de contabilidad, Grupo Editorial Patria, 2017. ProQuest Ebook Central.',
+      tipo: 'Libro electrónico',
       link:
         'https://ebookcentral-proquest-com.bdigital.sena.edu.co/lib/senavirtualsp/detail.action?docID=5213543',
     },
     {
-      texto: 'Valoración de instrumentos financieros',
-      tipo:
-        'Pasivos financieros-Meza Orozco, J. D. J. (2016). Valoración de instrumentos financieros en NIIF para pymes (2a. ed.). Ediciones de la U.',
+      texto:
+        'Valoración de instrumentos financieros. Pasivos financieros-Meza Orozco, J. D. J. (2016). Valoración de instrumentos financieros en NIIF para pymes (2a. ed.). Ediciones de la U.',
+      tipo: 'Libro electrónico',
       link:
         'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/70273?page=5',
     },

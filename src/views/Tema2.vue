@@ -2,10 +2,11 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
+
     .titulo-principal
       .titulo-principal__numero
-        .h3 2
-      .h3 Instrumentos financieros: activos, pasivos e instrumentos de patrimonio
+        span 2
+      h1 Instrumentos financieros: activos, pasivos e instrumentos de patrimonio
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-6
@@ -20,7 +21,7 @@
         img.img-a.my-3(src="@/assets/curso/images/tema2/img_9.svg" alt="", style="width:500px; display:block; margin:auto 0;")
 
     #t_2_1.titulo-segundo
-        .h4 2.1 Reconocimiento, medición, presentación, revelación
+      h2 2.1 Reconocimiento, medición, presentación, revelación
 
     p.mt-5 En el presente ítem se aborda conceptos que determinan el reconocimiento de los instrumentos de patrimonio, a su vez presenta ejemplos que acompañan el proceso de aplicabilidad.
     
@@ -72,8 +73,11 @@
     p.mb-4 A 31 de diciembre del año 0 el valor razonable del paquete de acciones es de $125.000.000 y el valor razonable de la opción es de $1.600.000.
 
     SlyderC.mb-5.slyder-C_content(:datos="datosSlyderd")
+
+    separador
+
     #t_2_2.titulo-segundo
-        .h4.mb-4 2.2 Aportes de capital
+      h2 2.2 Aportes de capital
   
     p.mb-3 Los aportes iniciales de los socios corresponden al capital y está representado en acciones, libremente negociables en las bolsas de valores. 
     .row.justify-content-center.align-items-center.mt-5
@@ -223,16 +227,19 @@
       .col-lg-6.p-5
         img.img-a(src='@/assets/curso/images/tema2/img_12.svg' alt="", style="width:400px; display:block; margin:auto 0;")
 
-
+    separador
+    
     #t_2_3.titulo-segundo
-        .h4.mb-4 2.3 Ganancias Acumuladas:
+      h2 2.3 Ganancias Acumuladas
     
     p Es el dinero guardado que no es entregado a los accionistas en forma de dividendos, estas ganancias se encuentran en el patrimonio como ganancias acumuladas en el estado de Situación Financiera.
-    br
-    p.mb-4 Este tiene como objetivo,  el estado de cambios en el patrimonio es un estado financiero que muestra los cambios en el mismo de un periodo con respecto a otro, y uno de los cambios más significativos tiene que ver precisamente con la política de dividendos que maneje la entidad, pues puede ocurrir que tenga como política no repartir el 100% de las utilidades del ejercicio, de tal manera que la parte no decretada para reparto queda acumulada para cuando los socios decidan distribuirla en los accionistas.
+  
+    p.mb-5 Este tiene como objetivo,  el estado de cambios en el patrimonio es un estado financiero que muestra los cambios en el mismo de un periodo con respecto a otro, y uno de los cambios más significativos tiene que ver precisamente con la política de dividendos que maneje la entidad, pues puede ocurrir que tenga como política no repartir el 100% de las utilidades del ejercicio, de tal manera que la parte no decretada para reparto queda acumulada para cuando los socios decidan distribuirla en los accionistas.
+
+    separador
 
     #t_2_4.titulo-segundo
-        .h4.mb-4 2.4 Reservas
+      h2 2.4 Reservas
     p.mb-5 Están contempladas en el artículo 452,453 y 454 del Código del comercio, sección II reparto de utilidades.
 
     TabsC.color-acento-contenido.mb-5
@@ -307,9 +314,10 @@
                       .h6.mb-0 3.060.000,00
             p.mt-5 Frente a la utilidad se aplica el % porcentaje vigente definido en cada reforma tributaria, el resultado obtenido, se aplica el 10 % de reserva legal y se resta a la utilidad líquida.
 
+    separador
 
     #t_2_5.titulo-segundo
-        .h4.mb-4 2.5 Otro resultado integral (ORI):   
+      h2 2.5 Otro resultado integral (ORI)  
     
     p.mt-5 Una entidad presentará su resultado integral total para un periodo: en un único estado del resultado integral, en cuyo caso el estado del resultado integral presentará todas las partidas de ingreso y gasto reconocidas en el periodo además de las partidas correspondientes a utilidades no realizadas, o en dos estados -un estado de resultados y un estado del resultado integral-, en cuyo caso el estado de resultados presentará todas las partidas de ingreso y gasto reconocidas en el periodo excepto las que estén reconocidas en el resultado integral total fuera del resultado.
     br

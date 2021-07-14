@@ -4,134 +4,138 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     .titulo-principal
       .titulo-principal__numero
-        .h3 1
-      .h3 Instrumentos financieros: activos, pasivos e instrumentos de patrimonio
+        span 1
+      h1 Instrumentos financieros: activos, pasivos e instrumentos de patrimonio
 
     p.mt-4.mb-4 A continuación, se relacionan algunos conceptos que se deben tener en cuenta en el reconocimiento y medición de instrumentos financieros:
-    
-    .row
+
+    .row.mb-5
       .col-lg-12
-        .tarjeta-Avatar-b.mb-5
+        .tarjeta-avatar-b.mb-5
           img(src='@/assets/curso/images/tema1/ico_1.svg' alt='AvatarTop')
           .tarjeta.color-jumbotron
             .p-4
-              .h5.mt-3 Activo financiero
-              p Los activos financieros se clasifican de acuerdo al modelo de negocio del suscriptor en tres categorías: a su costo amortizado, a valor razonable con cambios en el patrimonio otro (resultado integral) o a valor razonable con cambios en pérdidas y ganancias dependiendo de  las características de los flujos de efectivo descritos en el documento que protocoliza el instrumento financiero por ejemplo el cobro de los rendimientos generados por el activo o tener la intención de vender el activo. (Norma internacional de información financiera, 2016, p.9)
+              h4 Activo financiero
+              p Los activos financieros se clasifican de acuerdo al modelo de negocio del suscriptor en tres categorías: a su costo amortizado, a valor razonable con cambios en el patrimonio otro (resultado integral) o a valor razonable con cambios en pérdidas y ganancias dependiendo de  las características de los flujos de efectivo descritos en el documento que protocoliza el instrumento financiero por ejemplo el cobro de los rendimientos generados por el activo o tener la intención de vender el activo. (Norma internacional de información financiera, 2016, p.9)    
+    
   
-      .col-lg-12
-        .tarjeta-Avatar-b.mb-5
-          img(src='@/assets/curso/images/tema1/ico_2.svg' alt="", style="width:40px; display:block; margin:auto 0;")
+      .col-lg-12        
+        .tarjeta-avatar-b.mb-5
+          img(src='@/assets/curso/images/tema1/ico_2.svg' alt='AvatarTop')
           .tarjeta.color-jumbotron
             .p-4
-              .h5.mt-5 Pasivo Financiero
+              h4 Pasivo Financiero
               p Generalmente los pasivos financieros se miden a costo amortizado, excepto aquellos pasivos financieros que se mantienen para negociar, como por ejemplo los derivados, que se valoran a valor razonable con cambios en resultados.
     
       .col-lg-12
-        .tarjeta-Avatar-b.mb-5
-          img(src='@/assets/curso/images/tema1/ico_3.svg' alt="", style="width:40px; display:block; margin:auto 0;") 
+        .tarjeta-avatar-b.mb-5
+          img(src='@/assets/curso/images/tema1/ico_3.svg' alt='AvatarTop')      
           .tarjeta.color-jumbotron
             .p-4
-              .h5.mt-5 Patrimonio
+              h4 Patrimonio
               p Un instrumento de patrimonio es cualquier contrato que ponga de manifiesto una participación residual en los activos de una entidad, después de deducir todos sus pasivos. (Norma Internacional de Contabilidad, s.f. p.2).
     
-      #t_1_1.titulo-segundo
-          .h4.mt-5 1.1  Política contable
+    #t_1_1.titulo-segundo
+      h2 1.1  Política contable
 
-      p Son los principios, bases, acuerdos, reglas y procedimientos específicos adoptados por la entidad en la elaboración y presentación de los estados financieros.
-      br
-      p Una política contable debe contener:
+    p Son los principios, bases, acuerdos, reglas y procedimientos específicos adoptados por la entidad en la elaboración y presentación de los estados financieros.
+    br
+    p Una política contable debe contener:
 
-          .row.justify-content-center.align-items-center
-            .col-12.col-md-8.col-lg-6.col-xl-6
-              ul.lista-ul--color
-                li 
-                  i.fas.fa-check
-                  | Nombre de la política contable
-                li 
-                  i.fas.fa-check
-                  | Debe establecer los criterios de reconocimiento del hecho económico, medición inicial, medición posterior y las revelaciones requeridas.
-                li 
-                  i.fas.fa-check
-                  | Objetivo de la política contable.
+        .row.justify-content-center.align-items-center
+          .col-12.col-md-8.col-lg-6.col-xl-6
+            ul.lista-ul--color
+              li 
+                i.fas.fa-check
+                | Nombre de la política contable
+              li 
+                i.fas.fa-check
+                | Debe establecer los criterios de reconocimiento del hecho económico, medición inicial, medición posterior y las revelaciones requeridas.
+              li 
+                i.fas.fa-check
+                | Objetivo de la política contable.
 
-              .cajon.color-secundario.p-4.mb-4.mt-4
-                h6 Ejemplo
-                p Norma Internacional de Información financiera NIIF 9 define cómo se deben reconocer y medir los instrumentos financieros.   
+            .cajon.color-secundario.p-4.mb-4.mt-4
+              h6 Ejemplo
+              p Norma Internacional de Información financiera NIIF 9 define cómo se deben reconocer y medir los instrumentos financieros.   
+          
             
-              
-            .col-12.col-md-8.col-lg-6.col-xl-6.mb-4
-                img.img-a.my-5(src="@/assets/curso/images/tema1/img_2.svg" alt="", style="width:400px; display:block; margin:0 auto ;")
-          p.mb-3.text-center La normativa que se debe tener en cuenta para la aplicación de Instrumentos Financieros es la siguiente: 
-          h6.mb-5.text-center Normativa para la aplicación de instrumentos financieros
-          .row.justify-content-center.align-items-center.mb-5
-            .col-auto
-                img.img-a.my-3(src="@/assets/curso/images/tema1/img_3.svg" alt="", style="width:600px; display:block; margin:auto 0;")
+          .col-12.col-md-8.col-lg-6.col-xl-6.mb-4
+              img.img-a.my-5(src="@/assets/curso/images/tema1/img_2.svg" alt="", style="width:400px; display:block; margin:0 auto ;")
+        p.mb-3.text-center La normativa que se debe tener en cuenta para la aplicación de Instrumentos Financieros es la siguiente: 
+        h6.mb-5.text-center Normativa para la aplicación de instrumentos financieros
+        .row.justify-content-center.align-items-center.mb-5
+          .col-auto
+              img.img-a.my-3(src="@/assets/curso/images/tema1/img_3.svg" alt="", style="width:600px; display:block; margin:auto 0;")
 
-      p.text-center.mb-3 Una entidad optará entre aplicar dependiendo del grupo al que pertenece:
+    p.text-center.mb-3 Una entidad optará entre aplicar dependiendo del grupo al que pertenece:
 
-      .row.justify-content-center.align-items-center.mb-3
-        .col-12.col-md-8.col-lg-6.col-xl-6 
-            img.img-a.my-3(src="@/assets/curso/images/tema1/img_1.svg" alt="", style="width:300px; display:block; margin: 0 auto;")
-        .col-12.col-md-8.col-lg-6.col-xl-6
-            ol.lista-ol--cuadro
-              li 
-                .lista-ol--cuadro__vineta
-                  span a
-                | Lo previsto en la Sección 11 y Sección 12 si pertenece al grupo número dos Pymes.
-              li 
-                .lista-ol--cuadro__vineta
-                  span b
-                | Las disposiciones sobre reconocimiento y medición de la NIIF 9 Instrumentos financieros si pertenece al grupo número uno.
-            
-        
-      p Cuando se aplique un cambio de una política contable se hará de forma retroactiva, como si la nueva política contable se hubiese aplicado siempre. Cuando sea impracticable determinar los efectos en cada periodo específico de un cambio en una política contable sobre la información comparativa para uno o más periodos anteriores para los que se presente información, la entidad aplicará la nueva política contable a los importes en libros de los activos y pasivos al principio del primer periodo para el que sea practicable la aplicación retroactiva, el cual podría ser el periodo actual.
-      #t_1_2.titulo-segundo
-          .h4.mt-5 1.2 Instrumentos financieros
-
-      p.mb-5 Para la ejecución de los instrumentos financieros es necesario conocer algunos elementos que son esenciales para el desarrollo e implementación de los mismos, estos elementos serán abordados a continuación.
+    .row.justify-content-center.align-items-center.mb-3
+      .col-12.col-md-8.col-lg-6.col-xl-6 
+          img.img-a.my-3(src="@/assets/curso/images/tema1/img_1.svg" alt="", style="width:300px; display:block; margin: 0 auto;")
+      .col-12.col-md-8.col-lg-6.col-xl-6
+          ol.lista-ol--cuadro
+            li 
+              .lista-ol--cuadro__vineta
+                span a
+              | Lo previsto en la Sección 11 y Sección 12 si pertenece al grupo número dos Pymes.
+            li 
+              .lista-ol--cuadro__vineta
+                span b
+              | Las disposiciones sobre reconocimiento y medición de la NIIF 9 Instrumentos financieros si pertenece al grupo número uno.
+          
       
-      .row.align-items-center.mb-3
-        .col-12
-            ol.lista-ol--cuadro
-              li 
-                .lista-ol--cuadro__vineta
-                  span a
-                h6 Activo financiero
-      
+    p Cuando se aplique un cambio de una política contable se hará de forma retroactiva, como si la nueva política contable se hubiese aplicado siempre. Cuando sea impracticable determinar los efectos en cada periodo específico de un cambio en una política contable sobre la información comparativa para uno o más periodos anteriores para los que se presente información, la entidad aplicará la nueva política contable a los importes en libros de los activos y pasivos al principio del primer periodo para el que sea practicable la aplicación retroactiva, el cual podría ser el periodo actual.
 
-      p Un activo financiero es cualquier activo que posea la forma de efectivo, instrumento de patrimonio neto de otra entidad o que represente un derecho contractual o un contrato que pueda ser liquidado utilizando instrumentos de patrimonio propio de la entidad, los activos financieros deben ser medidos al costo amortizado, pero si son mantenidos para negociar se miden a valor razonable con cambios en el resultado del ejercicio.
+    separador
 
-      .row.justify-content-center.align-items-center.mt-5
-        .col-lg-6
-          .cajon.color-secundario.p-4.mb-4.mt-4
-            .h5 Ejemplo
-            p El 17/11/año 1 la sociedad Contable SAS vendió a crédito 5.000 unidades del producto ZV a $ 100,50 por unidad, se ha concedido sobre la factura un descuento de $ 11.400, El pago se realizará dentro de 2 años y el descuento es del 5%.
-        .col-lg-6.mb-2 
-          p <b>Solución:</b>
-          .tabla-b.color-acento-contenido
-            .tabla-b__header
-              .h6.mb-0.text-white Factura
-          table
-            tr
-              th Precio factura
-              td 502.500
-            tr
-              th Descuento
-              td 11.400
-            tr
-              th Base gravable
-              td 491.100
-            tr
-              th IVA 19%
-              td 95.475
-            tr
-              th Total, facturado
-              td 586.575
+    #t_1_2.titulo-segundo
+      h2 1.2 Instrumentos financieros
+
+    p.mb-5 Para la ejecución de los instrumentos financieros es necesario conocer algunos elementos que son esenciales para el desarrollo e implementación de los mismos, estos elementos serán abordados a continuación.
+    
+    .row.align-items-center.mb-3
+      .col-12
+          ol.lista-ol--cuadro
+            li 
+              .lista-ol--cuadro__vineta
+                span a
+              h5 Activo financiero
+    
+
+    p Un activo financiero es cualquier activo que posea la forma de efectivo, instrumento de patrimonio neto de otra entidad o que represente un derecho contractual o un contrato que pueda ser liquidado utilizando instrumentos de patrimonio propio de la entidad, los activos financieros deben ser medidos al costo amortizado, pero si son mantenidos para negociar se miden a valor razonable con cambios en el resultado del ejercicio.
+
+    .row.justify-content-center.align-items-center.mt-5
+      .col-lg-6
+        .cajon.color-secundario.p-4.mb-4.mt-4
+          .h5 Ejemplo
+          p El 17/11/año 1 la sociedad Contable SAS vendió a crédito 5.000 unidades del producto ZV a $ 100,50 por unidad, se ha concedido sobre la factura un descuento de $ 11.400, El pago se realizará dentro de 2 años y el descuento es del 5%.
+      .col-lg-6.mb-2 
+        p <b>Solución:</b>
+        .tabla-b.color-acento-contenido
+          .tabla-b__header
+            .h6.mb-0.text-white Factura
+        table
+          tr
+            th Precio factura
+            td 502.500
+          tr
+            th Descuento
+            td 11.400
+          tr
+            th Base gravable
+            td 491.100
+          tr
+            th IVA 19%
+            td 95.475
+          tr
+            th Total, facturado
+            td 586.575
 
 
 
-      p.mt-4 El crédito constituye para el vendedor un activo financiero, pues es un derecho contractual.
-      p.mb-5  Como es una transacción a largo plazo año, se debe reconocer el valor del dinero en el tiempo a la tasa del 5% efectiva anual, lo que implica el cálculo del valor presente del valor de la venta neta (491.100) para reconocer al final del año 1 y 2 el ajuste por concepto de los gastos financieros así:
+    p.mt-4 El crédito constituye para el vendedor un activo financiero, pues es un derecho contractual.
+    p.mb-5  Como es una transacción a largo plazo año, se debe reconocer el valor del dinero en el tiempo a la tasa del 5% efectiva anual, lo que implica el cálculo del valor presente del valor de la venta neta (491.100) para reconocer al final del año 1 y 2 el ajuste por concepto de los gastos financieros así:
       
     SlyderC.slyder-C_content(:datos="datosSlyder")
      
@@ -148,11 +152,11 @@
               li 
                 .lista-ol--cuadro__vineta
                   span b
-                h6 Pasivo financiero
+                h5 Pasivo financiero
 
-    p Es cualquier pasivo que represente una obligación contractual de entregar dinero u otro activo financiero a otra entidad o de intercambiar activos financieros o pasivos financieros con otra entidad o un contrato que sea liquidado utilizando los instrumentos de patrimonio propio de la entidad, debe ser medido al costo amortizado utilizando la técnica del interés efectivo sin embargo, si es para negociar incluidos los instrumentos derivados se mide a valor razonable con cambios en el estado de resultados. (Instrumentos financieros NIC 32 s.f p.9)
+    p.mb-4 Es cualquier pasivo que represente una obligación contractual de entregar dinero u otro activo financiero a otra entidad o de intercambiar activos financieros o pasivos financieros con otra entidad o un contrato que sea liquidado utilizando los instrumentos de patrimonio propio de la entidad, debe ser medido al costo amortizado utilizando la técnica del interés efectivo sin embargo, si es para negociar incluidos los instrumentos derivados se mide a valor razonable con cambios en el estado de resultados. (Instrumentos financieros NIC 32 s.f p.9)
     br
-    p.mb-3 <b>Valor Razonable:</b> es la intermediación efectiva que se hace a través de la oferta y demanda de forma libre, dicho de otra forma, es la interacción de un comprador y un vendedor, que se obligan y comprometen a transar una cantidad de bien determinando un precio y unas condiciones específicas en un mercado libre.
+    p.mb-5 <b>Valor Razonable:</b> es la intermediación efectiva que se hace a través de la oferta y demanda de forma libre, dicho de otra forma, es la interacción de un comprador y un vendedor, que se obligan y comprometen a transar una cantidad de bien determinando un precio y unas condiciones específicas en un mercado libre.
 
 
     .row.align-items-center.mb-3
@@ -161,7 +165,7 @@
               li 
                 .lista-ol--cuadro__vineta
                   span c
-                h6  Reconocimiento y Medición
+                h5  Reconocimiento y Medición
     ul.lista-ul--color
       li 
         i.fas.fa-check
@@ -194,14 +198,14 @@
               li 
                 .lista-ol--cuadro__vineta
                   span d
-                h6  Revelación
+                h5  Revelación
 
     p.mt-5 Se debe revelar en las notas a estados financieros la naturaleza de los pasivos financieros, garantías, vencimientos, saldos pendientes de pago y cambios significativos. (NIIF 7)
 
-    hr.mt-5.mb-5
+    separador
 
     #t_1_3.titulo-segundo
-        .h4.mb-4.mt-5 1.3 Obligaciones con terceros
+      h2 1.3 Obligaciones con terceros
     
     p Todos los desembolsos requeridos para obtener un crédito con una entidad financiera como: estudios de créditos, seguros, entre otros, se deben reconocer en el préstamo. A continuación, encuentra ejemplos que permiten acercarse a un ejercicio real y cotidiano.
 
@@ -296,32 +300,38 @@
                 td 3.177,37
                 td 138.000,00
 
+    separador
+
     #t_1_4.titulo-segundo
-        .h4.mb-4.mt-5.mb-4 1.4 Pasivos contingentes
+      h2 1.4 Pasivos contingentes
     p Es una obligación posible porque depende de que en el futuro ocurra algo que está fuera del alcance de la empresa para que sea reconocido el compromiso, por lo que los pasivos contingentes no se reconocen, pero si se revelan.
       
-    .row.justify-content-center.align-items-center.mt-5
-          .col-lg-6
-              img.img-a.my-3(src="@/assets/curso/images/tema1/img_5.svg" alt="", style="width:500px; display:block; margin:auto 0;")
-          .col-lg-6
-              h6.mb-3 Provisiones:
-              p.mb-3 Son obligaciones en las cuales no hay certeza en cuanto al monto ni en cuanto a la fecha para su cancelación. 
-              .cajon.color-secundario.p-4.mb-4
-                .h5 Ejemplo
-                p Una organización espera el resultado de una demanda interpuesta por competencia desleal, los abogados estiman que la empresa tiene una probabilidad alta de perder, el veredicto lo darán los jueces dentro de dos años y se estima el valor de la indemnización en $3.000.000 de pesos.
-              p.mt-4 El hecho económico implica reconocer la provisión por valor de tres millones de pesos, pero como se estima para dentro de dos años su reconocimiento, el día de hoy se debe medir a su valor presente utilizando una tasa de descuento de mercado.
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-6
+          img.img-a.my-3(src="@/assets/curso/images/tema1/img_5.svg" alt="", style="width:500px; display:block; margin:auto 0;")
+      .col-lg-6
+          h6.mb-3 Provisiones:
+          p.mb-3 Son obligaciones en las cuales no hay certeza en cuanto al monto ni en cuanto a la fecha para su cancelación. 
+          .cajon.color-secundario.p-4.mb-4
+            .h5 Ejemplo
+            p Una organización espera el resultado de una demanda interpuesta por competencia desleal, los abogados estiman que la empresa tiene una probabilidad alta de perder, el veredicto lo darán los jueces dentro de dos años y se estima el valor de la indemnización en $3.000.000 de pesos.
+          p.mt-4 El hecho económico implica reconocer la provisión por valor de tres millones de pesos, pero como se estima para dentro de dos años su reconocimiento, el día de hoy se debe medir a su valor presente utilizando una tasa de descuento de mercado.
+
+    separador
 
     #t_1_5.titulo-segundo
-        .h4.mb-4.mt-5.mb-4 1.5 Diferencia entre pasivo financiero e instrumento de patrimonio
+      h2 1.5 Diferencia entre pasivo financiero e instrumento de patrimonio
+    
     p El emisor de un instrumento financiero lo clasificará en el momento de su reconocimiento como un pasivo financiero, un activo financiero o un instrumento de patrimonio de conformidad con el acuerdo contractual que protocoliza el instrumento. Una forma de distinguir un pasivo financiero de un instrumento de patrimonio es que exista una obligación contractual que recae sobre una cualquiera de las partes de entregar activos o intercambiar pasivos y activos de manera desfavorable para el emisor.
+    
+    p Por ejemplo, si se trata de una acción preferencial, esta será reconocida como un pasivo financiero si el emisor está obligado a reembolsar por una cantidad acordada.
+    
+    p.mb-5 En el caso de un instrumento con opción de venta, es decir que el tenedor debe devolverlo al emisor a cambio de efectivo u otro activo se reconoce como un pasivo financiero.
 
-    .row.mt-4
-      .col-lg-12
-        p Por ejemplo, si se trata de una acción preferencial, esta será reconocida como un pasivo financiero si el emisor está obligado a reembolsar por una cantidad acordada.
-        br
-        p En el caso de un instrumento con opción de venta, es decir que el tenedor debe devolverlo al emisor a cambio de efectivo u otro activo se reconoce como un pasivo financiero.
+    separador
+
     #t_1_6.titulo-segundo
-        .h4.mb-4.mt-5.mb-4 1.6 Instrumentos financieros pasivos y activos
+      h2 1.6 Instrumentos financieros pasivos y activos
     p Para el caso de los instrumentos financieros pasivos y activos aplica la Norma Internacional de Información Financiera (NIIF) 9.
   
 
@@ -411,9 +421,11 @@
     p.mb-3 Contabilizar las operaciones derivadas.
 
     SlyderC.slyder-C_content.mb-5(:datos="datosSlyderl")
+
+    separador
     
     #t_1_7.titulo-segundo
-        .h4.mb-4.mt-5.mb-4 1.7 Reconocimiento, medición, presentación, revelación:
+      h2 1.7 Reconocimiento, medición, presentación, revelación:
 
     p.mb-3 En el presente ítem se aborda conceptos que determinan el reconocimiento de los instrumentos de patrimonio, a su vez presenta ejemplos que acompañan el proceso de aplicabilidad.
 
