@@ -143,67 +143,67 @@ export default {
     ],
   },
   creditos: {
-    liderEquipo: {
-      nombre: 'Maria Camila Garcia Santamaria',
-      cargo: 'Líder del equipo',
-      regional: 'Dirección General',
-    },
+    liderEquipo: [
+      {
+        nombre: 'Maria Camila Garcia Santamaria',
+        cargo: 'Líder del equipo',
+        centro: 'Dirección General',
+      },
+    ],
     contenidoInstruccional: [
       {
         nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Asesor pedagógico',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
+        cargo: 'Asesor metodológico y pedagógico',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Fernando Ibáñez Quiñonez',
         cargo: 'Instructor',
-        centro: 'Centros de Servicios Financieros.',
+        centro: 'Centros de Servicios Financieros - Regional Distrito Capital',
       },
       {
         nombre: 'Maryuri Agudelo Franco',
         cargo: 'Diseñadora Instruccional',
-        centro: 'Centro de Diseño y Metrología',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [
       {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del equipo',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Integración de recursos y pruebas',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Tolima',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Tolima',
       },
       {
         nombre: ['Luis Arévalo'],
         cargo: 'Diseño web',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Gustavo Adolfo Marún Suárez',
         cargo: 'Desarrollo Front-End',
-        centro: 'Centro Industrial del Diseño y la Manufactura',
-        regional: 'Regional Santander',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Yuli Marcela Gómez Tarazona',
         cargo: 'Validación de diseño y contenido',
-        centro: 'Centro de Comercio y Servicios',
-        regional: 'Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
     ],
     gestoresRepositorio: [
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: ['Validación y vinculación en plataforma LMS'],
-        centro: 'Centro de comercio y servicios',
-        regional: 'Regional Tolima',
+        centro: 'Centro de comercio y servicios - Regional Tolima',
       },
     ],
   },
