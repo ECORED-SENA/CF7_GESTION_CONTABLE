@@ -7,7 +7,7 @@
       .titulo-principal__numero
         span
           i.fas.fa-info
-      h1 introducción   
+      h1 Introducción   
     
     .row.justify-content-center.align-items-center.mb-5
       .col-auto
