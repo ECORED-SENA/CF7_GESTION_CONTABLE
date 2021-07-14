@@ -17,6 +17,8 @@
 
     p.mb-3 Nota aclaratoria: las tablas que se toman como referencia en los ejemplos de cada uno de los temas desarrollados, elaboradas mediante el programa Excel son derivadas de estos ejercicios, la elaboración es propia del autor del presente componente, por lo tanto, no se numeran y no se establece un nombre específico.
 
+    
+
    
 
 </template>

@@ -9,7 +9,7 @@
 
     p.mt-4.mb-4 A continuación, se relacionan algunos conceptos que se deben tener en cuenta en el reconocimiento y medición de instrumentos financieros:
 
-    .row.mb-5
+    .row.mb-4
       .col-lg-12
         .tarjeta-avatar-b.mb-5
           img(src='@/assets/curso/images/tema1/ico_1.svg' alt='AvatarTop')
@@ -34,6 +34,15 @@
             .p-4
               h4 Patrimonio
               p Un instrumento de patrimonio es cualquier contrato que ponga de manifiesto una participación residual en los activos de una entidad, después de deducir todos sus pasivos. (Norma Internacional de Contabilidad, s.f. p.2).
+
+    p.mb-4 Para ampliar la información pertinente a los instrumentos financieros (activos, pasivos e instrumentos de patrimonio), haga click en el siguiente enlace:
+    .row.mb-5
+      .col-auto
+        a.anexo.mb-4(:href="obtenerLink('downloads/Infografia_ Instrumentos_financieros.pdf')" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-pdf.svg")
+          .anexo__texto
+            p Anexo. Instrumentos financieros: activos, pasivos e instrumentos de patrimonio
     
     #t_1_1.titulo-segundo
       h2 1.1  Política contable
