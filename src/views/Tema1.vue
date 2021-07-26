@@ -35,7 +35,7 @@
               h4 Patrimonio
               p Un instrumento de patrimonio es cualquier contrato que ponga de manifiesto una participación residual en los activos de una entidad, después de deducir todos sus pasivos. (Norma Internacional de Contabilidad, s.f. p.2).
 
-    p.mb-4 Para ampliar la información pertinente a los instrumentos financieros (activos, pasivos e instrumentos de patrimonio), haga click en el siguiente enlace:
+    p.mb-4 Para ampliar la información pertinente a los instrumentos financieros (activos, pasivos e instrumentos de patrimonio), haga clic en el siguiente enlace:
     .row.mb-5
       .col-auto
         a.anexo.mb-4(:href="obtenerLink('downloads/Infografia_ Instrumentos_financieros.pdf')" target="_blank")
@@ -118,13 +118,13 @@
       .col-lg-6
         .cajon.color-secundario.p-4.mb-4.mt-4
           .h5 Ejemplo
-          p El 17/11/año 1 la sociedad Contable SAS vendió a crédito 5.000 unidades del producto ZV a $ 100,50 por unidad, se ha concedido sobre la factura un descuento de $ 11.400, El pago se realizará dentro de 2 años y el descuento es del 5%.
+          p El 17/11/año 1 la sociedad Contable SAS vendió a crédito 5.000 unidades del producto ZV a $ 100,50 por unidad, se ha concedido sobre la factura un descuento de $ 11.400, El pago se realizará dentro de 2 años y el descuento es del 5 %.
       .col-lg-6.mb-2 
         p <b>Solución:</b>
         .tabla-b.color-acento-contenido
           .tabla-b__header
             .h6.mb-0.text-white Factura
-        table
+        table.tdright
           tr
             th Precio factura
             td 502.500
@@ -135,7 +135,7 @@
             th Base gravable
             td 491.100
           tr
-            th IVA 19%
+            th IVA 19 %
             td 95.475
           tr
             th Total, facturado
@@ -144,7 +144,7 @@
 
 
     p.mt-4 El crédito constituye para el vendedor un activo financiero, pues es un derecho contractual.
-    p.mb-5  Como es una transacción a largo plazo año, se debe reconocer el valor del dinero en el tiempo a la tasa del 5% efectiva anual, lo que implica el cálculo del valor presente del valor de la venta neta (491.100) para reconocer al final del año 1 y 2 el ajuste por concepto de los gastos financieros así:
+    p.mb-5  Como es una transacción a largo plazo año, se debe reconocer el valor del dinero en el tiempo a la tasa del 5 % efectiva anual, lo que implica el cálculo del valor presente del valor de la venta neta (491.100) para reconocer al final del año 1 y 2 el ajuste por concepto de los gastos financieros así:
       
     SlyderC.slyder-C_content(:datos="datosSlyder")
      
@@ -222,7 +222,7 @@
         .col-lg-6
           .cajon.color-secundario.p-4.mb-4
             .h5 Ejemplo 1:
-            p La empresa Contable SAS, adquiere un préstamo para desarrollar un proyecto de expansión, por $200.000.000 con una tasa de interés sobre el préstamo pactado en un 2,5% del interés pactado, 2,5% es el costo financiero que debe asumir por el préstamo recibido.
+            p La empresa Contable SAS, adquiere un préstamo para desarrollar un proyecto de expansión, por $200.000.000 con una tasa de interés sobre el préstamo pactado en un 2,5 % del interés pactado, 2,5 % es el costo financiero que debe asumir por el préstamo recibido.
         .col-auto
           img.img-jumbotron-padding(src='@/assets/curso/images/tema1/img_4.svg' alt="", style="width:340px; display:block; margin:auto 3rem;")
 
@@ -270,11 +270,11 @@
 
     p.mb-5 Tabla de amortización: para determinar los costos financieros a ajustar en cada periodo
         .tabla-a.color-acento-contenido.mb-5
-          table
+          table.tdright
             thead
               tr.th-1.text-center
                 th PERIODOS
-                th EMONTO INICIA
+                th MONTO INICIAL
                 th INTERESES
                 th MONTO FINAL
             tbody
@@ -313,7 +313,7 @@
 
     #t_1_4.titulo-segundo
       h2 1.4 Pasivos contingentes
-    p Es una obligación posible porque depende de que en el futuro ocurra algo que está fuera del alcance de la empresa para que sea reconocido el compromiso, por lo que los pasivos contingentes no se reconocen, pero si se revelan.
+    p Es una obligación posible porque depende de que en el futuro ocurra algo que está fuera del alcance de la empresa para que sea reconocido el compromiso, por lo que los pasivos contingentes no se reconocen, pero sí se revelan.
       
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
@@ -398,12 +398,11 @@
       .col-10
         .tabla-a.color-acento-contenido.mb-5
           table
-            thead
-              tr.th-1.text-center
-                th Suscripción
-                th 52
-                th Bonos
             tbody
+              tr
+                td Suscripción
+                td 52
+                td Bonos
               tr
                 td Valor emisión
                 td 7.000
@@ -414,7 +413,7 @@
                 td Pesos por bono
               tr
                 td Fecha reembolso
-                td 31-12-año 2
+                td 31/12/año 2
                 td 
               tr
                 td Gastos de emisión
@@ -422,7 +421,7 @@
                 td Pesos
               tr
                 td Interés anual
-                td 3%
+                td 3 %
                 td EA
 
 
@@ -485,11 +484,11 @@
       .col-10
         .cajon.color-secundario.p-4.mb-4
           .h5 Ejemplo
-          p.mb-3 La sociedad Contable SAS consultores adquiere un préstamo para compra de una propiedad inmobiliaria, por un valor de $128.000.000, le descuentan $400.000 para gastos de estudio del crédito. La tasa pactada es del 18% EA, con pago a 5 cuotas anuales iguales.
+          p.mb-3 La sociedad Contable SAS consultores adquiere un préstamo para compra de una propiedad inmobiliaria, por un valor de $128.000.000, le descuentan $400.000 para gastos de estudio del crédito. La tasa pactada es del 18 % EA, con pago a 5 cuotas anuales iguales.
     p Calculamos el valor de la cuota utilizando la herramienta pago en funciones financieras
     |=PAGO
     br
-    |=40468926,49
+    |= $ 40.468.926,49
     br
     br
     p.mb-3 <b>TABLA DE AMORTIZACIÓN CONTRACTUAL:</b> para el reconocimiento de los abonos a capital e intereses incluidos en cada cuota por pagar.

@@ -6,7 +6,7 @@
     .titulo-principal
       .titulo-principal__numero
         span 2
-      h1 Instrumentos financieros: activos, pasivos e instrumentos de patrimonio
+      h1 Instrumentos de patrimonio
 
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-6
@@ -14,7 +14,7 @@
         br
         p Algunos ejemplos de instrumentos de patrimonio, son las acciones ordinarias, ciertos tipos de acciones preferentes, así como, las opciones u otro tipo de derechos o bonos para la suscripción o compra de acciones ordinarias de la empresa.
         br
-        p continuación, se relaciona un ejemplo específico de ello :
+        p A continuación, se relaciona un ejemplo específico de ello :
         br
         p.mb-5 Una obligación (contrato) que será cancelado por la entidad entregando o recibiendo una cantidad acordada de sus instrumentos de patrimonio propio a cambio de un importe fijo en efectivo o cualquier otro activo financiero será un instrumento de patrimonio.
       .col-lg-6
@@ -27,7 +27,7 @@
     
     .h5.mt-5.mb-4 Reconocimiento
 
-    p Una entidad reconocerá la emisión de acciones o de otros instrumentos de patrimonio cuando emita esos instrumentos y otra parte esté obligada a proporcionar efectivo u otros recursos a la entidad a cambio de éstos. (Pasivos y patrimonio 2009, s.f).
+    p Una entidad reconocerá la emisión de acciones o de otros instrumentos de patrimonio cuando emita esos instrumentos y otra parte esté obligada a proporcionar efectivo u otros recursos a la entidad a cambio de estos. (Pasivos y patrimonio 2009, s.f).
     
     .row.justify-content-center.align-items-center.mt-5
       .col-lg-6
@@ -94,11 +94,11 @@
               p <b>Pagado:</b> Es la parte del capital suscrito que los accionistas han cancelado y que efectivamente se encuentran en poder de la sociedad.
           .cajon.color-secundario.p-4.mt-5.mb-4
             .h5 Ejemplo: 
-            p.mb-3 En 2017 se constituyó la empresa Aprendiendo S.A., con un capital autorizado de 120.000 acciones con un valor por acción de $2.500, los accionistas suscribieron el 50% de las acciones autorizadas y pagaron el 70% de la suscripción.
+            p.mb-3 En 2017 se constituyó la empresa Aprendiendo S.A., con un capital autorizado de 120.000 acciones con un valor por acción de $2.500, los accionistas suscribieron el 50 % de las acciones autorizadas y pagaron el 70 % de la suscripción.
       .col-lg-6
         img.img-jumbotron-padding(src='@/assets/curso/images/tema2/img_11.svg' alt="", style="width:500px; display:block; margin:auto 0;")
       
-      h4.titulo-cuarto  Reconocimiento Inicial
+      h4.titulo-cuarto  Reconocimiento inicial
 
       
     .row.justify-content-center.align-items-center.mt-5
@@ -168,7 +168,7 @@
               br
               br
               p 300.000.000
-              P 50%
+              P 50 %
               
       .col-12.col-md-8.col-lg-6.col-xl-6
         .jumbotron-cafe.p-4
@@ -186,7 +186,7 @@
               br           
             .col-12.col-md-8.col-lg-6.col-xl-6
               p 150.000.000
-              P 70%
+              P 70 %
               br     
               br        
               p 105.000.000
@@ -230,44 +230,42 @@
     separador
     
     #t_2_3.titulo-segundo
-      h2 2.3 Ganancias Acumuladas
+      h2 2.3 Ganancias acumuladas
     
     p Es el dinero guardado que no es entregado a los accionistas en forma de dividendos, estas ganancias se encuentran en el patrimonio como ganancias acumuladas en el estado de Situación Financiera.
   
-    p.mb-5 Este tiene como objetivo,  el estado de cambios en el patrimonio es un estado financiero que muestra los cambios en el mismo de un periodo con respecto a otro, y uno de los cambios más significativos tiene que ver precisamente con la política de dividendos que maneje la entidad, pues puede ocurrir que tenga como política no repartir el 100% de las utilidades del ejercicio, de tal manera que la parte no decretada para reparto queda acumulada para cuando los socios decidan distribuirla en los accionistas.
+    p.mb-5 Este tiene como objetivo,  el estado de cambios en el patrimonio es un estado financiero que muestra los cambios en el mismo de un periodo con respecto a otro, y uno de los cambios más significativos tiene que ver precisamente con la política de dividendos que maneje la entidad, pues puede ocurrir que tenga como política no repartir el 100 % de las utilidades del ejercicio, de tal manera que la parte no decretada para reparto queda acumulada para cuando los socios decidan distribuirla en los accionistas.
 
     separador
 
     #t_2_4.titulo-segundo
       h2 2.4 Reservas
-    p.mb-5 Están contempladas en el artículo 452,453 y 454 del Código del comercio, sección II reparto de utilidades.
+    p.mb-5 Están contempladas en el artículo 452, 453 y 454 del Código del comercio, sección II reparto de utilidades.
 
     TabsC.color-acento-contenido.mb-5
         .py-3.py-md-4(titulo="Art. 452")
           .row
             .col-12
               .h6.mb-3  Reserva Legal
-              p Art. 452. Reserva Legal. Las sociedades anónimas constituirán una reserva legal que ascenderá por lo menos al cincuenta por ciento del capital suscrito, formada con el diez por ciento de las utilidades líquidas de cada ejercicio. Cuando esta reserva llegue al cincuenta por ciento mencionado, la sociedad no tendrá obligación de continuar llevando a esta cuenta el diez por ciento de las utilidades líquidas. Pero si disminuye, volverá a apropiarse el mismo diez por ciento de tales utilidades hasta cuando la reserva llegue nuevamente al límite fijado. Conc.: 110 numº 8o, 154, 271 numº 4o, 272 num. 5º, 350, 371, 454, 456, 476. (Legis. 2020).
+              p Art. 452. Reserva Legal. Las sociedades anónimas constituirán una reserva legal que ascenderá por lo menos al cincuenta por ciento del capital suscrito, formada con el diez por ciento de las utilidades líquidas de cada ejercicio. Cuando esta reserva llegue al cincuenta por ciento mencionado, la sociedad no tendrá obligación de continuar llevando a esta cuenta el diez por ciento de las utilidades líquidas. Pero si disminuye, volverá a apropiarse el mismo diez por ciento de tales utilidades hasta cuando la reserva llegue nuevamente al límite fijado. Conc.: 110 num. 8°, 154, 271 num. 4°, 272 num. 5°, 350, 371, 454, 456, 476. (Legis. 2020).
                              
         .py-3.py-md-4(titulo="Art. 453")
           .row
             .col-12
               .h6.mb-3  Reservas estatutarias y ocasionales 
-              p Art. 453. Reservas estatutarias y ocasionales. Las reservas estatutarias serán obligatorias mientras no se supriman mediante una reforma del contrato social, o mientras no alcancen el monto previsto para las mismas. Las reservas ocasionales que ordene la asamblea sólo serán obligatorias para el ejercicio en el cual se hagan y la misma asamblea podrá cambiar su destinación o distribuirlas cuando resulten innecesarias. (leyes estatutarias 2020).                     
+              p Art. 453. Reservas estatutarias y ocasionales. Las reservas estatutarias serán obligatorias mientras no se supriman mediante una reforma del contrato social, o mientras no alcancen el monto previsto para las mismas. Las reservas ocasionales que ordene la asamblea solo serán obligatorias para el ejercicio en el cual se hagan y la misma asamblea podrá cambiar su destinación o distribuirlas cuando resulten innecesarias. (leyes estatutarias 2020).
         .py-3.py-md-4(titulo="Art. 454")
           .row     
             .col-12
               .h6.mb-3  Incremento en el porcentaje de distribución de utilidades
-              p Art. 454. _ Incremento en el porcentaje de distribución de utilidades. Si la suma de las reservas legal, estatutaria y ocasional excediere del ciento por ciento (100%) del capital suscrito, el porcentaje obligatorio de utilidades líquidas que deberá repartir la sociedad conforme al artículo 155, se elevará al setenta por ciento. (Código Comercio Colombiano. 1971)
+              p Art. 454. _ Incremento en el porcentaje de distribución de utilidades. Si la suma de las reservas legal, estatutaria y ocasional excediere del ciento por ciento (100 %) del capital suscrito, el porcentaje obligatorio de utilidades líquidas que deberá repartir la sociedad conforme al artículo 155, se elevará al setenta por ciento. (Código Comercio Colombiano. 1971)
               br
-              p La reserva legal es un ahorro que las empresas por mandato legal en Colombia están obligadas a utilizar con el fin de proteger el capital y preservar las empresas en el futuro evitando disolverse o liquidarse por la disminución de su patrimonio. Las sociedades limitadas, las anónimas, en comandita por acciones y las extranjeras. Deben hacer uso de la figura reserva legal. En el primer año, no se efectúan reservas; es decir, no aplica el 10% sobre las utilidades.
-              br
-              p Según el del Código del comercio, sección II reparto de utilidades artículo 456, las reservas se utilizan para
-
+              p La reserva legal es un ahorro que las empresas por mandato legal en Colombia están obligadas a utilizar con el fin de proteger el capital y preservar las empresas en el futuro evitando disolverse o liquidarse por la disminución de su patrimonio. Las sociedades limitadas, las anónimas, en comandita por acciones y las extranjeras. Deben hacer uso de la figura reserva legal. En el primer año, no se efectúan reservas; es decir, no aplica el 10 % sobre las utilidades.
+              
         .py-3.py-md-4(titulo="Art. Art. 456")
           .row     
             .col-12
-              p.mb-2 Según el del Código del comercio, sección II reparto de utilidades artículo 456, las reservas se utilizan para:
+              p.mb-2 Según el Código del comercio, sección II reparto de utilidades artículo 456, las reservas se utilizan para:
               .h6.mb-3  Manejo de pérdidas
               p Art. 456. Manejo de pérdidas. Las pérdidas se enjugarán con las reservas que hayan sido destinadas especialmente para ese propósito y, en su defecto, con la reserva legal. Las reservas cuya finalidad fuere la de absorber determinadas pérdidas no se podrán emplear para cubrir otras distintas, salvo que así lo decida la asamblea. Si la reserva legal fuere insuficiente para enjugar el déficit de capital, se aplicarán a este fin los beneficios sociales de los ejercicios siguientes.
               br
@@ -278,11 +276,11 @@
             .col-12
               p Art. 371. Reserva Legal, balances y reparto de utilidades. La sociedad formará una reserva legal, con sujeción a las reglas establecidas para la anónima. Estas mismas reglas se observarán en cuanto a los balances de fin de ejercicio y al reparto de utilidades. (Código Comercio Colombiano. 2020b).
               br  
-              p En las sociedades extranjeras aplicará el 10% de reserva legal, como es aplicada en las sociedades anónimas sin importar el tamaño de empresa. 
+              p En las sociedades extranjeras aplicará el 10 % de reserva legal, como es aplicada en las sociedades anónimas sin importar el tamaño de empresa. 
 
         .py-3.py-md-4(titulo="Art. 476")
           .row     
-            .col-md-6.mb-4.mb-md-0
+            .col-md-9.mb-4.mb-md-0
               p.mb-2 Acorde al Libro Segundo De las Sociedades Extranjeras, Artículo 476 Código Comercio Colombiano:
           .row.justify-content-center.align-items-center.mb-5.mt-5
             .col-4 
@@ -297,15 +295,15 @@
                     td
                       .h6.mb-0 5.000.000,00 
                   tr
-                    th Menos impuesto de renta 32%
+                    th Menos impuesto de renta 32 %
                     td
                       .h6.mb-0 1.600.000,00
                   tr
                     th Utilidad neta
                     td
-                      .h6.mb-0  3.400.000 
+                      .h6.mb-0  3.400.000,00
                   tr
-                    th Reserva Legal 10%
+                    th Reserva Legal 10 %
                     td
                       .h6.mb-0 340.000,00
                   tr
@@ -319,7 +317,7 @@
     #t_2_5.titulo-segundo
       h2 2.5 Otro resultado integral (ORI)  
     
-    p.mt-5 Una entidad presentará su resultado integral total para un periodo: en un único estado del resultado integral, en cuyo caso el estado del resultado integral presentará todas las partidas de ingreso y gasto reconocidas en el periodo además de las partidas correspondientes a utilidades no realizadas, o en dos estados -un estado de resultados y un estado del resultado integral-, en cuyo caso el estado de resultados presentará todas las partidas de ingreso y gasto reconocidas en el periodo excepto las que estén reconocidas en el resultado integral total fuera del resultado.
+    p.mt-5 Una entidad presentará su resultado integral total para un periodo: en un único estado del resultado integral, en cuyo caso el estado del resultado integral presentará todas las partidas de ingreso y gasto reconocidas en el periodo además de las partidas correspondientes a utilidades no realizadas, o en dos estados —un estado de resultados y un estado del resultado integral—, en cuyo caso el estado de resultados presentará todas las partidas de ingreso y gasto reconocidas en el periodo excepto las que estén reconocidas en el resultado integral total fuera del resultado.
     br
     p.mb-4 Se reconocen como otro resultado integral y forman parte del resultado integral total, cuando se producen:
 

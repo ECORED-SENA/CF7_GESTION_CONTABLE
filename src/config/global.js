@@ -77,8 +77,7 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo:
-          'Instrumentos financieros: Activos, pasivos e instrumentos de patrimonio',
+        titulo: 'Instrumentos de patrimonio',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -130,11 +129,11 @@ export default {
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
       },
-      {
+      /*{
         icono: 'fas fa-download',
         titulo: 'Descargar material',
         download: 'downloads/material.zip',
-      },
+      },*/
       {
         icono: 'far fa-registered',
         titulo: 'Créditos',
