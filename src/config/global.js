@@ -278,13 +278,6 @@ export default {
   complementario: [
     {
       texto:
-        'Apuntes de Contabilidad básica.Capítulo 1-Vilches, Troncoso, Ricardo. Apuntes de contabilidad básica, El Cid Editor, 2019. ProQuest Ebook Central',
-      tipo: 'Libro electrónico',
-      link:
-        'https://login.bdigital.sena.edu.co/login?url=https://ebookcentral.proquest.com/lib/senavirtualsp/detail.action?docID=3161303',
-    },
-    {
-      texto:
         'Contabilidad 1. Instrumentos Financieros-Guerrero Reyes, J. C. (2015). Contabilidad 1. Grupo Editorial Patria.',
       tipo: 'Libro electrónico',
       link:
@@ -309,20 +302,6 @@ export default {
         'La nueva Formación en NIIF en los programas de contabilidad y finanzas del CSF. Una aproximación desde el conocimiento de los aprendices. Artículo-Rincón Vargas, J. E., & Castillo Prada, K. N. (2018). La formación en NIIF en los programas de contabilidad y finanzas del CSF. Una aproximación desde el conocimiento de los aprendices. Revista Finnova: Investigación E Innovación Financiera Y Organizacional, 2(4).',
       tipo: 'Libro electrónico',
       link: 'https://doi.org/10.23850/24629758.1389',
-    },
-    {
-      texto:
-        'Prácticas de ContabilidadCapítulo 1-Aguilar, Lámbarry, Hanni Angélica. Prácticas de contabilidad, Grupo Editorial Patria, 2017. ProQuest Ebook Central.',
-      tipo: 'Libro electrónico',
-      link:
-        'https://login.bdigital.sena.edu.co/login?url=https://ebookcentral.proquest.com/lib/senavirtualsp/detail.action?docID=5213543',
-    },
-    {
-      texto:
-        'Valoración de instrumentos financieros. Pasivos financieros-Meza Orozco, J. D. J. (2016). Valoración de instrumentos financieros en NIIF para pymes (2a. ed.). Ediciones de la U.',
-      tipo: 'Libro electrónico',
-      link:
-        'https://login.bdigital.sena.edu.co/login?url=https://elibro.net/es/ereader/senavirtual/70273?page=5',
     },
   ],
 }
