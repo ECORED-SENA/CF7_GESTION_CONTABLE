@@ -95,7 +95,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '2.3',
-            titulo: 'Ganancias Acumuladas',
+            titulo: 'Ganancias acumuladas',
             hash: 't_2_3',
           },
           {
@@ -281,7 +281,7 @@ export default {
         'Apuntes de Contabilidad básica.Capítulo 1-Vilches, Troncoso, Ricardo. Apuntes de contabilidad básica, El Cid Editor, 2019. ProQuest Ebook Central',
       tipo: 'Libro electrónico',
       link:
-        'https://ebookcentral-proquest-com.bdigital.sena.edu.co/lib/senavirtualsp/detail.action?docID=3161303',
+        'https://login.bdigital.sena.edu.co/login?url=https://ebookcentral.proquest.com/lib/senavirtualsp/detail.action?docID=3161303',
     },
     {
       texto:
@@ -315,14 +315,14 @@ export default {
         'Prácticas de ContabilidadCapítulo 1-Aguilar, Lámbarry, Hanni Angélica. Prácticas de contabilidad, Grupo Editorial Patria, 2017. ProQuest Ebook Central.',
       tipo: 'Libro electrónico',
       link:
-        'https://ebookcentral-proquest-com.bdigital.sena.edu.co/lib/senavirtualsp/detail.action?docID=5213543',
+        'https://login.bdigital.sena.edu.co/login?url=https://ebookcentral.proquest.com/lib/senavirtualsp/detail.action?docID=5213543',
     },
     {
       texto:
         'Valoración de instrumentos financieros. Pasivos financieros-Meza Orozco, J. D. J. (2016). Valoración de instrumentos financieros en NIIF para pymes (2a. ed.). Ediciones de la U.',
       tipo: 'Libro electrónico',
       link:
-        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/70273?page=5',
+        'https://login.bdigital.sena.edu.co/login?url=https://elibro.net/es/ereader/senavirtual/70273?page=5',
     },
   ],
 }

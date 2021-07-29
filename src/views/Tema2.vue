@@ -262,7 +262,7 @@
               br
               p La reserva legal es un ahorro que las empresas por mandato legal en Colombia están obligadas a utilizar con el fin de proteger el capital y preservar las empresas en el futuro evitando disolverse o liquidarse por la disminución de su patrimonio. Las sociedades limitadas, las anónimas, en comandita por acciones y las extranjeras. Deben hacer uso de la figura reserva legal. En el primer año, no se efectúan reservas; es decir, no aplica el 10 % sobre las utilidades.
               
-        .py-3.py-md-4(titulo="Art. Art. 456")
+        .py-3.py-md-4(titulo="Art. 456")
           .row     
             .col-12
               p.mb-2 Según el Código del comercio, sección II reparto de utilidades artículo 456, las reservas se utilizan para:
