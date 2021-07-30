@@ -234,7 +234,7 @@
     
     p Es el dinero guardado que no es entregado a los accionistas en forma de dividendos, estas ganancias se encuentran en el patrimonio como ganancias acumuladas en el estado de Situación Financiera.
   
-    p.mb-5 Este tiene como objetivo,  el estado de cambios en el patrimonio es un estado financiero que muestra los cambios en el mismo de un periodo con respecto a otro, y uno de los cambios más significativos tiene que ver precisamente con la política de dividendos que maneje la entidad, pues puede ocurrir que tenga como política no repartir el 100 % de las utilidades del ejercicio, de tal manera que la parte no decretada para reparto queda acumulada para cuando los socios decidan distribuirla en los accionistas.
+    p.mb-5 De igual forma se relaciona en el estado de cambios en el patrimonio; cuyo objetivo, es mostrar los cambios o variaciones presentadas de un periodo a otro. Entre las variaciones que se analizan y que son significativas para dicho estado financiero, se puede observar la política de dividendos que maneja la entidad, donde se encuentra estipulado no distribuir el 100% de las utilidades del ejercicio, de tal manera, que la parte no decretada para reparto, queda acumulada hasta tanto los socios decidan distribuirla entre los accionistas.
 
     separador
 
@@ -247,7 +247,7 @@
           .row
             .col-12
               .h6.mb-3  Reserva Legal
-              p Art. 452. Reserva Legal. Las sociedades anónimas constituirán una reserva legal que ascenderá por lo menos al cincuenta por ciento del capital suscrito, formada con el diez por ciento de las utilidades líquidas de cada ejercicio. Cuando esta reserva llegue al cincuenta por ciento mencionado, la sociedad no tendrá obligación de continuar llevando a esta cuenta el diez por ciento de las utilidades líquidas. Pero si disminuye, volverá a apropiarse el mismo diez por ciento de tales utilidades hasta cuando la reserva llegue nuevamente al límite fijado. Conc.: 110 num. 8°, 154, 271 num. 4°, 272 num. 5°, 350, 371, 454, 456, 476. (Legis. 2020).
+              p Art. 452. Reserva Legal. Las sociedades anónimas constituirán una reserva legal que ascenderá por lo menos al cincuenta por ciento del capital suscrito, formada con el diez por ciento de las utilidades líquidas de cada ejercicio. Cuando esta reserva llegue al cincuenta por ciento mencionado, la sociedad no tendrá obligación de continuar llevando a esta cuenta el diez por ciento de las utilidades líquidas. Pero si disminuye, volverá a apropiarse el mismo diez por ciento de tales utilidades hasta cuando la reserva llegue nuevamente al límite fijado. Conc.: 110 núm. 8°, 154, 271 núm. 4°, 272 núm. 5°, 350, 371, 454, 456, 476. (Legis. 2020).
                              
         .py-3.py-md-4(titulo="Art. 453")
           .row
