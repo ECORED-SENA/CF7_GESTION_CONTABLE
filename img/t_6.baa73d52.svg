@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1269.443" height="393" viewBox="0 0 1269.443 393">
+  <g id="Grupo_54985" data-name="Grupo 54985" transform="translate(-161 -9142)">
+    <g id="Trazado_102751" data-name="Trazado 102751" transform="translate(161 9142)" fill="#f3f9ff">
+      <path d="M 1268.94287109375 392.5 L 0.5000509023666382 392.5 L 0.5000509023666382 0.5 L 1268.94287109375 0.5 L 1268.94287109375 392.5 Z" stroke="none"/>
+      <path d="M 1 1 L 1 392 L 1268.44287109375 392 L 1268.44287109375 1 L 1 1 M 0 0 L 1269.44287109375 0 L 1269.44287109375 393 L 0 393 L 0 0 Z" stroke="none" fill="#e8e8e8"/>
+    </g>
+    <g id="Grupo_53416" data-name="Grupo 53416" transform="translate(-84 3128)">
+      <rect id="Rectángulo_5411" data-name="Rectángulo 5411" width="1228" height="54" transform="translate(264 6131.676)" fill="#f6f6f6"/>
+      <rect id="Rectángulo_5412" data-name="Rectángulo 5412" width="1228" height="70" transform="translate(264 6185.676)" fill="#fff"/>
+      <text id="AÑO_2" data-name="AÑO 2" transform="translate(297 6209.676)" fill="#12263f" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-26.117" y="19">AÑO 2</tspan></text>
+      <text id="AÑO_1" data-name="AÑO 1" transform="translate(297 6146)" fill="#12263f" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-26.117" y="19">AÑO 1</tspan></text>
+      <text id="_365.000_00" data-name="365.000,00" transform="translate(520 6146)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">365.000,00</tspan></text>
+      <text id="_390.441_89" data-name="390.441,89" transform="translate(520 6210)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">390.441,89</tspan></text>
+      <text id="_36.361_89" data-name="36.361,89" transform="translate(729 6146)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">36.361,89</tspan></text>
+      <text id="_38.896_45" data-name="38.896,45" transform="translate(729 6210)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">38.896,45</tspan></text>
+      <text id="_10.920_00" data-name="10.920,00" transform="translate(950 6146)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">10.920,00</tspan></text>
+      <text id="_10.920_00-2" data-name="10.920,00" transform="translate(950 6210)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">10.920,00</tspan></text>
+      <text id="_25.441_89" data-name="25.441,89" transform="translate(1154 6146)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">25.441,89</tspan></text>
+      <text id="_27.976_45" data-name="27.976,45" transform="translate(1154 6210)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">27.976,45</tspan></text>
+      <text id="_390.442" data-name="390.442" transform="translate(1353 6146)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">390.442</tspan></text>
+      <text id="_418.418" data-name="418.418" transform="translate(1353 6210)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">418.418</tspan></text>
+      <line id="Línea_153" data-name="Línea 153" x2="0.5" y2="123.824" transform="translate(472 6131.676)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-width="1"/>
+      <line id="Línea_156" data-name="Línea 156" x2="0.5" y2="123.824" transform="translate(680 6131.676)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-width="1"/>
+      <line id="Línea_157" data-name="Línea 157" x2="0.5" y2="123.824" transform="translate(883.75 6131.676)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-width="1"/>
+      <line id="Línea_158" data-name="Línea 158" x2="0.5" y2="123.824" transform="translate(1096 6131.676)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-width="1"/>
+      <line id="Línea_159" data-name="Línea 159" x2="0.5" y2="123.824" transform="translate(1304 6131.676)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-width="1"/>
+      <path id="Trazado_99538" data-name="Trazado 99538" d="M0,0H1228V80.222H0Z" transform="translate(264 6051.45)" fill="#d9a171"/>
+      <text id="AÑOS" transform="translate(360 6100.061)" fill="#fff" font-size="24" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-32.396" y="0">AÑOS</tspan></text>
+      <text id="SALDO_INICIAL" data-name="SALDO INICIAL" transform="translate(486 6077.061)" fill="#fff" font-size="24" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-83.063" y="25">SALDO INICIAL</tspan></text>
+      <text id="INTERÉS_EFECTIVO" data-name="INTERÉS
+EFECTIVO" transform="translate(694 6064)" fill="#fff" font-size="24" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-48.381" y="25">INTERÉS</tspan><tspan x="-55.02" y="57">EFECTIVO</tspan></text>
+      <text id="INTERÉS_EXPLÍCITO" data-name="INTERÉS
+EXPLÍCITO" transform="translate(920 6064)" fill="#fff" font-size="24" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-48.381" y="25">INTERÉS</tspan><tspan x="-59.49" y="57">EXPLÍCITO</tspan></text>
+      <text id="INTERÉS_IMPLÍCITO" data-name="INTERÉS
+IMPLÍCITO" transform="translate(1110 6064)" fill="#fff" font-size="24" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-48.381" y="25">INTERÉS</tspan><tspan x="-59.256" y="57">IMPLÍCITO</tspan></text>
+      <text id="SALDO" transform="translate(1321 6064)" fill="#fff" font-size="24" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-38.232" y="25">SALDO</tspan></text>
+    </g>
+  </g>
+</svg>

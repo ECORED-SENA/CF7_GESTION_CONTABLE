@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1227" height="470" viewBox="0 0 1227 470">
+  <g id="Grupo_54989" data-name="Grupo 54989" transform="translate(-182 -1286.278)">
+    <g id="Rectángulo_6892" data-name="Rectángulo 6892" transform="translate(182 1286.278)" fill="#f3f9ff" stroke="#e8e8e8" stroke-width="1">
+      <rect width="1227" height="470" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1226" height="469" fill="none"/>
+    </g>
+    <g id="Grupo_54954" data-name="Grupo 54954" transform="translate(-11 33.127)">
+      <rect id="Rectángulo_5425" data-name="Rectángulo 5425" width="573" height="114.128" transform="translate(520 1363.827)" fill="#f6f6f6"/>
+      <rect id="Rectángulo_5427" data-name="Rectángulo 5427" width="573" height="121.937" transform="translate(520 1477.955)" fill="#fff"/>
+      <text id="Valores_representativos_de_deudas_a_largo_plazo" data-name="Valores representativos de deudas a largo plazo" transform="translate(542 1500.019)" fill="#12263f" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="19">Valores </tspan><tspan x="0" y="46">representativos de </tspan><tspan x="0" y="73">deudas a largo plazo</tspan></text>
+      <text id="Valores_representativos_de_deudas_a_corto_plazo" data-name="Valores representativos de deudas a corto plazo" transform="translate(542 1385.827)" fill="#12263f" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="19">Valores </tspan><tspan x="0" y="46">representativos de </tspan><tspan x="0" y="73">deudas a corto plazo</tspan></text>
+      <text id="_390.441_89" data-name="390.441,89" transform="translate(761.965 1408.312)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">390.441,89</tspan></text>
+      <text id="_390.441_89-2" data-name="390.441,89" transform="translate(951 1517.955)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">390.441,89</tspan></text>
+      <line id="Línea_167" data-name="Línea 167" y2="235.951" transform="translate(717 1363.827)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-width="1"/>
+      <line id="Línea_168" data-name="Línea 168" y2="269.951" transform="translate(898.965 1333.827)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-width="1"/>
+      <path id="Trazado_99543" data-name="Trazado 99543" d="M0,0H572.931V60.672H0Z" transform="translate(520 1303.151)" fill="#d9a171"/>
+      <text id="CUENTA" transform="translate(616 1339.827)" fill="#fff" font-size="24" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-46.025" y="0">CUENTA</tspan></text>
+      <text id="DÉBITOS" transform="translate(804 1341.987)" fill="#fff" font-size="24" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-49.031" y="0">DÉBITOS</tspan></text>
+      <text id="CRÉDITOS" transform="translate(993 1339.827)" fill="#fff" font-size="24" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-56.994" y="0">CRÉDITOS</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1227" height="470" viewBox="0 0 1227 470">
+  <g id="Grupo_54991" data-name="Grupo 54991" transform="translate(-182 -1790.278)">
+    <g id="Trazado_102754" data-name="Trazado 102754" transform="translate(182 1790.278)" fill="#f3f9ff">
+      <path d="M 1226.5 469.5 L 0.5 469.5 L 0.5 0.5 L 1226.5 0.5 L 1226.5 469.5 Z" stroke="none"/>
+      <path d="M 1 1 L 1 469 L 1226 469 L 1226 1 L 1 1 M 0 0 L 1227 0 L 1227 470 L 0 470 L 0 0 Z" stroke="none" fill="#e8e8e8"/>
+    </g>
+    <g id="Grupo_54959" data-name="Grupo 54959" transform="translate(329 -9304.404)">
+      <rect id="Rectángulo_5429" data-name="Rectángulo 5429" width="573" height="61.937" transform="translate(180 11205.358)" fill="#f6f6f6"/>
+      <rect id="Rectángulo_5430" data-name="Rectángulo 5430" width="573" height="121.937" transform="translate(180 11267.295)" fill="#fff"/>
+      <text id="Ingresos_de_valores_representativos_de_deuda" data-name="Ingresos de valores representativos de deuda" transform="translate(202 11289.358)" fill="#12263f" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="19">Ingresos de valores </tspan><tspan x="0" y="46">representativos de </tspan><tspan x="0" y="73">deuda</tspan></text>
+      <text id="Bancos" transform="translate(202 11227.358)" fill="#12263f" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="19">Bancos</tspan></text>
+      <text id="_10.920_00" data-name="10.920,00" transform="translate(421.965 11229.358)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">10.920,00</tspan></text>
+      <text id="_10.920_00-2" data-name="10.920,00" transform="translate(611 11323.068)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="17">10.920,00</tspan></text>
+      <line id="Línea_170" data-name="Línea 170" y2="183.873" transform="translate(377 11205.358)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-width="1"/>
+      <line id="Línea_169" data-name="Línea 169" y2="183.873" transform="translate(558.965 11175.358)" fill="none" stroke="#afafaf" stroke-linecap="round" stroke-width="1"/>
+      <path id="Trazado_99544" data-name="Trazado 99544" d="M0,0H572.931V60.672H0Z" transform="translate(180 11144.683)" fill="#d9a171"/>
+      <text id="CUENTA" transform="translate(276 11181.358)" fill="#fff" font-size="24" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-46.025" y="0">CUENTA</tspan></text>
+      <text id="DÉBITOS" transform="translate(464 11183.519)" fill="#fff" font-size="24" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-49.031" y="0">DÉBITOS</tspan></text>
+      <text id="CRÉDITOS" transform="translate(653 11181.358)" fill="#fff" font-size="24" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="-56.994" y="0">CRÉDITOS</tspan></text>
+    </g>
+  </g>
+</svg>
